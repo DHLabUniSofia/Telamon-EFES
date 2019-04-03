@@ -65,12 +65,17 @@
                <persName xml:lang="en">Aurelius Demetrius Apphus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>πρ. ἄρχων</occupation></person>
+            <person xml:id="AT014">
+               <persName xml:lang="grc">Αὐρήλιος Θεόδωρος</persName>
+               <persName xml:lang="en">Aurelius Theodorus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>πρ. ἄρχων</occupation></person>
             <person xml:id="AT214">
                <persName xml:lang="grc">Δομετιανός Κοτυς</persName>
                <persName xml:lang="en">Domitianus Kotys</persName>
                <persName xml:lang="bg"></persName>
                <occupation>πρ. ἄρχων</occupation></person>
-            <person xml:id="AT014">
+            <person xml:id="AT016">
                <persName xml:lang="grc">Αὐρήλιος Ἀπολλωνίδης Ἀπολλοδώρου</persName>
                <persName xml:lang="en"></persName>
                <persName xml:lang="bg"></persName>
