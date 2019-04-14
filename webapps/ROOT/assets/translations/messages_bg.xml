@@ -49,7 +49,7 @@
   <message key="epidoc-xslt-iospe-not-specified-m">Неизвестен</message>
   <message key="epidoc-xslt-iospe-not-specified-letters">Не са посочени</message>
   <message key="epidoc-xslt-iospe-material">Материал</message>
-  <message key="epidoc-xslt-iospe-find-place">Място на намиране</message>
+  <message key="epidoc-xslt-iospe-findspot">Място на намиране</message>
   <message key="epidoc-xslt-iospe-modern-location">Съвременно местонахождение</message>
   <message key="epidoc-xslt-iospe-dimensions">Размери</message>
   <message key="epidoc-xslt-iospe-institution-inventory">Институция и инвентарен номер</message>
@@ -71,7 +71,7 @@
   <message key="h">вис. </message>
   <message key="w"> шир. </message>
   <message key="th"> дълб. </message>
-  <message key="cm">см</message>
+  <message key="cm"> см</message>
   <message key=""></message>
   <message key=""></message>
   <message key=""></message>

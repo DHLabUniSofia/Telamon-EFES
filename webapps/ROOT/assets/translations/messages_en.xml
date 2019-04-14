@@ -49,7 +49,7 @@
   <message key="epidoc-xslt-iospe-not-specified-m">Unknown</message>
   <message key="epidoc-xslt-iospe-not-specified-letters">Not specified</message>
   <message key="epidoc-xslt-iospe-material">Material</message>
-  <message key="epidoc-xslt-iospe-find-place">Find place</message>
+  <message key="epidoc-xslt-iospe-findspot">Findspot</message>
   <message key="epidoc-xslt-iospe-modern-location">Modern location</message>
   <message key="epidoc-xslt-iospe-dimensions">Dimensions</message>
   <message key="epidoc-xslt-iospe-institution-inventory">Institution and inventory</message>
@@ -71,7 +71,7 @@
   <message key="h">h. </message>
   <message key="w"> w. </message>
   <message key="th"> th. </message>
-  <message key="cm">cm</message>
+  <message key="cm"> cm</message>
   <message key=""></message>
   <message key=""></message>
   <message key=""></message>
