@@ -39,7 +39,7 @@
         </tr>
         <tr>
           <th scope="row">
-            <i18n:text i18n:key="epidoc-xslt-iospe-find-place">Find place</i18n:text>
+            <i18n:text i18n:key="epidoc-xslt-iospe-findspot">Findspot</i18n:text>
           </th>
           <td>
             <xsl:choose>
@@ -70,9 +70,9 @@
           <td>
             <xsl:choose>
               <xsl:when test="//t:support/t:dimensions//text()[not(normalize-space(.)=' ')]">
-                <xsl:if test="//t:support/t:dimensions/t:height/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="h">h.</i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:height"/> <i18n:text i18n:key="cm">cm</i18n:text>,</xsl:if>
-                <xsl:if test="//t:support/t:dimensions/t:width/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="w"> w. </i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:width"/> <i18n:text i18n:key="cm">cm</i18n:text>,</xsl:if>
-                <xsl:if test="//t:support/t:dimensions/t:depth/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="th"> th. </i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:depth"/> <i18n:text i18n:key="cm">cm</i18n:text></xsl:if>
+                <xsl:if test="//t:support/t:dimensions/t:height/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="h">h.</i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:height"/> <i18n:text i18n:key="cm"> cm</i18n:text>,</xsl:if>
+                <xsl:if test="//t:support/t:dimensions/t:width/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="w"> w. </i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:width"/> <i18n:text i18n:key="cm"> cm</i18n:text>,</xsl:if>
+                <xsl:if test="//t:support/t:dimensions/t:depth/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="th"> th. </i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:depth"/> <i18n:text i18n:key="cm"> cm</i18n:text></xsl:if>
                 <xsl:if test="//t:support/t:dimensions/t:dim[@type='diameter']/text()[not(normalize-space(.)=' ')]">, Diam. <xsl:value-of select="//t:support/t:dimensions/t:dim[@type='diameter']"/></xsl:if>
               </xsl:when>
               <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unknown">Unknown</i18n:text></xsl:otherwise>
@@ -81,12 +81,12 @@
         </tr>
         <tr>
           <th scope="row">
-            <i18n:text i18n:key="epidoc-xslt-iospe-institution-inventory">Institution and inventory</i18n:text>
+            <i18n:text i18n:key="epidoc-xslt-iospe-institution-inventory">Institution and inventory number</i18n:text>
           </th>
           <td>
             <xsl:choose>
               <xsl:when test="//t:msIdentifier//t:repository/text() and //t:msIdentifier//t:idno/ text()">
-                <xsl:value-of select="//t:msIdentifier//t:repository"/>
+                <xsl:value-of select="//t:msIdentifier//t:repository"/>,  
                 <xsl:value-of select="//t:msIdentifier//t:idno"/>
               </xsl:when>
               <xsl:when test="//t:msIdentifier//t:repository/text()">
