@@ -30,9 +30,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#doc21"><!-- добави в @corresp след # съответното id от document-type.xml -->
-                            <seg xml:lang="bg">почетен надпис</seg><!-- с думи -->
-                            <seg xml:lang="en">honorary inscription</seg>
+                        <summary corresp="document-type.xml#doc2-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                            <seg xml:lang="bg">почетен надпис за императори - проза</seg><!-- с думи -->
+                            <seg xml:lang="en">honorary inscription for emperors - prose</seg>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -103,7 +103,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/> <w lemma="αὐτοκράτωρ"><supplied reason="lost">Αὐτοκράτορα</supplied></w>
-                    <lb n="2"/> <persName ref="listemperors.xml#Traianus">
+                    <lb n="2"/> <persName ref="listemperors.xml#Traianus" type="emperor">
                              <name ref="Onom.xml#Nerva" nymRef="Νέρουα">
                                  <supplied reason="lost">Νέρου</supplied><unclear>αν</unclear>
                              </name>
@@ -114,7 +114,7 @@
                      <lb n="4" break="no"/> βαστὸν</w> <w lemma="Γερμανικός">Γερμανι</w>
                      <lb n="5" break="no"/> κὸν <w lemma="Δακικὸς">Δακικὸν</w> 
                      <lb n="6"/> 
-                             <persName ref="listemperors.xml#Polemarchus"><name  ref="Onom.xml#Tiberius" nymRef="Τιβέριος">
+                             <persName ref="listemperors.xml#Polemarchus" type="emperor"><name  ref="Onom.xml#Tiberius" nymRef="Τιβέριος">
                                  <expan>
                                      <abbr>Τι</abbr><ex>βέριος</ex>
                                  </expan>
@@ -135,26 +135,56 @@
             </listApp>
             </div>
             <div type="translation">
-                <p></p><!-- превод -->
+                <p>
+                    <seg xml:lang="bg">
+                        Не е наличен.<!-- Съдържание по подразбиране, ако има превод - да се попълни тук -->
+                    </seg>
+                    <seg xml:lang="en">
+                        Not available.
+                    </seg>
+                </p>
             </div>
-            <div type="commentary"> <!-- да опишем подробно какво се съдържа в коментара при нас -->
+            <div type="commentary">
+                <p>
+                    <seg xml:lang="bg">
+                        Не е наличен.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
+                    </seg>
+                    <seg xml:lang="en">
+                        Not available.
+                    </seg>
+                </p>
             </div>
-            <div type="bibliography"> <!-- съдържанието тук защо е comment-out-нато? ДИ -->
-<!--                <p><listBibl>
-                    <biblStruct>
-                        <monogr>
-                            <author><ref target="GM">Georgi Mihailov</ref></author>
-                            <title>Inscriptones Grecae in Bulgaria repertae</title>
-                            <imprint>
-                                <biblScope unit="volume">3.2</biblScope>
+            <div type="bibliography">
+                <p>
+                    <seg xml:lang="bg">
+                        <listBibl>
+                            <bibl xml:id="b3_1"><!-- стойността на атрибута да се замени със съответната стойност от авторитетния списък bibliography.xml -->
+                                <author>Георги Михайлов</author>.                                
+                                <date>1961</date>. 
+                                <title>Inscriptones Grecae in Bulgaria repertae</title>
+                                <biblScope unit="volume">III.2</biblScope>, <!-- да се попълни  -->
+                                <pubPlace>
+                                    <settlement>София</settlement>, 
+                                    <country>България</country>
+                                </pubPlace>
+                            </bibl>
+                        </listBibl>
+                    </seg>
+                    <seg xml:lang="en">
+                        <listBibl>
+                            <bibl>
+                                <author>Georgi Mihailov</author>, 
+                                <title>Inscriptones Grecae in Bulgaria repertae</title>
+                                <biblScope unit="volume">III.2</biblScope>, 
                                 <pubPlace>
                                     <settlement>Sofia</settlement>
                                     <country>Bulgaria</country>
-                                </pubPlace>
-                                <date>1964</date>
-                            </imprint></monogr>
-                    </biblStruct>
-                </listBibl></p>-->
+                                </pubPlace>, 
+                                <date>1961</date>
+                            </bibl>
+                        </listBibl>
+                    </seg>
+                </p>
             </div>
         </body>
     </text>
