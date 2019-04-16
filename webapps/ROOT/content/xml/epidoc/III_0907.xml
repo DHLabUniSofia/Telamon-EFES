@@ -126,7 +126,8 @@
     </facsimile>
     <text>
         <body>
-            <div type="textpart" xml:space="preserve" xml:lang="grc" n="A">
+            <div type="edition" xml:lang="grc" xml:space="preserve">
+                <div type="textpart" n="A">
                 <ab>
                     <lb n="1"/>
                     <supplied reason="lost">
@@ -163,7 +164,7 @@
                     <w lemma="σύμπας">σύνπαντος</w> 
                     <w lemma="αὐτός">αὐτῶν</w> 
                     <w lemma="οἶκος">οἴκου</w></ab></div>
-            <div type="textpart" xml:space="preserve" xml:lang="grc" n="B"><ab><lb n="2"/>
+            <div type="textpart" n="B"><ab><lb n="2"/>
                     <supplied reason="lost">
                         <w>καὶ</w> 
                         <w lemma="ἱερός">ἱερᾶς</w> 
@@ -191,6 +192,7 @@
                     <w lemma="λαμπρότατος">λαμπροτάτου</w> 
                     <w lemma="ὕπατος">ὑπάτου</w>.<!-- тук сложи гръцкия текст -->
                 </ab>
+            </div>
             </div>
             <div type="apparatus">
                 <listApp>
