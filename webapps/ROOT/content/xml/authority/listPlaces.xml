@@ -63,7 +63,12 @@
                     <placeName xml:lang="bg"></placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/481949</idno>
                 </place>
-               
+                <place xml:id="Kyme">
+                    <placeName xml:lang="grc">Κύμα</placeName>
+                    <placeName xml:lang="en">Kyme</placeName>
+                    <placeName xml:lang="bg"></placeName>
+                    <idno type="pleiades"></idno>
+                </place>
             </listPlace>
         </body>
     </text>
