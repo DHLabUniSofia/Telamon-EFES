@@ -6,12 +6,13 @@
         i18n:key="menu-inscriptions" />
   <menu label="Indices" match="local-indices-type-display" params="epidoc" i18n:key="menu-indices">
     <item label="Abbreviations" match="local-index-display-html" params="epidoc abbreviation" i18n:key="menu-index-abbreviation"/>
-    <item label="Fragments" match="local-index-display-html" params="epidoc fragment" i18n:key="menu-index-fragment"/>
     <item label="Lemmata" match="local-index-display-html" params="epidoc lemma" i18n:key="menu-index-lemma"/>
     <item label="Numerals" match="local-index-display-html" params="epidoc numeral" i18n:key="menu-index-numeral"/>
     <item label="Personal names" match="local-index-display-html" params="epidoc person_name" i18n:key="menu-index-person_name"/>
     <item label="Symbols" match="local-index-display-html" params="epidoc symbol" i18n:key="menu-index-symbol"/>
-    <item label="Words" match="local-index-display-html" params="epidoc word" i18n:key="menu-index-word"/>
+    <item label="Emperors" match="local-index-display-html" params="epidoc emperors" i18n:key="menu-index-emperors"/>
+    <item label="Divine" match="local-index-display-html" params="epidoc divine" i18n:key="menu-index-emperors"/>
+    <item label="Officials" match="local-index-display-html" params="epidoc officials" i18n:key="menu-index-emperors"/>
   </menu>
   <!--<menu label="Concordances" i18n:key="menu-concordances">
     <item label="Bibliographic" match="local-concordance-bibliography"

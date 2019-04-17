@@ -77,7 +77,7 @@
                         </origin>
                         <provenance type="found">
                             <seg xml:lang="bg">
-                                <placeName type="ancientFindspot" ref="findsp.xml#Zl">Златитрап</placeName><!-- добави в @ref след # съответното id от findsp.xml; съдържание на елемента - с думи -->
+                                <placeName type="ancientFindspot" ref="findsp.xml#Zltr">Златитрап</placeName><!-- добави в @ref след # съответното id от findsp.xml; съдържание на елемента - с думи -->
                             </seg>
                             <seg xml:lang="en">
                                 <placeName  type="ancientFindspot">Zlatitrap</placeName>

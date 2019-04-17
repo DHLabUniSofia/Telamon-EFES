@@ -106,7 +106,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="emperor" ref="listemperors#Caracalla"><name ref="Onom.xml#Antoninus" nymRef="Ἀντονείνος">Ἀντωνεῖν<supplied reason="lost">ον</supplied></name></persName>. 
+                    <lb n="1"/><persName type="emperor" ref="listemperors.xml#Caracalla"><name ref="Onom.xml#Antoninus" nymRef="Ἀντονείνος">Ἀντωνεῖν<supplied reason="lost">ον</supplied></name></persName>. 
                     <lb n="2"/><w lemma="ἀγαθός">Ἀγαθῆι</w> <w lemma="τύχη">τύχηι</w>.
                     <lb n="3"/><w>Τὴν</w> <w lemma="ἀνάστασις">ἀνάστασιν</w>
                     <lb n="4"/> <w lemma="κατά">κατὰ</w> <w lemma="δόγμα">δόγμα</w> <w lemma="βουλή">βου

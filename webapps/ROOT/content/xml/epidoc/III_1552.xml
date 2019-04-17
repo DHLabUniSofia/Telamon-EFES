@@ -126,7 +126,7 @@
                             <name>Ματέρνου</name></persName>
                     <lb n="12"/> <w lemma="πρεσβευτής"><expan><abbr>πρεσβ</abbr><ex>ευτοῦ</ex></expan></w>
                             <w lemma="σεβαστός"><expan><abbr>σεβ</abbr><ex>αστοῦ</ex></expan></w> <w lemma="ἀντιστράτηγος">ἀντιστρατήγου</w>,
-                    <lb n="13"/><persName ref="listPers.xml#AT002" type="official"><name>Ἀντίπατρος</name> 
+                    <lb n="13"/><persName ref="listPers.xml#AT002" type="attested"><name>Ἀντίπατρος</name> 
                         <persName ref="listPers.xml#023" type="attested">Ἀπολλωνίου</persName></persName>
                     <lb n="14"/> <w>τοῦ</w> <w lemma="ἀρχιερεύς">ἀρχιερέως</w> <num value="2">β</num>, 
                     <w>κατὰ</w> <w lemma="ὑπόσχεσις">ὑπό

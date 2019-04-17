@@ -119,7 +119,7 @@
                                 <persName type="divine" ref="listDivine.xml#Apollo">Φοῖβο<supplied reason="lost">ς Ἀπόλλων</supplied></persName></l>
                     <l><lb n="5"/><w lemma="ὄρνις">ὄρνειθας</w> <w lemma="καθοράω">καθορᾶν</w> <w>καὶ</w> <w lemma="ἀτρεκής">ἀτρεκέα</w> 
                                 <w lemma="μαντεύομαι">μαν<supplied reason="lost">τεύσασθαι</supplied></w>.</l>
-                    <l><lb n="6"/><w>καὶ</w> <w>γὰρ</w> <persName ref="listDivine.xm#Polydamas" type="divine">Πουλυδάμας</persName> 
+                    <l><lb n="6"/><w>καὶ</w> <w>γὰρ</w> <persName ref="listDivine.xml#Polydamas" type="divine">Πουλυδάμας</persName> 
                             <w lemma="Φρύγιος">Φρύγιος</w> <w>καὶ</w>
                                 <w lemma="μάντις">μάντις</w> <w lemma="ἀμύμων"><unclear>ἀ</unclear><supplied reason="lost">μύμων</supplied></w></l>
                     <l><lb n="7"/><w lemma="ἀετός">αἰετὸν</w> <w lemma="εἰσοράω">εἰσορόων</w> <w lemma="ὄφις">ὄφεως</w> 

@@ -113,7 +113,7 @@
         <name nymRef="Σευήρος" ref="Onom.xml#Severus"><supplied reason="lost">Σευήρου</supplied></name>
             <name nymRef="Περτίναξ" ref="Onom.xml#Pertinax">Περ
             <lb n="4" break="no"/>τίνακος</name></persName><g type="dot"/> <w>κ<supplied reason="lost">αὶ</supplied></w> 
-            <persName ref="listemperors#Caracalla" type="emperor"><name nymRef="Μάρκος" ref="Onom.xml#Marcus"><supplied reason="lost"><abbr><expan>Μ<ex>άρκου</ex></expan></abbr></supplied></name> 
+            <persName ref="listemperors.xml#Caracalla" type="emperor"><name nymRef="Μάρκος" ref="Onom.xml#Marcus"><supplied reason="lost"><abbr><expan>Μ<ex>άρκου</ex></expan></abbr></supplied></name> 
                 <name nymRef="Αὐρηλίος" ref="Onom.xml#Aurelius"><supplied reason="lost">Αὐρηλίου</supplied></name>
                 <name nymRef="Ἀντωνείνος" ref="Onom.xml#Antoninus"><supplied reason="lost">Ἀντω
                     <lb n="5" break="no"/>νε</supplied>ίνου</name></persName> <w>καὶ</w><g type="dot"/><gap reason="lost" extent="unknown"/>

@@ -110,7 +110,7 @@
                     <lb n="1"/><w lemma="ἀγαθός">Ἀγα<supplied reason="lost">θῇ</supplied></w> <w lemma="τύχη"><supplied reason="lost">τύχῃ</supplied></w>.
                     <lb n="2"/><w>Ὑπὲρ</w> <w>τῆς</w> <w>τοῦ</w> 
                     <w lemma="αὐτοκράτωρ">Αὐτ<supplied reason="lost">οκράτορος</supplied></w> <w lemma="καίσαρ"><supplied reason="lost">Καίσαρος</supplied></w> 
-                            <persName ref="listemperors.xml#Pertinax" type="emperor"><supplied reason="lost"><name nymRef="Λουκίος" ref="Onom.xml#Lucius"><expan><abbr>Λ</abbr><ex>ουκίου</ex>
+                            <persName ref="listemperors.xml#Severus" type="emperor"><supplied reason="lost"><name nymRef="Λουκίος" ref="Onom.xml#Lucius"><expan><abbr>Λ</abbr><ex>ουκίου</ex>
                                       </expan></name> <name nymRef="Σεπτιμίος" ref="Onom.xml#Septimius">Σεπτιμίου</name></supplied>
                     <lb n="3" break="no"/><name nymRef="Σεουήρος" ref="Onom.xml#Severus">Σεουήρου</name> <name nymRef="Περτίναξ" ref="Onom.xml#Pertinax">Περτίν<supplied reason="lost">ακος</supplied></name></persName>
                      <supplied reason="lost">

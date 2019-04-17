@@ -52,7 +52,7 @@
         </div>
       </div>
 
-      <div xml:id="fragment">
+      <!--  <div xml:id="fragment">
         <head>Fragments</head>
 
         <div type="headings">
@@ -70,7 +70,7 @@
             </item>
           </list>
         </div>
-      </div>
+      </div>-->
 
       <div xml:id="numeral">
         <head>Numerals</head>
@@ -92,7 +92,7 @@
         </div>
       </div>
 
-      <div xml:id="word">
+      <!--<div xml:id="word">
         <head>Words</head>
 
         <div type="headings">
@@ -110,7 +110,7 @@
             </item>
           </list>
         </div>
-      </div>
+      </div>-->
 
       <div xml:id="lemma">
         <head>Lemmata</head>
@@ -150,6 +150,57 @@
           </list>
         </div>
       </div>
-    </body>
+      
+      <div xml:id="emperors">
+        <head>Emperors</head>
+        <div type="headings">
+          <list>
+            <item>Name</item>
+            <item>References</item>
+          </list>
+        </div>
+        <div type="notes">
+          <list>
+            <item>
+              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+            </item>
+          </list>
+        </div>
+      </div>
+      
+      <div xml:id="officials">
+        <head>Officials</head>
+        <div type="headings">
+          <list>
+            <item>Name</item>
+            <item>References</item>
+          </list>
+        </div>
+        <div type="notes">
+          <list>
+            <item>
+              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+            </item>
+          </list>
+        </div>
+      </div>
+      
+      <div xml:id="divine">
+        <head>Divine</head>
+        <div type="headings">
+          <list>
+            <item>Name</item>
+            <item>References</item>
+          </list>
+        </div>
+        <div type="notes">
+          <list>
+            <item>
+              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+            </item>
+          </list>
+        </div>
+      </div>
+          </body>
   </text>
 </TEI>

@@ -121,19 +121,19 @@
             <lb n="3"/>        
                     <w lemma="ἀντιστράτηγος">ἀντιστρατήγου</w>
                     <w lemma="θεός">θεῷ</w>
-                    <persName type="divine" ref="listDivine#Apollo">Κενδρεισῳ</persName>
+                    <persName type="divine" ref="listDivine.xml#Apollo">Κενδρεισῳ</persName>
              <lb n="4"/>
                     <w lemma="τέχνη">τέχνη</w> <w lemma="κάπηλος"> καπήλων</w>  
                     <w lemma="εὐχαριστός">εὐχαριστῖ</w>,
       <space extent="unknown" unit="line"/>
             <lb n="5"/>
                     <w lemma="δεκανεύοντος"><expan><abbr>δεκανευόντω</abbr><ex>ν</ex></expan></w>
-                    <persName ref="listpersons.xml#AT308" type="attested"> 
+                    <persName ref="listPers.xml#AT308" type="attested"> 
                         <name ref="Onom.xml#Heraclides" nymRef="Ἡρακλείδης">Ἡρακλείδου</name> <name ref="Onom.xml#Granius" nymRef="Γρανίος">Γρα
                             <lb n="6"/>νίου</name>
                     </persName>
                      <w>καὶ</w> 
-                    <persName ref="listpersons.xml#AT309" type="attested"> 
+                    <persName ref="listPers.xml#AT309" type="attested"> 
                         <name ref="Onom.xml#Diza" nymRef="Διζα">Διζα</name> <name ref="Onom.xml#Brincasenus" nymRef="Βρινκαζενος"><expan><abbr>Βρινκαζ</abbr><ex>ε</ex><abbr>νεος</abbr></expan></name>
                     
              <lb n="7"/>   
