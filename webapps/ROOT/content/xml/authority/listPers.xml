@@ -122,36 +122,6 @@
                <persName xml:lang="bg"></persName>
                <occupation>ἱερονίκης, ξυστάρχης</occupation>
             </person>
-            <person xml:id="AT120">
-               <persName xml:lang="grc">Βειθυς Αυλουζενεος</persName>
-               <persName xml:lang="en">Beithus Auluzeneus</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation></occupation>
-            </person>
-            <person xml:id="AT121">
-               <persName xml:lang="grc">Αυλουζενης</persName>
-               <persName xml:lang="en">Auluzenes</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation></occupation>
-            </person>
-            <person xml:id="AT122">
-               <persName xml:lang="grc">Ἀσκάνιος</persName>
-               <persName xml:lang="en">Ascanius</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation></occupation>
-            </person>
-            <person xml:id="AT123">
-               <persName xml:lang="grc">Σκωριανός</persName>
-               <persName xml:lang="en">Scorianus</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation></occupation>
-            </person>
-            <person xml:id="AT124">
-               <persName xml:lang="grc">Σαδαλας</persName>
-               <persName xml:lang="en">Sadalas</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation></occupation>
-            </person>
             <person xml:id="AT125">
                <persName xml:lang="grc">Σεβαστιανός Μουκατραλεος</persName>
                <persName xml:lang="en">Publius Aelius Dioscurides</persName>
@@ -161,18 +131,6 @@
             <person xml:id="AT126">
                <persName xml:lang="grc">Μουκατραλις</persName>
                <persName xml:lang="en">Mukatralis</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation></occupation>
-            </person>
-            <person xml:id="AT127">
-               <persName xml:lang="grc">Διτουσιουκις Σουδιπορεος</persName>
-               <persName xml:lang="en">Ditusiukis Sudiporeos</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation></occupation>
-            </person>
-            <person xml:id="AT128">
-               <persName xml:lang="grc">Σουδιπορεος</persName>
-               <persName xml:lang="en">Sudiporeos</persName>
                <persName xml:lang="bg"></persName>
                <occupation></occupation>
             </person>
@@ -195,16 +153,6 @@
             </person>
             <person xml:id="AT309">
                <persName xml:lang="grc">Διζα Βρινκαζενεος,ὁ καί Ἑρμοδώρος</persName>
-               <persName xml:lang="en"></persName>
-               <persName xml:lang="bg"></persName>
-            </person>
-            <person xml:id="AT314">
-               <persName xml:lang="grc">Αθυς Σπαρτοκος</persName>
-               <persName xml:lang="en"></persName>
-               <persName xml:lang="bg"></persName>
-            </person>
-            <person xml:id="AT315">
-               <persName xml:lang="grc">Μᾶρκος Οὔλπιος Τρόφιμος</persName>
                <persName xml:lang="en"></persName>
                <persName xml:lang="bg"></persName>
             </person>
