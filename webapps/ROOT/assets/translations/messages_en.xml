@@ -66,6 +66,7 @@
   <message key="epidoc-xslt-iospe-images">Images</message>
   <message key="epidoc-xslt-inslib-diplomatic">Diplomatic</message>
   <message key="epidoc-xslt-inslib-edition">Interpretive</message>
+  <message key="epidoc-xslt-inslib-verse">Verse</message>
   <message key="epidoc-xslt-iospe-unavailable">Not available</message>
   <message key="epidoc-xslt-iospe-unavailable-pl">Not available</message>
   <message key="h">h. </message>

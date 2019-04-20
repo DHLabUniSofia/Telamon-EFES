@@ -205,39 +205,62 @@
             <xsl:apply-templates select="$edtxt" mode="sqbrackets"/>
           </div>
         </section>
+        <xsl:if test="//t:div[@type='edition']//t:lg">
+          <section>
+          <p class="title" data-section-title="data-section-title"><a href="#"><i18n:text i18n:key="epidoc-xslt-inslib-verse">Verse</i18n:text></a></p>
+          <div class="content" id="edition" data-section-content="data-section-content">
+            <!-- Edited text output -->
+            <xsl:variable name="edtxt">
+              <xsl:apply-templates select="//t:div[@type='edition']">
+                <xsl:with-param name="parm-verse-lines" select="'on'" tunnel="yes"/>
+              </xsl:apply-templates>
+            </xsl:variable>
+            <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
+            <xsl:apply-templates select="$edtxt" mode="sqbrackets"/>
+          </div>
+        </section></xsl:if>
       </div>
       
       <div id="apparatus" >
-        <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-apparatus">Apparatus</i18n:text></h4>
+        <xsl:if test="//t:div[@type='apparatus']/t:listApp">
+          <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-apparatus">Apparatus</i18n:text></h4>
         <!-- Apparatus text output -->
         <xsl:variable name="apptxt">
           <xsl:apply-templates select="//t:div[@type='apparatus']/t:listApp"/>
         </xsl:variable>
         <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
         <xsl:apply-templates select="$apptxt" mode="sqbrackets"/>
+        </xsl:if>
       </div>
+      
       <div id="translation" >
-        <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-translation">Translation</i18n:text></h4>
+        <xsl:if test="//t:div[@type='translation']//t:p">
+          <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-translation">Translation</i18n:text></h4>
         <!-- Translation text output -->
         <xsl:variable name="transtxt">
           <xsl:apply-templates select="//t:div[@type='translation']//t:p"/>
         </xsl:variable>
         <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
         <xsl:apply-templates select="$transtxt" mode="sqbrackets"/>
+        </xsl:if>
       </div>
+      
       <div id="commentary" >
-        <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-commentary">Commentary</i18n:text></h4>
+        <xsl:if test="t:div[@type='commentary']//t:p">
+          <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-commentary">Commentary</i18n:text></h4>
         <!-- Commentary text output -->
         <xsl:variable name="commtxt">
           <xsl:apply-templates select="//t:div[@type='commentary']//t:p"/>
         </xsl:variable>
         <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
-        <xsl:apply-templates select="$commtxt" mode="sqbrackets"/>
+        <xsl:apply-templates select="$commtxt" mode="sqbrackets"/></xsl:if>
       </div>
+      
      <div id="bibliography">
         <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-bibliography">Bibliography</i18n:text></h4>
         <xsl:apply-templates select="//t:body//t:div[@type='bibliography']//t:p"/>
       </div>
+      
       <div id="images" >
         <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-images">Images</i18n:text></h4>
         <dl>

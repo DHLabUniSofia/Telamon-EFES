@@ -66,6 +66,7 @@
   <message key="epidoc-xslt-iospe-images">Изображения</message>
   <message key="epidoc-xslt-inslib-diplomatic">Дипломатическо издание</message>
   <message key="epidoc-xslt-inslib-edition">Интерпретативно издание</message>
+  <message key="epidoc-xslt-inslib-verse">В стих</message>
   <message key="epidoc-xslt-iospe-unavailable">Не е наличен</message>
   <message key="epidoc-xslt-iospe-unavailable-pl">Не са налични</message>
   <message key="h">вис. </message>
