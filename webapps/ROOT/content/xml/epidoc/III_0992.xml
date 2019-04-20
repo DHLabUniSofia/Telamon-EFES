@@ -148,24 +148,16 @@
             </listApp>
             </div>
             <div type="translation">
-                <p>
-                    <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има превод - да се попълни тук -->
-                    </seg>
-                    <seg xml:lang="en">
-                        Not available.
-                    </seg>
-                </p>
+                <!-- <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="commentary">
-                <p>
-                    <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
-                    </seg>
-                    <seg xml:lang="en">
-                        Not available.
-                    </seg>
-                </p>
+                <!--  <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="bibliography">
                 <p>

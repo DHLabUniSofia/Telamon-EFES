@@ -150,12 +150,20 @@
             </listApp>
             </div>
             <div type="translation">
-                <p></p><!-- превод -->
+                <!-- <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
-            <div type="commentary"> <!-- да опишем подробно какво се съдържа в коментара при нас -->
+            <div type="commentary">
+                <!--  <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
-            <div type="bibliography"> <!-- съдържанието тук защо е comment-out-нато? ДИ -->
-<!--                <p><listBibl>
+            <div type="bibliography">
+             <!-- Да се провери дали това е правилната библиография
+                 <p><listBibl>
                     <biblStruct>
                         <monogr>
                             <author><ref target="GM">Georgi Mihailov</ref></author>

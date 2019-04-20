@@ -143,24 +143,21 @@
                 </app>
             </listApp>
             </div>
-            <div type="translation"> <note xml:lang="bg">
-                <p>
-                    На добър час. За благополучието и победата на император Цезар Луций Септимий Север Пертинакс и император Цезар Марк Аврелий Антонин Августи.
-                </p><!-- превод --></note>
-            <note xml:lang="en">
-                <p>
-                    Good luck for the well being and the victory of emperor Caesar Lucius Septimius Severus Pertinax and emperor Caesar Marcus Aurelius Antoninus Augustus.
-                </p>
-            </note>  </div>
-            <div type="commentary">
+            <div type="translation">
                 <p>
                     <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
+                        На добър час. За благополучието и победата на император Цезар Луций Септимий Север Пертинакс и император Цезар Марк Аврелий Антонин Августи.
                     </seg>
                     <seg xml:lang="en">
-                        Not available.
+                        Good luck for the well being and the victory of emperor Caesar Lucius Septimius Severus Pertinax and emperor Caesar Marcus Aurelius Antoninus Augustus.
                     </seg>
-                </p>
+                </p> 
+            </div>
+            <div type="commentary">
+                <!--  <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="bibliography">
                 <p>

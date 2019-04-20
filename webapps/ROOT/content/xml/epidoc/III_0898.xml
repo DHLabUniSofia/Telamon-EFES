@@ -138,18 +138,22 @@
             </listApp>
             </div>
             <div type="translation">
-                <p xml:lang="bg">За император цезар Марк Аврелий Север Александър , щастлив, свят [и]  август, Филипопол, най-блестящ главен град на провинция Тракия с храм на императора, [издигна/посвети колоната] когато управляваше  Рутилий Пудент Криспин, легат [с чин] пропретор на августа.  </p><!-- превод -->
-                <p xml:lang="en">[In honour of]/For emperor Caesar Marc Aurelius Severus Alexander, fortunate, pious [and] august, Philippopolis, [the] most illustrious chief town of [the] province of Thrace, [dedicated], when Rutilius Pudens Crispinus, staff officer [ranked as] propraetor of the August, was governor. </p>
-                </div>
-            <div type="commentary">
                 <p>
                     <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
+                        За император цезар Марк Аврелий Север Александър , щастлив, свят [и]  август, Филипопол, най-блестящ главен град на провинция 
+                        Тракия с храм на императора, [издигна/посвети колоната] когато управляваше  Рутилий Пудент Криспин, легат [с чин] пропретор на августа.  
                     </seg>
                     <seg xml:lang="en">
-                        Not available.
+                        [In honour of]/For emperor Caesar Marc Aurelius Severus Alexander, fortunate, pious [and] august, Philippopolis, [the] most illustrious 
+                        chief town of [the] province of Thrace, [dedicated], when Rutilius Pudens Crispinus, staff officer [ranked as] propraetor of the August, was governor. 
                     </seg>
                 </p>
+            </div>
+            <div type="commentary">
+                <!--  <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="bibliography">
                 <p>

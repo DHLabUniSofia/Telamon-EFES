@@ -154,11 +154,24 @@
             </listApp>
             </div>
             <div type="translation">
-                <p>На добър час [статуя на Марк Местрий], победителят на Ений при младежите... Кендрисийскитте игри в родния си град, панкратион на Адриановите олимпийски игри в Кизик........ Местрио..........</p><!-- превод -->
+                <p>
+                    <seg xml:lang="bg">
+                        На добър час [статуя на Марк Местрий], победителят на Ений при младежите... Кендрисийскитте игри в родния си град, панкратион 
+                        на Адриановите олимпийски игри в Кизик........ Местрио..........</seg>
+                    <seg xml:lang="en">
+                        
+                    </seg>
+                </p>
             </div>
-            <div type="commentary" xml:lang="bg"><p>Мраморна основа на статуя, чиято долна дясна част е счупена. Размерите на буквите в редове 8 и 9 са 0.035 метра.</p> <!-- да опишем подробно какво се съдържа в коментара при нас -->
-            </div>
-            <div type="commentary" xml:lang="en"><p>Marble basis, broken in the right down part. The font size in lines 8 and 9 is 0.035 metres.</p>
+            <div type="commentary">
+                <p>
+                    <seg xml:lang="bg">
+                        Мраморна основа на статуя, чиято долна дясна част е счупена. Размерите на буквите в редове 8 и 9 са 0.035 метра.
+                    </seg>
+                    <seg xml:lang="en">
+                        Marble basis, broken in the right down part. The font size in lines 8 and 9 is 0.035 metres.
+                    </seg>
+                </p>
             </div>
             <div type="bibliography">
                 <p>

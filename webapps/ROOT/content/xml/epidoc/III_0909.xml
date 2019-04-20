@@ -134,21 +134,20 @@
             </listApp>
             </div>
             <div type="translation">
-                <p xml:lang="bg"> На добър час за.... на императорите Луции Семптимий Север Пертинакс и Марк Аврелий Антонин и .... </p> <!-- превод -->
-                <p xml:lang="en"> Good luck for  the..... of the emperors Lucius Septimius Severus Pertinax and Marcus Avrelius Antoninus and..</p>
-            </div>
-            <div type="commentary" xml:lang="bg">  
-
-            </div>
-            <div type="commentary">
                 <p>
                     <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
+                        На добър час за.... на императорите Луции Семптимий Север Пертинакс и Марк Аврелий Антонин и .... 
                     </seg>
                     <seg xml:lang="en">
-                        Not available.
+                        Good luck for  the..... of the emperors Lucius Septimius Severus Pertinax and Marcus Avrelius Antoninus and..
                     </seg>
                 </p>
+            </div>
+            <div type="commentary">
+                <!--  <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="bibliography">
                 <p>

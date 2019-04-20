@@ -131,16 +131,19 @@
                 </app>
             </listApp>
             </div>
-            <div type="translation" xml:lang="bg">
-                <p>На добър час
-                    За здравето и победата
-                    На Марк Аврелий Антонин
-                    По заповед на проконсула 
-                    Квинт Атрий Клоний, най-славния, дар от сдружението на кожарите
-              </p><!-- превод -->
-            </div>
-            <div type="translation" xml:lang="en">
-                <p> Good luck for the health and victory of Marcus Avrelius Antonimus by order of proconsul Quintus Atrius Clonius, illustrissimus, gift by the society of tanners</p><!-- превод -->
+            <div type="translation">
+                <p>
+                    <seg xml:lang="bg">
+                        На добър час
+                        За здравето и победата
+                        На Марк Аврелий Антонин
+                        По заповед на проконсула 
+                        Квинт Атрий Клоний, най-славния, дар от сдружението на кожарите
+                    </seg>
+                    <seg xml:lang="en">
+                       Good luck for the health and victory of Marcus Avrelius Antonimus by order of proconsul Quintus Atrius Clonius, illustrissimus, gift by the society of tanners
+                    </seg>
+              </p>
             </div>
             <div type="commentary">
                 <p>

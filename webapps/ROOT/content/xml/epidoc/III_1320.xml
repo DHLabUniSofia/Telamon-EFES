@@ -133,12 +133,20 @@
             </listApp>
             </div>
             <div type   ="translation">
-                <p xml:lang="bg">Афе на Кокций, Хипий на Кокций, наследниците, със собствени средства, посветиха в памет на него, който живя 50  години. Здравейте, пътници. </p><!-- превод -->
-                <p xml:lang="en"> Apphe of Cocceius, Hippias of Cocceius, the heirs, on personal expenses, dedicated in memory of him. who had lived 50 years. Greetings, passengers.</p>
+                <p>                
+                <seg xml:lang="bg">
+                    Афе на Кокций, Хипий на Кокций, наследниците, със собствени средства, посветиха в памет на него, който живя 50  години. Здравейте, пътници. 
+                </seg>
+                <seg xml:lang="en">
+                    Apphe of Cocceius, Hippias of Cocceius, the heirs, on personal expenses, dedicated in memory of him. who had lived 50 years. Greetings, passengers.
+                </seg>
+                </p>
             </div>
-            <div type="commentary"><!-- да опишем подробно какво се съдържа в коментара при нас -->
-                <p xml:lang="bg"></p>
-                <p xml:lang="en"></p>
+            <div type="commentary">
+                <!--  <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="bibliography">
                 <p>

@@ -125,23 +125,21 @@
                 </app>
             </listApp>
             </div>
-            <div type="translation" xml:lang="bg">
-                <p>Хезих...посвети на господаря Асклепий и Хигия.</p><!-- превод -->
-            </div>
-            <div type="translation" xml:lang="en">
-                <p>Hesychus...dedicated to the lord Asclepius and Hygia.</p><!-- превод -->
-            </div>
-            <div type="commentary" xml:lang="bg"> <!-- да опишем подробно какво се съдържа в коментара при нас -->
-            </div>
-            <div type="commentary">
+            <div type="translation">
                 <p>
                     <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
+                        Хезих...посвети на господаря Асклепий и Хигия.
                     </seg>
                     <seg xml:lang="en">
-                        Not available.
+                        Hesychus...dedicated to the lord Asclepius and Hygia.
                     </seg>
                 </p>
+            </div>
+            <div type="commentary">
+                <!--  <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="bibliography">
                 <p>

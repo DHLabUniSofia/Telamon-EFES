@@ -129,22 +129,21 @@
                 </app>
             </listApp>
             </div>
-            <div type="translation" xml:lang="bg">
-                <p> Най-велик и пребожествен император Цезар Публий Лициний Галиен, щастлив благочестив Август………. Филипопол Пресветлия главен град на провинция Тракия…..</p><!-- превод -->
-            </div>
-            <div type="translation" xml:lang="en">
-                <p> Philippopolis, the most distinguish metropolis of the province of Trace… the greatest and most divine emperor Caesar Publius Licinius Galienus prosperous pious  </p><!-- превод -->
-            </div>
-           
-            <div type="commentary">
+            <div type="translation">
                 <p>
                     <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
+                        Най-велик и пребожествен император Цезар Публий Лициний Галиен, щастлив благочестив Август………. Филипопол Пресветлия главен град на провинция Тракия…..
                     </seg>
                     <seg xml:lang="en">
-                        Not available.
-                    </seg>
+                        Philippopolis, the most distinguish metropolis of the province of Trace… the greatest and most divine emperor Caesar Publius Licinius Galienus prosperous pious
+                    </seg>  
                 </p>
+            </div>
+            <div type="commentary">
+                <!--  <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="bibliography">
                 <p>
