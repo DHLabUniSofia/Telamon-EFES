@@ -113,7 +113,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><gap reason="lost" quantity="1" unit="character" cert="low"/> 
-                    <persName type="attested" ref="listPers#AT007"><name ref="Onom.xml#Herennius" nymRef="Ἑρέννιος">Ἑρέννιος</name> <name ref="Onom.xml#Heraclianus" nymRef="Ἡρακλιανός">Ἡρακλιανὸς</name> </persName>
+                    <persName type="attested" ref="listPers.xml#AT007"><name ref="Onom.xml#Herennius" nymRef="Ἑρέννιος">Ἑρέννιος</name> <name ref="Onom.xml#Heraclianus" nymRef="Ἡρακλιανός">Ἡρακλιανὸς</name> </persName>
                     <w lemma="γερουσιαστής">γερουσιαστὴς</w> <placeName type="ethnic" ref="listPlaces.xml#Phil">Φιλιπποπολεί<hi rend="ligature">της</hi></placeName>
                     <lb n="2"/><w>ἐκ</w> <w>τῶν</w> <w lemma="ἴδιος">ἰδίων</w> <w lemma="ἑαυτοῦ">ἑαυτῷ</w> <w>καὶ</w> 
                     <w>τῇ</w> <w lemma="σύμβιος">συνβίῳ</w> <w lemma="ἑαυτοῦ">ἑαυτοῦ</w> 

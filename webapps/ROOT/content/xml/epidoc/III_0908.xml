@@ -105,9 +105,9 @@
                 <ab>
                     <lb n="1"/> <w lemma="ἀγαθός">ἀγαθῆι</w> <w lemma="τυχή">τύχηι</w>.
 <lb n="2"/><w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ὑγίεια">ὑγείας</w>
-<lb n="3"/><w>καὶ</w> <w lemma="νίκη">νείκης</w> <g type="dot"/>  <persName ref="listemperors.xml#Caracalla" type="emperoe"> <name nymRef="Μάρκος" ref="Onom.xml#Marcus"> <expan><abbr>M</abbr><ex>άρκου</ex></expan></name> <g type="dot"/>
-<lb n="4"/><name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> <g type="dot"/> 
-    <name nymRef="Ἀντωνείνος" ref="Onom.xml#Antoninus">Ἀντωνεί
+<lb n="3"/><w>καὶ</w> <w lemma="νίκη">νείκης</w> <g type="dot"/>  <persName ref="listemperors.xml#Caracalla" type="emperoe"> <name nymRef="Μᾶρκος" ref="Onom.xml#Marcus"> <expan><abbr>M</abbr><ex>άρκου</ex></expan></name> <g type="dot"/>
+<lb n="4"/><name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> <g type="dot"/> 
+    <name nymRef="Ἀντωνίνος" ref="Onom.xml#Antoninus">Ἀντωνεί
 <lb n="5" break="no"/>νου</name></persName> <w>κατὰ</w> <w lemma="κέλευσις">κέλευ
 <lb n="6" break="no"/>σιν</w> <w>τοῦ</w> <w lemma="λαμπρός">λαμπρο
 <lb n="7" break="no"/>τάτου</w> <g type="dot"/>  <w lemma="ὑπατικός">ὑπατικοῦ</w> <g type="dot"/> 

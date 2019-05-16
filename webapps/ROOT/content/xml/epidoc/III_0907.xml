@@ -137,13 +137,13 @@
                         <w lemma="κύριος">κυρίων</w> 
                         <w lemma="αὐτοκράτωρ">αὐτοκρατόρων</w> 
                         <persName ref="listemperors.xml#MarcusAurelius" type="emperor">
-                            <name nymRef="Μάρκος" ref="Onom.xml#Marcus"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> 
-                            <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> 
+                            <name nymRef="Μᾶρκος" ref="Onom.xml#Marcus"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> 
+                            <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> 
                             <name nymRef="Ἀντωνίνος" ref="Onom.xml#Antoninus ">Ἀντωνίνου</name>
                         </persName> 
                         <w>καὶ</w> 
                         <persName ref="listemperors.xml#Geta" type="emperor">
-                            <name nymRef="Πόπλιος" ref="Onom.xml#Publius"><expan><abbr>Π</abbr><ex>οπλίου</ex></expan></name> 
+                            <name nymRef="Πόπλιος" ref="Onom.xml#Publius"><expan><abbr>Π</abbr><ex>οπλίου</ex></expan></name> 
                             <name nymRef="Σεπτίμιος" ref="Onom.xml#Septimius">Σεπτιμίου</name> 
                             <name nymRef="Γέτα" ref="Onom.xml#Geta">Γέτα</name></persName> 
                         <w lemma="εὐσεβής">εὐσεβῶν</w> 
@@ -183,10 +183,10 @@
                     </supplied> 
                     <persName ref="listemperors.xml#Clonius" type="official">
                         <supplied reason="lost">
-                            <name nymRef="Κόϊντος" ref="Onom.xml#Quintus"><expan><abbr>Κ</abbr><ex>οΐντου</ex></expan></name> 
+                            <name nymRef="Κοΐντος" ref="Onom.xml#Quintus"><expan><abbr>Κ</abbr><ex>οΐντου</ex></expan></name> 
                             <name nymRef="Ἄτριος" ref="Onom.xml#Atrius">Ἀτρίου</name>
                         </supplied> 
-                        <name nymRef="Κλόνιος" ref="Onom.xml#Clonius"><supplied reason="lost">Κλο</supplied><unclear>ν</unclear>ίου</name>
+                        <name nymRef="Κλόνιος" ref="Onom.xml#Clonius"><supplied reason="lost">Κλο</supplied><unclear>ν</unclear>ίου</name>
                     </persName> 
                     <w>τοῦ</w> 
                     <w lemma="λαμπρότατος">λαμπροτάτου</w> 

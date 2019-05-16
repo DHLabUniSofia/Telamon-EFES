@@ -106,13 +106,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="emperor" ref="listemperors.xml#Caracalla"><name ref="Onom.xml#Antoninus" nymRef="Ἀντονείνος">Ἀντωνεῖν<supplied reason="lost">ον</supplied></name></persName>. 
+                    <lb n="1"/><persName type="emperor" ref="listemperors.xml#Caracalla"><name ref="Onom.xml#Antoninus" nymRef="Ἀντωνίνος">Ἀντωνεῖν<supplied reason="lost">ον</supplied></name></persName>. 
                     <lb n="2"/><w lemma="ἀγαθός">Ἀγαθῆι</w> <w lemma="τύχη">τύχηι</w>.
                     <lb n="3"/><w>Τὴν</w> <w lemma="ἀνάστασις">ἀνάστασιν</w>
                     <lb n="4"/> <w lemma="κατά">κατὰ</w> <w lemma="δόγμα">δόγμα</w> <w lemma="βουλή">βου
                     <lb n="5" break="no"/>λῆς</w> <w lemma="καί">καὶ</w> <w lemma="δῆμος">δήμου</w> <placeName type="ethnic">Τραι
                     <lb n="6" break="no"/>ανέων</placeName> <w>ἐπὶ</w> <w lemma="συναρχία">συναρχί
-                    <lb n="7" break="no"/>ας</w> <persName ref="listPers#AT013" type="attested"><name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> 
+                    <lb n="7" break="no"/>ας</w> <persName ref="listPers.xml#AT013" type="attested"><name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> 
                     <name ref="Onom.xml#Demetrius" nymRef="Δημήτριος">Δημητρίου</name> <name ref="Onom.xml#Apphou" nymRef="Ἄπφου">Απ
                         <lb n="8" break="no"/>φου</name></persName> <w>καὶ</w> <w lemma="ἐπιμελέομαι">ἐπιμελουμέ
                         <lb n="9" break="no"/>νου</w> <w>τῆς</w> <w lemma="ἀνάστασις">ἀναστάσε

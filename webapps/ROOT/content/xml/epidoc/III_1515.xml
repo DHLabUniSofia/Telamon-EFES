@@ -159,7 +159,7 @@
                     <persName ref="listemperors.xml#Saturninus" type="official">
                         <name ref="Onom#Titus" nymRef="Τίτος"><expan> <abbr>Τ</abbr><ex>ίτου</ex>
                                       </expan></name> <g type="dot"/> <name ref="Onom.xml#Clodius" nymRef="Κλωδίος">Κλωδίου</name> 
-                        <name ref="Onom.xml#Saturninus" nymRef="Σατορνείνος">Σατορνείνου</name></persName>,
+                        <name ref="Onom.xml#Saturninus" nymRef="Σατορνίνος">Σατορνείνου</name></persName>,
                     <lb n="12"/>
                     <w lemma="πρωταρχέω">πρωταρχοῦντος</w> <g type="dot"/>
                          <persName ref="listemperors.xml#AurApoll" type="official">

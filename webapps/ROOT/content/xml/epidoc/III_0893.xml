@@ -105,7 +105,7 @@
                 <ab>
                     <lb n="1"/><w lemma="ἀγαθός">Ἀγαθῆι</w> <w lemma="τύχη"><supplied reason="lost">τύχηι</supplied></w>.
                     <lb n="2"/>
-                        <persName ref="listpersons.xml#AT119" type="attested">
+                        <persName ref="listPers.xml#AT119" type="attested">
                             <name type="praenomen" nymRef="Πόπλιος" ref="Onom.xml#Publius"><expan><abbr>Πό</abbr><ex>πλιος</ex></expan></name>
                             <name type="gentilicium" nymRef="Αἴλιος" ref="Onom.xml#Aelius"><expan><abbr>Αἴλ</abbr><ex>ιος</ex></expan></name>
                             <name type="cognomen" nymRef="Διοσκουρίδης" ref="Onom.xml#Dioscurides">Διοσκου<supplied reason="lost">ρίδης</supplied></name></persName>

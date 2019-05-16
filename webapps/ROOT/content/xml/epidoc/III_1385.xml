@@ -112,7 +112,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><w lemma="θεός">Θεῶι</w> <w lemma="ἥρως">Ὕρωι</w> 
-                    <persName type="divine" nymRef="Κανζουρηνος" ref="listDivine.xml#Dzver">Κανζουρηνῳ</persName> 
+                    <persName type="divine" ref="listDivine.xml#Dzver">Κανζουρηνῳ</persName> 
                     <w lemma="εὐχαριστήριος">εὐχα
                     <lb n="2" break="no"/>ριστήριον</w> <w>περὶ</w> <w lemma="κύων">κυνὸς</w> <w lemma="μαίνομαι">μενομένου</w>.<!-- тук сложи гръцкия текст -->
                 </ab>

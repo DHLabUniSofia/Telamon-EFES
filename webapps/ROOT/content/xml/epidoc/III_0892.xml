@@ -133,7 +133,7 @@
                     <lb n="7" break="no"/>νὰ</w>
                         <w lemma="Ὀλύμπια">Ὀλύμ<supplied reason="lost">πια</supplied></w> 
                         <w><supplied reason="lost">ἐν</supplied></w> 
-                        <placeName nymRef="Κύζικος" ref="listPlaces.xml#Cyzicus"><supplied reason="lost">Κυζί</supplied>
+                        <placeName ref="listPlaces.xml#Cyzicus"><supplied reason="lost">Κυζί</supplied>
                     <lb n="8" break="no"/>κῳ</placeName> 
                         <w lemma="παγκράτιον">πανκ<supplied reason="lost">ράτιον</supplied></w> 
                         <gap reason="lost" unit="character" extent="unknown"/>

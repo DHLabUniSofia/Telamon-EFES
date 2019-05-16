@@ -105,7 +105,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><lg type="elegiac_distich"><l n="1"><w lemma="ἀμφότερος">Ἀμφοτέρων</w> <w lemma="ὅδε">τόδε</w> 
-                        <lb n="2"/> <w lemma="σῆμα"> σῆμα </w><persName><name ref="Onom.xml#Sabina" nymRef="Σαβείνη">Σαβείνης</name></persName> 
+                        <lb n="2"/> <w lemma="σῆμα">σῆμα</w> <persName><name ref="Onom.xml#Sabina" nymRef="Σαβείνη">Σαβείνης</name></persName> 
                         <lb n="3"/><persName><name nymRef="Αἰμιλίος" ref="Onom.xml#Aemilius">Αἰμιλίου</name></persName> <w>τε</w> </l>
                        <lb n="4"/> <l n="2"><w lemma="ἀνήρ">ἀνδρὸς</w> <w lemma="κυδάλιμος">κυδα 
                            <lb n="5" break="no"/>λίμου</w> <w>καὶ</w> <w lemma="πινυτός">πινυ

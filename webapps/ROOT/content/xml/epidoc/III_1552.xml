@@ -106,9 +106,9 @@
                     <lb n="2"/> <w>Τὸν</w> <w lemma="θεῖος">θειότατον</w> <w>καὶ</w> <w lemma="μέγας">μέ
                     <lb n="3" break="no"/>γιστ<unclear>ο</unclear>ν</w> <w lemma="αὐτοκράτωρ">αὐτοκράτορα</w> <w lemma="καῖσαρ">καί
                     <lb n="4" break="no"/>σα<unclear>ρ</unclear><supplied reason="lost">α</supplied></w> 
-                    <persName ref="listemperors.xml#Commodus" type="emperor"><name><expan><abbr>Μ</abbr><ex>ᾶρκον</ex></expan></name>
-                        <name><expan><abbr>Αὐρήλ</abbr><ex>ιον</ex></expan></name> <name>Κόμμοδον</name>
-                        <lb n="5"/><name>Ἀντωνεῖνον</name></persName> <w lemma="σεβαστός">σεβαστὸν</w>
+                    <persName ref="listemperors.xml#Commodus" type="emperor"><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκον</ex></expan></name>
+                        <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρήλ</abbr><ex>ιον</ex></expan></name> <name ref="Onom.xml#Commodus" nymRef="Κόμμοδος">Κόμμοδον</name>
+                        <lb n="5"/><name nymRef="Ἀντωνίνος" ref="Onom.xml#Antoninus">Ἀντωνεῖνον</name></persName> <w lemma="σεβαστός">σεβαστὸν</w>
                     <lb n="6"/><w lemma="Γερμανικός">Γερμανικὸν</w> 
                     <w lemma="Σαρματικός">Σαρμ<unclear>ατικ</unclear><supplied reason="lost">ὸ</supplied>ν</w>
                     <lb n="7"/><w lemma="Βρεταννικός">Βρεταννικὸν</w> <w lemma="ἀρχιερεύς">ἀρχιερέα</w>
@@ -122,12 +122,12 @@
                     <w lemma="πατρίς"><expan><abbr>π</abbr><ex>ατρίδος</ex></expan></w>, <w lemma="ἡγεμονεύω">ἡγεμονεύοντος</w> <w>τῆς</w> 
                     <placeName type="ethnic"><expan><abbr>Θρᾳ</abbr><ex>κῶν</ex></expan></placeName>
                     <lb n="11"/><w lemma="ἐπαρχεία">ἐπαρχείας</w> 
-                                           <persName ref="listemperors.xml#Caecilius" type="official"><name><expan><abbr>Καικ</abbr><ex>ιλίου</ex></expan></name>
-                            <name>Ματέρνου</name></persName>
+                                           <persName ref="listemperors.xml#Caecilius" type="official"><name ref="Onom.xml#Caecilius" nymRef="Καικίλιος"><expan><abbr>Καικ</abbr><ex>ιλίου</ex></expan></name>
+                            <name nymRef="Ματέρνος" ref="Onom.xml#Maternus">Ματέρνου</name></persName>
                     <lb n="12"/> <w lemma="πρεσβευτής"><expan><abbr>πρεσβ</abbr><ex>ευτοῦ</ex></expan></w>
                             <w lemma="σεβαστός"><expan><abbr>σεβ</abbr><ex>αστοῦ</ex></expan></w> <w lemma="ἀντιστράτηγος">ἀντιστρατήγου</w>,
-                    <lb n="13"/><persName ref="listPers.xml#AT002" type="attested"><name>Ἀντίπατρος</name> 
-                        <persName ref="listPers.xml#023" type="attested">Ἀπολλωνίου</persName></persName>
+                    <lb n="13"/><persName ref="listPers.xml#AT002" type="attested"><name ref="Onom.xml#Antipatrus" nymRef="Ἀντίπατρος">Ἀντίπατρος</name> 
+                        <persName ref="listPers.xml#AT023" type="attested"><name ref="Onom.xml#Apollonius" nymRef="Ἀπολλώνιος">Ἀπολλωνίου</name></persName></persName>
                     <lb n="14"/> <w>τοῦ</w> <w lemma="ἀρχιερεύς">ἀρχιερέως</w> <num value="2">β</num>, 
                     <w>κατὰ</w> <w lemma="ὑπόσχεσις">ὑπό
                      <lb n="15" break="no"/>σχεσιν</w> <w>τοῦ</w> <w lemma="πατήρ">πατρὸς</w> <w>ἐκ</w> <w>τῶν</w> <w lemma="ἴδιος">ἰδί

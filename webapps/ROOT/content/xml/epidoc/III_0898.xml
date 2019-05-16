@@ -104,8 +104,8 @@
                 <ab>
                     <lb n="1"/><w lemma="αὐτοκράτωρ">Αὐτ<unclear>ο</unclear><supplied reason="lost">κράτορι</supplied></w> <supplied reason="lost"><w lemma="καῖσαρ">Καίσαρι</w></supplied> 
                     <persName ref="listemperors.xml#AlexSev" type="emperor"><supplied reason="lost"><name nymRef="Μᾶρκος" ref="Onom.xml#Marcus"><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan></name>
-                        <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίῳ</ex></expan></name></supplied>
-<lb n="2"/><name nymRef="Σευήρος" ref="Onom.xml#Severus">Σευήρῳ</name> 
+                        <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίῳ</ex></expan></name></supplied>
+<lb n="2"/><name nymRef="Σεоυήρος" ref="Onom.xml#Severus">Σευήρῳ</name> 
                         <name nymRef="Ἀλέξανδρος" ref="Onom.xml#Alexander">Ἀ<unclear>λ</unclear><supplied reason="lost">εξάνδρῳ</supplied></name>
                     </persName> <w lemma="εὐτυχής"><supplied reason="lost">Εὐτυχῖ</supplied></w>
 <lb n="3"/> <w lemma="εὐσεβής">Εὐσεβῖ</w> <g type="dot"/> <w lemma="σεβαστός"><expan><abbr>Σεβ</abbr><ex>αστῷ</ex></expan></w> 
@@ -114,7 +114,7 @@
                     <w lemma="μητρόπολις"><supplied reason="lost">μητ</supplied>ρόπολις</w>
 <lb n="5"/><placeName ref="listPlaces.xml#Phil">Φιλιπόπολ<supplied reason="lost">ις</supplied></placeName>  <w lemma="νεωκόρος"><supplied reason="lost">νεωκό</supplied>ρος</w>
                     <w lemma="ἡγεμονεύω">ἡγεμο
-    <lb n="6" break="no"/>νεύοντος</w> <persName ref="listemperors.xml#RutCrisp" type="official"><name role="praenomen" nymRef="Ῥουτίλιος" ref="Onom.xml#Rutilius">Ῥο<supplied reason="lost">υτειλί</supplied>ου</name> 
+    <lb n="6" break="no"/>νεύοντος</w> <persName ref="listemperors.xml#RutCrisp" type="official"><name nymRef="Ῥουτίλιος" ref="Onom.xml#Rutilius">Ῥο<supplied reason="lost">υτειλί</supplied>ου</name> 
         <name role="cognomen" nymRef="Πούδηνς" ref="Onom.xml#Pudens">Πούδεν
         <lb n="7" break="no"/>το<supplied reason="lost">ς</supplied></name> <name role="gentilicium" nymRef="Κρισπῖνος" ref="Onom.xml#Crispinus"><unclear>Κ</unclear>ρισπείνου</name></persName> 
                     <w lemma="πρεσβευτής"><expan><abbr><unclear>πρεσ</unclear><supplied reason="lost">β</supplied></abbr>̣<ex>ευτοῦ</ex></expan></w>

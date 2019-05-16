@@ -120,7 +120,7 @@
                                  </expan>
                              </name> 
                              <name ref="Onom.xml#Claudius" nymRef="Κλαύδιος">Κλαύδιος</name> 
-                             <name ref="Onom.xml#Polemarchus">Πολέ
+                             <name ref="Onom.xml#Polemarchus" nymRef="Πολέμαρχος">Πολέ
                      <lb n="7" break="no"/>μαρχος</name></persName> 
                                         <w lemma="ἀρχιερεὺς">ἀρχιερεὺς</w>
                      <lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>

@@ -109,13 +109,13 @@
     <supplied reason="lost"><w>τῆς</w><w>τῶν</w>
 <w lemma="αὐτοκρατόρος">Αὐτοκρατόρων</w></supplied >
  <lb n="3"/><persName ref="listemperors.xml#Severus" type="emperor"><name nymRef="Λουκίος" ref="Onom.xml#Lucius"><abbr><expan>Λ<ex>ουκίου</ex></expan></abbr></name> <g type="dot"></g>  
-    <name nymRef="Σεπτιμίος" ref="Onom.xml#Septimius">Σεπ<unclear>τ</unclear><supplied reason="lost">ιμίου</supplied></name>
-        <name nymRef="Σευήρος" ref="Onom.xml#Severus"><supplied reason="lost">Σευήρου</supplied></name>
+    <name nymRef="Σεπτίμιος" ref="Onom.xml#Septimius">Σεπ<unclear>τ</unclear><supplied reason="lost">ιμίου</supplied></name>
+        <name nymRef="Σεоυήρος" ref="Onom.xml#Severus"><supplied reason="lost">Σευήρου</supplied></name>
             <name nymRef="Περτίναξ" ref="Onom.xml#Pertinax">Περ
             <lb n="4" break="no"/>τίνακος</name></persName><g type="dot"/> <w>κ<supplied reason="lost">αὶ</supplied></w> 
-            <persName ref="listemperors.xml#Caracalla" type="emperor"><name nymRef="Μάρκος" ref="Onom.xml#Marcus"><supplied reason="lost"><abbr><expan>Μ<ex>άρκου</ex></expan></abbr></supplied></name> 
-                <name nymRef="Αὐρηλίος" ref="Onom.xml#Aurelius"><supplied reason="lost">Αὐρηλίου</supplied></name>
-                <name nymRef="Ἀντωνείνος" ref="Onom.xml#Antoninus"><supplied reason="lost">Ἀντω
+            <persName ref="listemperors.xml#Caracalla" type="emperor"><name nymRef="Μᾶρκος" ref="Onom.xml#Marcus"><supplied reason="lost"><abbr><expan>Μ<ex>άρκου</ex></expan></abbr></supplied></name> 
+                <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><supplied reason="lost">Αὐρηλίου</supplied></name>
+                <name nymRef="Ἀντωνίνος" ref="Onom.xml#Antoninus"><supplied reason="lost">Ἀντω
                     <lb n="5" break="no"/>νε</supplied>ίνου</name></persName> <w>καὶ</w><g type="dot"/><gap reason="lost" extent="unknown"/>
                     <gap reason="lost" extent="1" unit="line"/>
                 </ab>

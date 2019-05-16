@@ -111,8 +111,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><w lemma="ἀγαθός">Ἀγαθῇ</w> <w lemma="τύχη">τύχῃ.</w>
-                    <lb n="2"/><persName type="emperor" ref="listemperors.xml#MarcusAurelius"><name nymRef="Μάρκος" ref="Onom.xml#Marcus">Μᾶρκον</name> 
-                            <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius">Αὐρήλιον</name> <name nymRef="Ἀντονείνος" ref="Onom.xml#Antoninus">Ἀν 
+                    <lb n="2"/><persName type="emperor" ref="listemperors.xml#MarcusAurelius"><name nymRef="Μᾶρκος" ref="Onom.xml#Marcus">Μᾶρκον</name> 
+                            <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius">Αὐρήλιον</name> <name nymRef="Ἀντωνίνος" ref="Onom.xml#Antoninus">Ἀν 
                     <lb n="3" break="no"/>τωνεῖνον</name> </persName> <w lemma="αὐτοκράτωρ">αὐτοκράτο 
                     <lb n="4" break="no"/>ρα</w> <w lemma="Γερμανικός">Γερμανικὸν</w> <w lemma="Σαρματικός">Σαρματι 
                     <lb n="5" break="no"/> κὸν</w> <w lemma="Μηδικός">Μηδικὸν</w> <w lemma="Παρθικός">Παρθι	

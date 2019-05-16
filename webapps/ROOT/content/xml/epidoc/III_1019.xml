@@ -125,7 +125,7 @@
 	   <lb n="6"/><w lemma="ἐκδικέω">ἐξεδίκησεν</w> <w lemma="ἐγώ">ἐμέ</w></l> 
                             <l n="4"><g type="dot"/><persName>
                                 <name nymRef="Κλαύδιος" ref="Onom.xml#Claudius"><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name> 
-                                <g type="dot"/> <name ref="Onom.xml#Thallus">Θάλλος</name></persName>
+                                <g type="dot"/> <name ref="Onom.xml#Thallus" nymRef="Θάλλος">Θάλλος</name></persName>
                     <lb n="7"/><w lemma="προίστημι">προέστη</w> <w>τοῦ</w> <w lemma="μνημεῖον">μνημείου</w> <w>ἐξ</w> 
                                 <w lemma="ὅς">ὧν</w> <w lemma="καταλιμπάνω">κατέλι     
                         <lb n="8" break="no"/>πεν</w>. <space extent="unknown"/></l>

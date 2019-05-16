@@ -110,16 +110,16 @@
                     <lb n="1"/><w lemma="ἀγαθός">Ἀγα<supplied reason="lost">θῇ</supplied></w> <w lemma="τύχη"><supplied reason="lost">τύχῃ</supplied></w>.
                     <lb n="2"/><w>Ὑπὲρ</w> <w>τῆς</w> <w>τοῦ</w> 
                     <w lemma="αὐτοκράτωρ">Αὐτ<supplied reason="lost">οκράτορος</supplied></w> <w lemma="καίσαρ"><supplied reason="lost">Καίσαρος</supplied></w> 
-                            <persName ref="listemperors.xml#Severus" type="emperor"><supplied reason="lost"><name nymRef="Λουκίος" ref="Onom.xml#Lucius"><expan><abbr>Λ</abbr><ex>ουκίου</ex>
-                                      </expan></name> <name nymRef="Σεπτιμίος" ref="Onom.xml#Septimius">Σεπτιμίου</name></supplied>
-                    <lb n="3" break="no"/><name nymRef="Σεουήρος" ref="Onom.xml#Severus">Σεουήρου</name> <name nymRef="Περτίναξ" ref="Onom.xml#Pertinax">Περτίν<supplied reason="lost">ακος</supplied></name></persName>
+                            <persName ref="listemperors.xml#Severus" type="emperor"><supplied reason="lost"><name nymRef="Λουκίος" ref="Onom.xml#Lucius"><expan><abbr>Λ</abbr><ex>ουκίου</ex>
+                                      </expan></name> <name nymRef="Σεπτίμιος" ref="Onom.xml#Septimius">Σεπτιμίου</name></supplied>
+                    <lb n="3" break="no"/><name nymRef="Σεоυήρος" ref="Onom.xml#Severus">Σεουήρου</name> <name nymRef="Περτίναξ" ref="Onom.xml#Pertinax">Περτίν<supplied reason="lost">ακος</supplied></name></persName>
                      <supplied reason="lost">
                     <w>καὶ</w> 
                         <w lemma="αὐτοκράτωρ">Αὐτοκράτορος</w> 
                         <w lemma="καίσαρ">Καίσαρος</w> 
                     <persName ref="listemperors.xml#MarcusAurelius" type="emperor">
-                            <name nymRef="Μάρκος" ref="Onom.xml#Marcus"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> 
-                            <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> 
+                            <name nymRef="Μᾶρκος" ref="Onom.xml#Marcus"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> 
+                            <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> 
                             <name nymRef="Ἀντωνίνος" ref="Onom.xml#Antoninus">Ἀντω
                     <lb n="4" break="no"/>νίνου</name></persName></supplied>
                     <w lemma="σεβαστός">σεβ<supplied reason="lost">αστῶν</supplied></w> 
