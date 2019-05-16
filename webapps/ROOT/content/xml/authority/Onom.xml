@@ -138,6 +138,11 @@
         <persName xml:lang="en"></persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Scorilus">
+        <persName xml:lang="grc">Σκωριλός</persName>
+        <persName xml:lang="en"></persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Sadalas">
         <persName xml:lang="grc">Σαδαλας</persName>
         <persName xml:lang="en">Sadalas</persName>
@@ -170,7 +175,7 @@
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Septimius">
-        <persName xml:lang="grc">Σεπτιμίος</persName>
+        <persName xml:lang="grc">Σεπτίμιος</persName>
         <persName xml:lang="en">Septimius</persName>
         <persName xml:lang="bg"></persName>
     </person>
@@ -180,7 +185,7 @@
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Severus">
-        <persName xml:lang="grc">Σευήρος</persName>
+        <persName xml:lang="grc">Σεоυήρος</persName>
         <persName xml:lang="en">Severus</persName>
         <persName xml:lang="bg"></persName>
     </person>
@@ -351,7 +356,7 @@
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Antoninus">
-        <persName xml:lang="grc">Ἀντονείνος</persName>
+        <persName xml:lang="grc">Ἀντωνίνος</persName>
         <persName xml:lang="en">Antoninus</persName>
         <persName xml:lang="bg"></persName>
     </person>
@@ -511,13 +516,13 @@
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Saturninus">
-        <persName xml:lang="grc">Σατορνείνος</persName>
+        <persName xml:lang="grc">Σατορνίνος</persName>
         <persName xml:lang="en">Saturninus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Zethus">
         <persName xml:lang="grc">Ζῆθος</persName>
-        <persName xml:lang="en">Zethos</persName>
+        <persName xml:lang="en">Zethus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Eustochius">

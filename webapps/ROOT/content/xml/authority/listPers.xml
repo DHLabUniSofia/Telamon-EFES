@@ -19,7 +19,7 @@
   <text>
       <body>
          <listPerson type="attestted">
-            <person xml:id="ΑΤ002">
+            <person xml:id="AT002">
                <persName xml:lang="grc">Ἀντίπατρος Ἀπολλωνίου</persName>
                <persName xml:lang="en">Antipatrus Apollonius</persName>
                <persName xml:lang="bg"></persName>
@@ -77,24 +77,19 @@
                <occupation>πρ. ἄρχων</occupation></person>
             <person xml:id="AT016">
                <persName xml:lang="grc">Αὐρήλιος Ἀπολλωνίδης Ἀπολλοδώρου</persName>
-               <persName xml:lang="en"></persName>
+               <persName xml:lang="en">Aurelius Apollonides Appolodorus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>πρ. ἄρχων</occupation>
             </person>
             <person xml:id="AT015">
                <persName xml:lang="grc">Βειθυς Κοτυος</persName>
-               <persName xml:lang="en"></persName>
+               <persName xml:lang="en">Beithus Kotys</persName>
                <persName xml:lang="bg"></persName>
                <occupation>ἱερεὺς Συρίας θεᾶς</occupation>
             </person>
-            <person xml:id="AT019">
-               <persName xml:lang="grc">Κλαύδιος Θάλλος</persName>
-               <persName xml:lang="en">Claudius Thallus</persName>
-               <persName xml:lang="bg"></persName>
-            </person>
             <person xml:id="AT020">
                <persName xml:lang="grc">Ζῆθος</persName>
-               <persName xml:lang="en">Zethos</persName>
+               <persName xml:lang="en">Zethus</persName>
                <persName xml:lang="bg"></persName>
                <occupation xml:lang="en">business representative of the thraciarch</occupation>
                <occupation xml:lang="grc">πραγματευτής</occupation>
@@ -104,15 +99,21 @@
                <persName xml:lang="en">Claudias Antius Asclepiodotes</persName>
                <persName xml:lang="bg"></persName>
             </person>
+            <person xml:id="AT023">
+               <persName xml:lang="grc">Ἀπολλώνιος</persName>
+               <persName xml:lang="en">Apollonius</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ἀρχιερεύς</occupation>
+            </person>
             <person xml:id="AT028">
                <persName xml:lang="grc">Αἰμιλίος Βειθυς</persName>
-               <persName xml:lang="en"></persName>
+               <persName xml:lang="en">Aemilius Beithus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>φυλάρχης</occupation>
             </person>
             <person xml:id="AT029">
                <persName xml:lang="grc">Μᾶρκος Αὐφείδιος Φρόντων</persName>
-               <persName xml:lang="en"></persName>
+               <persName xml:lang="en">Marcus Aufidius Fronton</persName>
                <persName xml:lang="bg"></persName>
                <occupation>ὕπατος</occupation>
             </person>
@@ -124,7 +125,7 @@
             </person>
             <person xml:id="AT125">
                <persName xml:lang="grc">Σεβαστιανός Μουκατραλεος</persName>
-               <persName xml:lang="en">Publius Aelius Dioscurides</persName>
+               <persName xml:lang="en">Sebastianus Mukatralis</persName>
                <persName xml:lang="bg"></persName>
                <occupation>βουλευτής</occupation>
             </person>
@@ -136,24 +137,24 @@
             </person>
             <person xml:id="AT210">
                <persName xml:lang="grc">Μᾶρκος Μέστριος Αἴνιος</persName>
-               <persName xml:lang="en"></persName>
+               <persName xml:lang="en">Marcus Mestrius Aenius</persName>
                <persName xml:lang="bg"></persName>
                <occupation>φυλάρχης</occupation>
             </person>
             <person xml:id="AT211">
                <persName xml:lang="grc">Λούκιος Κορνήλιος Ἀνύλλεινος</persName>
-               <persName xml:lang="en"></persName>
+               <persName xml:lang="en">Lucius Cornelius Anullinus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>ὕπατος</occupation>
             </person>
             <person xml:id="AT308">
                <persName xml:lang="grc">Ἡρακλείδης Γρανίου</persName>
-               <persName xml:lang="en"></persName>
+               <persName xml:lang="en">Heraclides Granius</persName>
                <persName xml:lang="bg"></persName>
             </person>
             <person xml:id="AT309">
-               <persName xml:lang="grc">Διζα Βρινκαζενεος,ὁ καί Ἑρμοδώρος</persName>
-               <persName xml:lang="en"></persName>
+               <persName xml:lang="grc">Διζα Βρινκαζενεος, ὁ καί Ἑρμοδώρος</persName>
+               <persName xml:lang="en">Diza Brikazeneus (Hermodorus)</persName>
                <persName xml:lang="bg"></persName>
             </person>
             <personGrp></personGrp>
