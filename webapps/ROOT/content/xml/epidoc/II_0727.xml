@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Почетен надпис от Дискодуратере</title>
-                <title xml:lang="en">Honorary inscription from Discoduraterae</title>
+                <title xml:lang="bg">Почетен надпис за Марк Аврелий от Дискодуратере</title>
+                <title xml:lang="en">Honorary inscription for Marcus Aurelius from Discoduraterae</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -76,7 +76,7 @@
                             </origDate>
                         </origin>
                         <provenance type="found">
-                            <seg xml:lang="bg">Намерен в местността Калето до село
+                            <seg xml:lang="bg">намерен в местността Калето до село
                                 <placeName type="ancientFindspot" ref="findsp.xml#Gost">Гостилица</placeName>
                             </seg>
                             <seg xml:lang="en">found in Kaleto region, near 
@@ -84,11 +84,11 @@
                             </seg>
                         </provenance>
                         <provenance type="observed">
-                            <seg xml:lang="bg"> Извън село
+                            <seg xml:lang="bg"> извън село
                                 <placeName ref="findsp.xml#Gost">Гостилица</placeName>
                             </seg>
                             <seg xml:lang="en">
-                                <placeName>Gostilica, outside the village</placeName>
+                                <placeName>Gostilica</placeName>, outside the village
                             </seg>
                         </provenance>
                     </history>

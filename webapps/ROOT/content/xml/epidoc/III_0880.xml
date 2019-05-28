@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Почетен надпис от Филипопол от Клавдий Полемарх за Нерва</title>
-                <title xml:lang="en">Honorary inscription from Philippopolis from Claudius Polemarchus for Nerva</title>
+                <title xml:lang="bg">Почетен надпис от Клавдий Полемарх за Нерва</title>
+                <title xml:lang="en">Honorary inscription from Claudius Polemarchus for Nerva</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -96,7 +96,7 @@
         </revisionDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="880.jpeg"/>
+        <graphic url="880.jpg"/>
     </facsimile>
     <text>
         <body>
