@@ -51,22 +51,29 @@
                     <placeName xml:lang="bg">Парамболе</placeName>
                     <idno type="wp">https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B1%D0%BE%D0%BB%D0%B5</idno>
                 </place>
+                <place xml:id="Burdapa">
+                    <placeName xml:lang="grc"></placeName>
+                    <placeName xml:lang="en">Burdapa</placeName>
+                    <placeName xml:lang="bg">Бурдапа</placeName>
+                    <idno type="pleiades"> https://pleiades.stoa.org/places/501381</idno>
+                </place>
                 <place xml:id="Cillae">
                     <placeName xml:lang="grc">Κελαι</placeName>
                     <placeName xml:lang="en">Cillae</placeName>
                     <placeName xml:lang="bg">Циле</placeName>
                     <idno type="other">http://www.bulgariancastles.com/bg/node/928</idno>
                 </place>
+                    <place xml:id="Mola">
+                        <placeName xml:lang="grc"></placeName>
+                        <placeName xml:lang="en">Mola</placeName>
+                        <placeName xml:lang="bg"></placeName>
+                        <idno type="pleiades">https://pleiades.stoa.org/places/554283</idno>
+                    </place>
                 <place xml:id="Tug">
                     <placeName xml:lang="en">Tugugerum</placeName>
                     <placeName xml:lang="bg">Тугугерум</placeName>
                 </place>
                 <place xml:id="Diocl">
-                    <placeName xml:lang="en">Diocletianopolis</placeName>
-                    <placeName xml:lang="bg">Диоклецианопол</placeName>
-                    <idno type="pleiades">https://pleiades.stoa.org/places/216792</idno>
-                </place>
-                <place xml:id="Hiss"><placeName xml:lang="grc">Διοκλητιανούπολις</placeName>
                     <placeName xml:lang="en">Diocletianopolis</placeName>
                     <placeName xml:lang="bg">Диоклецианопол</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/216792</idno>

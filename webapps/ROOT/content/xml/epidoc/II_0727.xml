@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Почетен надпис за Марк Аврелий от Дискодуратере</title>
+                <title xml:lang="bg">Почетен надпис на Марк Аврелий от Дискодуратере</title>
                 <title xml:lang="en">Honorary inscription for Marcus Aurelius from Discoduraterae</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
@@ -84,7 +84,7 @@
                             </seg>
                         </provenance>
                         <provenance type="observed">
-                            <seg xml:lang="bg"> извън село
+                            <seg xml:lang="bg">извън село
                                 <placeName ref="findsp.xml#Gost">Гостилица</placeName>
                             </seg>
                             <seg xml:lang="en">

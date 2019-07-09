@@ -30,6 +30,21 @@
                     <placeName xml:lang="bg">Козарско</placeName>
                     <idno type="geonames">https://www.geonames.org/730028/kozarsko.html</idno> 
                 </place>
+                <place xml:id="Varvara">
+                    <placeName xml:lang="en">Varvara</placeName>
+                    <placeName xml:lang="bg">Варвара</placeName>
+                    <idno type="geonames">https://www.geonames.org/726040/varvara.html</idno> 
+                </place>
+                <place xml:id="Ognianovo">
+                    <placeName xml:lang="en">Ognianovo</placeName>
+                    <placeName xml:lang="bg">Огняново</placeName>
+                    <idno type="geonames">https://www.geonames.org/728660/ognyanovo.html</idno> 
+                </place>
+                <place xml:id="Tsalapitsa">
+                    <placeName xml:lang="en">Tsalapitsa</placeName>
+                    <placeName xml:lang="bg">Цалапица</placeName>
+                    <idno type="geonames">https://www.geonames.org/726284/tsalapitsa.html</idno> 
+                </place>
                 <place xml:id="StZ">
                     <placeName xml:lang="en">Stara Zagora</placeName>
                     <placeName xml:lang="bg">Стара Загора</placeName>
@@ -54,7 +69,30 @@
                     <idno type="geonames">http://www.geonames.org/732579/cherna-gora.html</idno>
                     <idno type="pleiades"></idno>
                 </place>
-                
+                <place xml:id="Stroevo">
+                    <placeName xml:lang="en">Stroevo</placeName>
+                    <placeName xml:lang="bg">Строево</placeName>
+                    <idno type="geonames">https://www.geonames.org/6459935</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="Markovo">
+                    <placeName xml:lang="en">Markovo</placeName>
+                    <placeName xml:lang="bg">Марково</placeName>
+                    <idno type="geonames">https://www.geonames.org/6459968</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="Trud">
+                    <placeName xml:lang="en">Trud</placeName>
+                    <placeName xml:lang="bg">Труд</placeName>
+                    <idno type="geonames">https://www.geonames.org/726310</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="Hrabrino">
+                    <placeName xml:lang="en">Hrabrino</placeName>
+                    <placeName xml:lang="bg">Храбрино</placeName>
+                    <idno type="geonames">https://www.geonames.org/730405</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="ByalIzvor">
                     <placeName xml:lang="en">Byal Izvor</placeName>
                     <placeName xml:lang="bg">Бял извор</placeName>
@@ -100,6 +138,18 @@
                     <placeName xml:lang="bg">Хисаря</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/216792</idno>
                     <idno type="geonames">http://www.geonames.org/730419/hisarya.html</idno>
+                </place>
+                <place xml:id="Isperihovo">
+                    <placeName xml:lang="en">Isperihovo</placeName>
+                    <placeName xml:lang="bg">Исперихово</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">https://www.geonames.org/730864</idno>
+                </place>
+                <place xml:id="Iagodovo">
+                    <placeName xml:lang="en">Iagodovo</placeName>
+                    <placeName xml:lang="bg">Ягодово</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">https://www.geonames.org/725593</idno>
                 </place>
                 <place xml:id="Perushtitsa">
                     <placeName xml:lang="en">Perushtitsa</placeName>

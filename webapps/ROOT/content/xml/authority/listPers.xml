@@ -135,6 +135,30 @@
                <persName xml:lang="bg"></persName>
                <occupation></occupation>
             </person>
+            <person xml:id="AT129">
+               <persName xml:lang="grc">Χρῆστος Τελεσφόρος</persName>
+               <persName xml:lang="en">Christus Telesforus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>προμέτρης</occupation>
+            </person>
+            <person xml:id="AT130">
+               <persName xml:lang="grc">Αὐρήλιος</persName>
+               <persName xml:lang="en">Aurelius</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ἀγωνοθέτης πρώτων Κενδρεισιων</occupation>
+            </person>
+            <person xml:id="AT133">
+               <persName xml:lang="grc">Ἀλφεῖος Ποσειδώνιος</persName>
+               <persName xml:lang="en">Alpheius Poseidonius</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation></occupation>
+            </person>
+            <person xml:id="AT134">
+               <persName xml:lang="grc">Φλαούιος Εὐδαίμων,ὁ καὶ Φλαουιανός</persName>
+               <persName xml:lang="en">Alpheius Poseidonius</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation></occupation>
+            </person>
             <person xml:id="AT210">
                <persName xml:lang="grc">Μᾶρκος Μέστριος Αἴνιος</persName>
                <persName xml:lang="en">Marcus Mestrius Aenius</persName>

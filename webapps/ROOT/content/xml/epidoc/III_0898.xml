@@ -44,7 +44,7 @@
                                     <objectType xml:lang="bg" ref="object.xml#col">колона</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
                                     <objectType xml:lang="en">column</objectType>
                                     <dimensions><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
-                                        <height quantity="0.85">85</height>
+                                        <height quantity="85">85</height>
                                         <dim type="diameter" quantity="30">30</dim>
                                     </dimensions>
                                 </support>

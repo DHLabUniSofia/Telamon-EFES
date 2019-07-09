@@ -64,6 +64,12 @@
                <persName xml:lang="en">Kendrisus</persName>
                <persName xml:lang="bg">Кендрисос</persName>
             </person>
+            <person xml:id="Heracles">
+               <persName xml:lang="grc">Ἡρακλῆς</persName>
+               <persName xml:lang="en">Heracles</persName>
+               <persName xml:lang="bg"></persName>
+               <idno type="wp">https://en.wikipedia.org/wiki/Heracles</idno>
+            </person>
             <person xml:id="Syria">
                <persName xml:lang="grc">Συρία θεᾶ</persName>
                <persName xml:lang="en">Dea Syria</persName>
@@ -109,8 +115,20 @@
                <persName xml:lang="grc">Κανζουρηνος</persName>
                <persName xml:lang="en">Kanzurinus</persName>
                <persName xml:lang="bg">Кандзверин</persName>
-               <idno type="wp">https://en.wikipedia.org/wiki/Halitherses</idno>
+               <idno type="wp"></idno>
             </person>
+            <person xml:id="Nymphs">
+               <persName xml:lang="grc">Χάριτες</persName>
+               <persName xml:lang="en">Nymphs</persName>
+               <persName xml:lang="bg">Харити</persName>
+               <idno type="wp"></idno>
+            </person>
+               <person xml:id="Pourd-">
+                  <persName xml:lang="grc">Πουρδ--?</persName>
+                  <persName xml:lang="en">Pourd--?</persName>
+                  <persName xml:lang="bg">Пурд--?</persName>
+                  <idno type="wp"></idno>
+               </person>
          </listPerson>
       </body>
   </text>

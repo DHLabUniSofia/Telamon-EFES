@@ -5,34 +5,34 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Почетен надпис на Нерва от Клавдий Полемарх</title>
-                <title xml:lang="en">Honorary inscription from Claudius Polemarchus for Nerva</title>
+                <title xml:lang="bg">Посветителен надпис за император М. Аврелий, вероятно горната част на паметник, който включва и 902</title><!-- Заглавие -->
+                <title xml:lang="en">Dedicatory inscription for emperor M. Aurelius, probably the upper part of a monument, that constitutes of 904 and 902</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
-                </editor>
+                </editor>                 
             </titleStmt>            
             <publicationStmt>
                 <authority>Telamon Project</authority>
                 <date>2018</date>
-                <idno type="filename">III.880</idno><!-- номер на надписа -->
+                <idno type="filename">III.904</idno><!-- номер на надписа -->
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier><country/> <!-- какво слагаме в първия идентификатор и в алт идентификатора? на едното място може би да отиде инв. номер от музея, но на кое? ДИ -->
+                    <msIdentifier><country/> 
                         <altIdentifier  xml:lang="bg">
                             <repository>Национален археологически институт с музей</repository><!-- Институция -->
-                            <idno>2626</idno><!-- Инвентарен номер -->
+                            <idno>2619</idno><!-- Инвентарен номер -->
                         </altIdentifier>
                         <altIdentifier xml:lang="en">
-                            <repository>National Archeological Institute with Museum</repository>
-                            <idno>2626</idno>
+                            <repository>National Archaeological Institute with Museum</repository>
+                            <idno>2619</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#doc2-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
-                            <seg xml:lang="bg">почетен надпис за императори - проза</seg><!-- с думи -->
-                            <seg xml:lang="en">honorary inscription for emperors - prose</seg>
+                        <summary corresp="document-type.xml#Ddoc3_2v"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                            <seg xml:lang="bg">публичен посветителен надпис - стих</seg><!-- с думи -->
+                            <seg xml:lang="en">public dedicatory inscription - verse</seg>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -44,9 +44,9 @@
                                     <objectType xml:lang="bg" ref="object.xml#b">постамент</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
                                     <objectType xml:lang="en">base</objectType>
                                     <dimensions><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
-                                        <height quantity="39">39</height>
-                                        <width quantity="71">71</width>
-                                        <depth quantity="45">45</depth>
+                                        <height quantity="14">14</height>
+                                        <width quantity="97">97</width>
+                                        <depth quantity="52">52</depth>
                                     </dimensions>
                                 </support>
                             </supportDesc>
@@ -56,19 +56,22 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <height atLeast="4" atMost="5">4 - 5</height><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
+                                <height atLeast="1.5" atMost="2">1.5 - 2</height><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                             </handNote>
-                        </handDesc> <!-- и decoDesc, също незадължително за пълнене всеки път? ДИ -->
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>—</decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="origloc.xml#"><!-- добави в @ref след # съответното id от origloc.xml; съдържание на елемента - с думи -->
-                                <seg xml:lang="bg"></seg>
-                                <seg xml:lang="en"></seg>
+                            <origPlace ref="origloc.xml#Phil"><!-- добави в @ref след # съответното id от origloc.xml; съдържание на елемента - с думи -->
+                                <seg xml:lang="bg">Филипопол</seg>
+                                <seg xml:lang="en">Philippopolis</seg>
                             </origPlace>
-                            <origDate notBefore="0102" notAfter="0116" evidence="titulature"><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
-                                <seg xml:lang="bg">102 - 116 г. сл. Хр.</seg>
-                                <seg xml:lang="en">102 - 116 A.D.</seg>
+                            <origDate notBefore="0163" notAfter="0164" evidence="reign"><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
+                                <seg xml:lang="bg">163 - 164 г. сл.Хр.</seg> <!-- НИСЛЯ, ЧЕ МИХАЙЛОВ НЕ ПРЕДЛАГА ДАТИРОВКА ТУК -->
+                                <seg xml:lang="en">163 - 164 AD</seg>
                             </origDate>
                         </origin>
                         <provenance type="found">
@@ -92,59 +95,53 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2019-03-20" who="E.B.">revised, added links to authority</change><!-- сложи @when с година-месец-ден и @who с инициали; като съдържание сложи описание на свършената от теб работа по надписа -->
+            <change when="2019-06-20" who="BI">въведох в кода данните от корпуса на Г. Михайлов</change>
+            <change when="2019-07-08" who="EB">corr., links etc.</change><!-- сложи @when с година-месец-ден и @who с инициали; като съдържание сложи описание на свършената от теб работа по надписа -->
         </revisionDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="880.jpg"/>
+        <graphic url="именаснимка.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/> <w lemma="αὐτοκράτωρ"><supplied reason="lost">Αὐτοκράτορα</supplied></w>
-                    <lb n="2"/> <persName ref="listemperors.xml#Traianus" type="emperor">
-                             <name ref="Onom.xml#Nerva" nymRef="Νέρουα">
-                                 <supplied reason="lost">Νέρου</supplied><unclear>αν</unclear>
-                             </name>
-                             <name nymRef="Τραϊανός" ref="Onom.xml#Traianus">
-                                 <supplied reason="lost">Τραια</supplied>
-                     <lb n="3" break="no"/>νὸν</name></persName> <w lemma="καῖσαρ">Καίσαρα</w>  
-                        <w lemma="σεβαστός">Σε
-                     <lb n="4" break="no"/> βαστὸν</w> <w lemma="Γερμανικός">Γερμανι</w>
-                     <lb n="5" break="no"/> κὸν <w lemma="Δακικὸς">Δακικὸν</w> 
-                     <lb n="6"/> 
-                             <persName ref="listemperors.xml#Polemarchus" type="emperor"><name  ref="Onom.xml#Tiberius" nymRef="Τιβέριος">
-                                 <expan>
-                                     <abbr>Τι</abbr><ex>βέριος</ex>
-                                 </expan>
-                             </name> 
-                             <name ref="Onom.xml#Claudius" nymRef="Κλαύδιος">Κλαύδιος</name> 
-                             <name ref="Onom.xml#Polemarchus" nymRef="Πολέμαρχος">Πολέ
-                     <lb n="7" break="no"/>μαρχος</name></persName> 
-                                        <w lemma="ἀρχιερεὺς">ἀρχιερεὺς</w>
-                     <lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="1"/> <w lemma="ἀγαθός">ἀγαθῇ</w> <w lemma="τύχη">τύχῃ</w>.
+                    <lb n="2"/><w>ὑπὲρ</w> <w>τῆς</w> <w>τῶν</w> <w lemma="αὐτοκράτωρ">Αὐτοκρατόρων</w> <w lemma="νίκη">νίκης</w> 
+                    <w>καὶ</w> <w lemma="αἰώνιος">αἰωνίου</w> <w lemma="διαμονή">διαμονῆς</w> <persName type="emperor" ref="listemperors.xml#MarcusAurelius">
+                        <name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος">Αὐ
+                    <lb n="3" break="no"/><supplied reason="lost">ρηλίου</supplied></name></persName> <gap reason="lost" extent="unknown" unit="line"/>
+                    <!-- тук сложи гръцкия текст -->
                 </ab>
             </div>
             <div type="apparatus">
-                <listApp>
-                <app>
-                    <note></note><!-- бележки за лигатури и особености -->
-                    <rdg></rdg>
-                </app>
-            </listApp>
+                <listApp >
+                    <head xml:lang="bg">Букви в лигатура:</head><!-- В случай, че има коментари и от друг характер, да се промени съдържанието на елемента или да се добави нов елемент <head> -->
+                    <head xml:lang="en">Letters in ligature:</head>
+                    <app loc="1"><!-- стойността на атрибута да се замени със съответния ред, на който се среща лигатурата; елементът да се повтори толкова пъти, колкото реда с лигатури има -->
+                        <rdg></rdg>
+                    </app>
+                </listApp>
             </div>
             <div type="translation">
-                <!-- <p>
-                    <seg xml:lang="bg"></seg>
-                    <seg xml:lang="en"></seg>
-                </p> -->
+                <p>
+                    <seg xml:lang="bg">
+                        Не е наличен.<!-- Съдържание по подразбиране, ако има превод - да се попълни тук -->
+                    </seg>
+                    <seg xml:lang="en">
+                        Not available.
+                    </seg>
+                </p>
             </div>
             <div type="commentary">
-                <!--  <p>
-                    <seg xml:lang="bg"></seg>
-                    <seg xml:lang="en"></seg>
-                </p> -->
+                <p>
+                    <seg xml:lang="bg">
+                        Михайлов допуска, че надписът е горната част от 902.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
+                    </seg>
+                    <seg xml:lang="en">
+                        Mihailov assumes, that this inscription is the upper part of a monument unified with 902.
+                    </seg>
+                </p>
             </div>
             <div type="bibliography">
                 <p>
@@ -154,7 +151,7 @@
                                 <author>Георги Михайлов</author>.                                
                                 <date>1961</date>. 
                                 <title>Inscriptones Grecae in Bulgaria repertae</title>
-                                <biblScope unit="volume">III.2</biblScope>, <!-- да се попълни  -->
+                                <biblScope unit="volume">III.1</biblScope>, <!-- да се попълни  -->
                                 <pubPlace>
                                     <settlement>София</settlement>, 
                                     <country>България</country>
@@ -167,12 +164,12 @@
                             <bibl>
                                 <author>Georgi Mihailov</author>, 
                                 <title>Inscriptones Grecae in Bulgaria repertae</title>
-                                <biblScope unit="volume">III.2</biblScope>, 
+                                <biblScope unit="volume">III.1</biblScope>, 
                                 <pubPlace>
                                     <settlement>Sofia</settlement>
                                     <country>Bulgaria</country>
                                 </pubPlace>, 
-                                <date>1961</date>
+                                <date></date>
                             </bibl>
                         </listBibl>
                     </seg>
