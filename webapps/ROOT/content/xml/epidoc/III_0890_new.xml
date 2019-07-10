@@ -40,9 +40,9 @@
                             <supportDesc>
                                 <support>
                                     <material xml:lang="bg" ref="material.xml#m">мрамор</material><!-- добави в @ref след # съответното id от material.xml; съдържание на елемента - с думи -->  
-                                    <material xml:lang="en">marble</material>
+                                    <material xml:lang="en">marble</material> 
                                     <objectType xml:lang="bg" ref="object.xml#b">постамент</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
-                                    <objectType xml:lang="en">base</objectType>
+                                    <objectType xml:lang="en">base</objectType> 
                                     <dimensions><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                                         <height quantity="66">66</height>
                                         <width quantity="52">52</width>
@@ -56,11 +56,11 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <height atLeast="3.5" atMost="4" unit="cm">3.5-4</height><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
+                                <height atLeast="3.5" atMost="4">3.5 - 4</height><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <decoNote></decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
+                            <decoNote>-</decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -111,7 +111,7 @@
                     <lb n="3"/><w><supplied reason="lost">τ</supplied>ῶν</w> <w lemma="πρῶτος">πρώτων</w> <w lemma="Πύθιος">Πυθί
                     <lb n="4" break="no"/><supplied reason="lost">ω</supplied>ν</w> <w lemma="Κενδρεισιος">Κενδρεισιων</w>
                     <lb n="5"/><w lemma="εἰσελαστικός"><supplied reason="lost">εἰ</supplied>σελαστ<supplied reason="lost">ικῶν</supplied></w>
-                    <lb n="6"/><persName ref="listPers.xml#AT130" type="attested"><name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr><supplied reason="lost">Α</supplied><unclear>ὐρ</unclear></abbr><ex>ήλιον</ex></expan><gap reason="lost"></gap></name></persName>
+                    <lb n="6"/><persName ref="listPers.xml#AT130" type="attested"><name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr><supplied reason="lost">Α</supplied><unclear>ὐρ</unclear></abbr><ex>ήλιον</ex></expan></name></persName><gap reason="lost" extent="unknown"/>
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="line"/>
                     <!-- тук сложи гръцкия текст -->
                 </ab>

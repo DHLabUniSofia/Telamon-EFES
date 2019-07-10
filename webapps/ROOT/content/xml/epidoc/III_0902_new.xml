@@ -79,7 +79,7 @@
                                 <seg xml:lang="bg">Филипопол</seg>
                                 <seg xml:lang="en">Philippopolis</seg>
                             </origPlace>
-                            <origDate notBefore="0163" notAfter="0164" evidence="nomenclature"><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
+                            <origDate notBefore="0163" notAfter="0164" evidence="titulature"><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
                                 <seg xml:lang="bg">163-164 г. сл.Хр.</seg>
                                 <seg xml:lang="en">163-164 AD</seg>
                             </origDate>
@@ -94,11 +94,11 @@
                             </seg>
                         </provenance>
                         <provenance type="observed">
-                            <seg xml:lang="bg"> вграден в църквата Света Петка - Стара в
+                            <seg xml:lang="bg"> вграден в църквата Света Петка Стара в
                                     <placeName>Пловдив</placeName>, изчезнал.<!-- само с думи -->
                                 <!-- само с думи ли да остане наистина или да имаме референтен списък на места и тук? ДИ -->
                             </seg>
-                            <seg xml:lang="en"> built in the church St. Petka - Old in
+                            <seg xml:lang="en"> built in the church St. Petka the Old in
                                     <placeName>Plovdiv</placeName>, now lost. </seg>
                         </provenance>
                     </history>
@@ -133,7 +133,7 @@
                             <name ref="Onom.xml#Verus" nymRef="Οὐῆρος">Οὐή
                     <lb n="5" break="no"/>ρου</name></persName> <w lemma="Αρμενιάκος">Ἀρμενιακῶν</w>
                         <persName>
-                            <name nymRef="Φιλίσκος">Φιλίσκος</name></persName> <w>καὶ</w> <!--ИМЕТО ФИЛИСК ГО НЯМА В АВТОРИТЕТНИЯ СПИСЪК-->
+                            <name nymRef="Φιλίσκος" ref="Onom.xml#Filiscus">Φιλίσκος</name></persName> <w>καὶ</w> <!--ИМЕТО ФИЛИСК ГО НЯМА В АВТОРИТЕТНИЯ СПИСЪК-->
                         <persName>
                             <name ref="Onom.xml#Gaius" nymRef="Γάιος">Γάιος</name></persName> 
                     <lb n="6"/><w>οἱ</w> <persName><name ref="Onom.xml#Marcus" nymRef="Μάρκος">Μάρκου</name></persName> <w>τῇ</w> <w lemma="φυλή">φυλῇ</w> <w>τῇ</w> <w lemma="ἱερός">ἱερᾷ</w> <w lemma="ἀνατίθημι">ἀ

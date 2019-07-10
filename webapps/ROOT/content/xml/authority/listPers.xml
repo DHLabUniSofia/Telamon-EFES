@@ -148,14 +148,14 @@
                <occupation>ἀγωνοθέτης πρώτων Κενδρεισιων</occupation>
             </person>
             <person xml:id="AT133">
-               <persName xml:lang="grc">Ἀλφεῖος Ποσειδώνιος</persName>
-               <persName xml:lang="en">Alpheius Poseidonius</persName>
+               <persName xml:lang="grc">Ἀλφεῖος Ποσειδώνίου</persName>
+               <persName xml:lang="en">Alpheius son of Poseidonius</persName>
                <persName xml:lang="bg"></persName>
                <occupation></occupation>
             </person>
             <person xml:id="AT134">
                <persName xml:lang="grc">Φλαούιος Εὐδαίμων,ὁ καὶ Φλαουιανός</persName>
-               <persName xml:lang="en">Alpheius Poseidonius</persName>
+               <persName xml:lang="en">Flavius Eudaimon, also Flavianus</persName>
                <persName xml:lang="bg"></persName>
                <occupation></occupation>
             </person>
@@ -170,6 +170,12 @@
                <persName xml:lang="en">Lucius Cornelius Anullinus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>ὕπατος</occupation>
+            </person>
+            <person xml:id="AT212">
+               <persName xml:lang="grc">-δορος</persName>
+               <persName xml:lang="en">-doros</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>πρ. ἄρχων</occupation>
             </person>
             <person xml:id="AT308">
                <persName xml:lang="grc">Ἡρακλείδης Γρανίου</persName>

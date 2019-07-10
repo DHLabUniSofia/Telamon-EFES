@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посветителен надпис с анаглиф, изобразяващ Магна Матер, за императорите Септимий Север и М. Аврелий Антонин</title><!-- Заглавие -->
-                <title xml:lang="en">Dedicatory inscription for emeperors Septimius Severus and M. Aurelius Antoninus with anaglyph, depicting Magna Mater</title>
+                <title xml:lang="bg">Почетен надпис с анаглиф, изобразяващ Магна Матер, за императорите Септимий Север и М. Аврелий Антонин</title><!-- Заглавие -->
+                <title xml:lang="en">Honorary inscription for emeperors Septimius Severus and M. Aurelius Antoninus with anaglyph, depicting Magna Mater</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -30,9 +30,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#doc3_2p"><!-- добави в @corresp след # съответното id от document-type.xml -->
-                            <seg xml:lang="bg">публичен посветителен надпис - проза</seg><!-- с думи -->
-                            <seg xml:lang="en">public dedicatory inscription - prose</seg>
+                        <summary corresp="document-type.xml#doc2_1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                            <seg xml:lang="bg">почетен надпис за император - проза</seg><!-- с думи -->
+                            <seg xml:lang="en">honorary inscription emperor - prose</seg>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -116,7 +116,7 @@
                         <name ref="Onom.xml#Lucius" nymRef="Λουκίος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> 
                         <name ref="Onom.xml#Septimius" nymRef="Σεπτιμίος"><expan><abbr>Σεπ</abbr><ex>τιμίου</ex></expan></name></supplied>
                     <lb n="3"/><supplied reason="lost"><name ref="Onom.xml#Severus" nymRef="Σευήρος">Σευήρου</name></supplied> 
-                        <name ref="Onom.xml#Pertinax" nymRef="Πέρτιναξ">Περτίν<supplied reason="lost">ακος</supplied></name></persName> <supplied reason="lost"><space extent="unknown" unit="character"></space> <w>καὶ</w> 
+                        <name ref="Onom.xml#Pertinax" nymRef="Πέρτιναξ">Περτίν<supplied reason="lost">ακος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><w>καὶ</w> 
                             <persName ref="listemperors.xml#MarcusAurelius" type="emperor"><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> 
                                 <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> 
                                 <name ref="Onom.xml#Antoninus" nymRef="Ἀντονείνος">Ἀντωνείνου</name></persName></supplied>

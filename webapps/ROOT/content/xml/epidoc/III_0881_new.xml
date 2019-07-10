@@ -106,22 +106,21 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="αὐτοκράτωρ">Αὐτοκράτορα</w> <persName ref="listemperors.xml#Commodus" type="emperor"><supplied reason="lost">
-                        <name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκον</ex></expan></name></supplied> <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><supplied reason="lost">Αὐρήλι</supplied>
+                    <lb n="1"/><w lemma="αὐτοκράτωρ">Αὐτοκράτορα</w> <persName ref="listemperors.xml#Commodus" type="emperor"><supplied reason="lost"><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκον</ex></expan></name></supplied> <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><supplied reason="lost">Αὐρήλι</supplied>
                     <lb n="2" break="no"/><unclear>ον</unclear></name> <name ref="Onom.xml#Commodus" nymRef="Κόμμοδος"><unclear>Κόμοδον</unclear></name> 
                         <name ref="Onom.xml#Antoninus" nymRef="Ἀντονείνος">Ἀν<supplied reason="lost">τωνεῖνον</supplied></name></persName>
                     <lb n="3"/><w lemma="σεβαστός"><expan><abbr>Σεβ</abbr><ex>αστὸν</ex></expan></w> <g type="dot"/> <w>τὸν</w> <w>τῆς</w> 
                     <w lemma="οἰκουμένη">οἰκου<unclear>μ</unclear><supplied reason="lost">ένης</supplied></w> <w lemma="δεσπότης"><supplied reason="lost">δε</supplied>
                     <lb n="4" break="no"/>σπότην</w>, <w lemma="ἡγεμονεύω">ἡγεμονε<unclear>ύ</unclear><supplied reason="lost">οντος</supplied></w>
                     <lb n="5"/><w>τῆς</w> <w lemma="Θρᾷξ">Θρᾳκῶν</w> <w lemma="ἐπαρχεία">ἐπαρχείας</w> 
-                    <persName ref="listemperors.xml#CaecServilianus" type="attested"><name ref="Onom.xml#Caecilius" nymRef="Καικίλιος"><supplied reason="lost">Καικιλί</supplied>
+                    <persName ref="listemperors.xml#CaecServilianus" type="official"><name ref="Onom.xml#Caecilius" nymRef="Καικίλιος"><supplied reason="lost">Καικιλί</supplied>
                     <lb n="6" break="no"/>ου</name> <name nymRef="Σερουιλιανός" ref="Onom.xml#Servilianus">Σερου<unclear>ιλ</unclear>ιανοῦ</name></persName> 
                     <w lemma="πρεσβευτής"><expan><abbr>πρεσβ</abbr><ex>ευτοῦ</ex></expan></w> <supplied reason="lost"><expan><abbr>Σεβ</abbr><ex>αστοῦ</ex></expan></supplied> 
                     <w lemma="ἀντιστράτηγος"><supplied reason="lost">ἀντι</supplied>
                     <lb n="7" break="no"/><unclear>στρ</unclear>ατήγου</w> <w>ἐπὶ</w> <w lemma="συναρχία">συναρχ<supplied reason="lost">ίας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="8"/><gap reason="lost" quantity="3" unit="character"/><w lemma="δῶρον">δώρου</w> <persName ref="listPers.xml#AT212" type="attested"><name ref="Onom.xml#Beithus" nymRef="Βειθυς">Βειθυος</name></persName> <!-- НЕ СЪМ СИГУРНА КАКВО ДА ПРАВЯ С ТОВА --> 
+                    <lb n="8"/><persName ref="listPers.xml#AT212"><gap reason="lost" quantity="3" unit="character"/>δώρου</persName> <persName><name ref="Onom.xml#Beithus" nymRef="Βειθυς">Βειθυος</name></persName> <!-- НЕ СЪМ СИГУРНА КАКВО ДА ПРАВЯ С ТОВА --> 
                     <num value="1">α</num> <w lemma="ἄρχων"><unclear>ἄ</unclear><supplied reason="lost">ρχοντος</supplied></w>
-                    <lb n="9"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="9"/><gap reason="lost" unit="line" extent="unknown"/>
 <!-- тук сложи гръцкия текст -->
                 </ab>
             </div>

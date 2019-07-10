@@ -56,30 +56,20 @@
                                     <objectType xml:lang="en">slab</objectType>
                                     <dimensions>
                                         <!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
-                                        <height quantity="50" unit="cm">50</height>
-                                        <width quantity="18" unit="cm">18</width>
-                                        <depth quantity="17" unit="cm">17</depth>
+                                        <height quantity="50">50</height>
+                                        <width quantity="18">18</width>
+                                        <depth quantity="17">17</depth>
                                     </dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <seg xml:lang="bg">Редове 11 - 12 от текста са разположени във
-                                        венец.</seg>
-                                    <seg xml:lang="en">Lines 11 - 12 of the text are enclosed in
-                                        wreath.</seg>
                                 </layout>
-                                <!-- трябва да добавим и специален таг за място на надписа върху обекта, който може и да не се пълни винаги ДИ -->
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <height atLeast="1.5" atMost="4" unit="cm">1.5-4</height>
-                                <note xml:lang="bg">Ред 8 и 10 се състоят от по-малки букви, буквите
-                                    във венеца са 1.5 см.</note>
-                                <note xml:lang="en">Vs. 8 and 10 consist of smaller letters, the
-                                    letters in the wreath are 1.5 cm.</note>
-                                <!--THIS IS NOT VISUALISED WHERE TO PUT IT - EB-->
+                                <height atLeast="1.5" atMost="4">1.5 - 4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -100,8 +90,8 @@
                             </origPlace>
                             <!--EVIDENCE Е СПОМЕНАВАНЕТО НА ПЪРВИТЕ КЕНДРИСИЙСКИ ПИТИЙСКИ ИГРИ. НЕ ЗНАМ ДАЛИ ГО УЦЕЛИХ ТОВА nomenclature-->
                             <origDate notBefore="0218" notAfter="0222" evidence="context"><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
-                                <seg xml:lang="bg">218-222 г. сл.Хр.</seg>
-                                <seg xml:lang="en">218-222 AD</seg>
+                                <seg xml:lang="bg">218 - 222 г. сл.Хр.</seg>
+                                <seg xml:lang="en">218  -222 AD</seg>
                             </origDate>
                         </origin>
                         <provenance type="found">

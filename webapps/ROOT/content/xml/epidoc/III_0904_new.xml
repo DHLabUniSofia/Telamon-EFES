@@ -30,9 +30,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#Ddoc3_2v"><!-- добави в @corresp след # съответното id от document-type.xml -->
-                            <seg xml:lang="bg">публичен посветителен надпис - стих</seg><!-- с думи -->
-                            <seg xml:lang="en">public dedicatory inscription - verse</seg>
+                        <summary corresp="document-type.xml#Ddoc3_2p"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                            <seg xml:lang="bg">публичен посветителен надпис - проза</seg><!-- с думи -->
+                            <seg xml:lang="en">public dedicatory inscription - prose </seg>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -69,7 +69,7 @@
                                 <seg xml:lang="bg">Филипопол</seg>
                                 <seg xml:lang="en">Philippopolis</seg>
                             </origPlace>
-                            <origDate notBefore="0163" notAfter="0164" evidence="reign"><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
+                            <origDate notBefore="0163" notAfter="0164" evidence="titulature"><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
                                 <seg xml:lang="bg">163 - 164 г. сл.Хр.</seg> <!-- НИСЛЯ, ЧЕ МИХАЙЛОВ НЕ ПРЕДЛАГА ДАТИРОВКА ТУК -->
                                 <seg xml:lang="en">163 - 164 AD</seg>
                             </origDate>
@@ -169,7 +169,7 @@
                                     <settlement>Sofia</settlement>
                                     <country>Bulgaria</country>
                                 </pubPlace>, 
-                                <date></date>
+                                <date>1961</date>
                             </bibl>
                         </listBibl>
                     </seg>
