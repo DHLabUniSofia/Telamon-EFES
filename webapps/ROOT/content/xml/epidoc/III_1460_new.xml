@@ -113,7 +113,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" ref="listDivine.xml#Apollo">Ἀπόλλωνι <persName type="localdivine" ref="listDivine#Zgoulamenus">Ζγουλαμιηνωι</persName></persName> <!-- СГУЛАМИНСКИ В ТАГА ЛИ Е, ДОБАВЯМ ЛИ ГО КЪМ ПРОЗВИЩАТА НА АПОЛОН - ЕБ -->
+                    <lb n="1"/><persName type="divine" ref="listDivine.xml#Apollo">Ἀπόλλωνι <persName type="localdivine" ref="listDivine.xml#Zgoulamenus">Ζγουλαμιηνωι</persName></persName> <!-- СГУЛАМИНСКИ В ТАГА ЛИ Е, ДОБАВЯМ ЛИ ГО КЪМ ПРОЗВИЩАТА НА АПОЛОН - ЕБ -->
                     <w lemma="ἐπήκοος">ἐπηκόῳ</w>
                     <persName>
                         <name ref="Onom.xml#Tiberius" nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name>

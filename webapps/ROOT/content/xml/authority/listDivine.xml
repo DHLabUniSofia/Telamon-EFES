@@ -92,7 +92,7 @@
                <persName xml:lang="bg"></persName>
                <idno type="wp">https://en.wikipedia.org/wiki/Asclepius</idno>
             </person>
-            <person sameAs="Asclepius">
+            <person xml:id="Zymzdrenus" sameAs="Asclepius">
                <persName xml:lang="grc">Ζυμζδρηνος</persName>
                <persName xml:lang="en">Zymzdrenus</persName>
                <persName xml:lang="bg">Зимздрен</persName>

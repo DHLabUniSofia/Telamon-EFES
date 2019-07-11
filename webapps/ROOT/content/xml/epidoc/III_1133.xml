@@ -119,11 +119,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/> <persName type="divine" ref="listDivine.xml#Asclepius"><name><unclear>Ζ</unclear>υμζδρη<unclear>ν</unclear>ῳ</name> 
+                    <lb n="1"/> <persName type="divine" ref="listDivine.xml#Asclepius"><persName type="localdivine" ref="listDivine.xml#Zymzdrenus"><name><unclear>Ζ</unclear>υμζδρη<unclear>ν</unclear>ῳ</name></persName> 
                         <name>Ἀσκληπιῷ</name></persName>
                            <persName ref="listPers.xml#AT125" type="attested">
                                <name nymRef="Σεβαστιανός" ref="Onom.xml#Sebastianus">Σεβαστια<unclear>ν</unclear><supplied reason="lost">ὸς</supplied></name>
-                    <lb n="2"/> <persName ref="listpersons.xml#AT126" type="attested">
+                    <lb n="2"/> <persName ref="listPers.xml#AT126" type="attested">
                         <name nymRef="Μουκατραλις" ref="Onom.xml#Mukatralis">Μουκατραλεος</name></persName></persName> <placeName type="ethnic">Γ<unclear cert="low">υρ</unclear>ταζυνηνος</placeName> 
                     <w lemma="βουλευτής"><expan><abbr>βουλε</abbr><ex>υτὴς</ex></expan></w> 
                     <lb n="3"/> <w lemma="γίγνομαι">γ<unclear>εν</unclear>έσθαι</w> <w lemma="θεός">θεοῦ</w> <w lemma="σημαίνω">ἐ<unclear>σ</unclear>ήμηνεν</w> <w>ἀπ’</w> 
