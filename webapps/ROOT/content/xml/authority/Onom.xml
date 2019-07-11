@@ -219,14 +219,19 @@
         <persName xml:lang="en">Tatazia</persName>
         <persName xml:lang="bg"></persName>
     </person>
-    <person xml:id="Zykoudaisis">
+    <person xml:id="Zykoudaises">
         <persName xml:lang="grc">Ζυκουδαισης</persName>
-        <persName xml:lang="en">Zykoudaisis</persName>
+        <persName xml:lang="en">Zykoudaises</persName>
         <persName xml:lang="bg"></persName>
     </person>
-    <person xml:id="Eptelis">
-        <persName xml:lang="grc">Επτελις</persName>
-        <persName xml:lang="en">Eptelis</persName>
+    <person xml:id="Eptelos">
+        <persName xml:lang="grc">Επτελος</persName>
+        <persName xml:lang="en">Eptelos</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person sameAs="Eptelos">
+        <persName xml:lang="grc">Επταλος</persName>
+        <persName xml:lang="en">Eptalos</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Telesforus">
@@ -244,9 +249,9 @@
         <persName xml:lang="en">Burdapenos</persName>
         <persName xml:lang="bg"></persName>
     </person>
-    <person xml:id="Praxillis">
-        <persName xml:lang="grc">Πραξίλλης</persName>
-        <persName xml:lang="en">Praxillis</persName>
+    <person xml:id="Praxille">
+        <persName xml:lang="grc">Πραξίλλη</persName>
+        <persName xml:lang="en">Praxille</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Eptecaenthus">

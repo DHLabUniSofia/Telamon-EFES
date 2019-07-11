@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Релеф с изображение на богиня и надпис с името на конника Битюс</title><!-- Заглавие -->
-                <title xml:lang="en">Relief with a depiction of a goddess and an inscription with the name of the horseman Beithus</title>
+                <title xml:lang="bg">Анаглиф с изображение на богиня и надпис с името на конника Битюс</title><!-- Заглавие -->
+                <title xml:lang="en">Anaglyph  with a depiction of a goddess and an inscription with the name of the horseman Beithus</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -32,7 +32,7 @@
                     <msContents><!-- Жанр на надписа -->
                         <summary corresp="document-type.xml#doc3-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
                             <seg xml:lang="bg">частен посветителен надпис - проза</seg><!-- с думи -->
-                            <seg xml:lang="en">private dedicatory inscription</seg>
+                            <seg xml:lang="en">private dedicatory inscription - prose</seg>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -41,8 +41,8 @@
                                 <support>
                                     <material xml:lang="bg" ref="material.xml#m">мрамор</material><!-- добави в @ref след # съответното id от material.xml; съдържание на елемента - с думи -->  
                                     <material xml:lang="en">marble</material>
-                                    <objectType xml:lang="bg" ref="object.xml#pan">плоча</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
-                                    <objectType xml:lang="en">panel</objectType>
+                                    <objectType xml:lang="bg" ref="object.xml#sl">плоча</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
+                                    <objectType xml:lang="en">slab</objectType>
                                     <dimensions><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                                         <height quantity="14">14</height>
                                         <width quantity="12">12</width>
@@ -52,8 +52,8 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <seg xml:lang="bg">Надписът е под релефа.</seg>
-                                    <seg xml:lang="en">The inscription is below the relief.</seg>
+                                    <seg xml:lang="bg">Надписът е под анаглифа.</seg>
+                                    <seg xml:lang="en">The inscription is below the anaglyph.</seg>
                                 </layout> <!-- трябва да добавим и специален таг за място на надписа върху обекта, който може и да не се пълни винаги ДИ -->
                             </layoutDesc>
                         </objectDesc>
@@ -64,8 +64,8 @@
                         </handDesc>
                         <decoDesc>
                             <decoNote>
-                                <seg xml:lang="bg">Изобразена е богиня, седнала на трон, която държи скиптър, вероятно Кибела.</seg>
-                                <seg xml:lang="en">A goddess is depicted, sitting on a throne, holding a scepter, possibly Cybele.</seg>
+                                <seg xml:lang="bg">Анаглиф с изображение на богиня, държаща скиптър и седнала на трон, вероятно Кибела.</seg>
+                                <seg xml:lang="en">Anaglyph, depicting goddess sitting on a throne holding a scepter, possibly Cybele.</seg>
                             </decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
                         </decoDesc>
                     </physDesc>

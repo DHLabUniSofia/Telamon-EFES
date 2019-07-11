@@ -59,10 +59,20 @@
                <persName xml:lang="en">Paean</persName>
                <persName xml:lang="bg">Пеан</persName>
             </person>
-            <person sameAs="Apollo">
+            <person xml:id="Kendreisus" sameAs="Apollo">
                <persName xml:lang="grc">Κενδρεισος</persName>
                <persName xml:lang="en">Kendrisus</persName>
                <persName xml:lang="bg">Кендрисос</persName>
+            </person>
+            <person sameAs="Apollo">
+               <persName xml:lang="grc">Κενδρεισηνος</persName>
+               <persName xml:lang="en">Kendreisenus</persName>
+               <persName xml:lang="bg">Кендрисос</persName>
+            </person>
+            <person xml:id="Zgoulamenus" sameAs="Apollo">
+               <persName xml:lang="grc">Ζγουλαμιηνος</persName>
+               <persName xml:lang="en">Zgoulamienus</persName>
+               <persName xml:lang="bg">Згуламиенски</persName>
             </person>
             <person xml:id="Heracles">
                <persName xml:lang="grc">Ἡρακλῆς</persName>
@@ -118,9 +128,9 @@
                <idno type="wp"></idno>
             </person>
             <person xml:id="Nymphs">
-               <persName xml:lang="grc">Χάριτες</persName>
+               <persName xml:lang="grc">Νύμφαι</persName>
                <persName xml:lang="en">Nymphs</persName>
-               <persName xml:lang="bg">Харити</persName>
+               <persName xml:lang="bg">Нимфи</persName>
                <idno type="wp"></idno>
             </person>
                <person xml:id="Pourd-">

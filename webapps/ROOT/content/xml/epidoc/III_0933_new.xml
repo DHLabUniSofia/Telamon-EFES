@@ -52,20 +52,20 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <seg xml:lang="bg">Текстът е в долната част на плочата под релефа.</seg>
+                                    <seg xml:lang="bg">Текстът е в долната част на плочата под анаглифа.</seg>
                                     <seg xml:lang="en">The text is in the lower part of the slab below the anaglyph.</seg>
                                 </layout> <!-- трябва да добавим и специален таг за място на надписа върху обекта, който може и да не се пълни винаги ДИ -->
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <height atLeast="1" atMost="1.5">1-1.5</height><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
+                                <height atLeast="1" atMost="1.5">1 - 1.5</height><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <decoNote>
-                                <seg xml:lang="bg">Анаглиф с изображение на Тракийският конник.</seg>
-                                <seg xml:lang="en">Anaglyph of the Thracian horseman.</seg>
+                                <seg xml:lang="bg">Анаглиф с изображение на тракийския конник.</seg>
+                                <seg xml:lang="en">Anaglyph with depiction of the Thracian horseman.</seg>
                             </decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
                         </decoDesc>
                     </physDesc>

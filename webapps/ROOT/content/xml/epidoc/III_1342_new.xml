@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посвещение от Ептекент от Бурдапа за Нимфите</title><!-- Заглавие -->
+                <title xml:lang="bg">Посвещение от Ептекент от Бурдапа за нимфите</title><!-- Заглавие -->
                 <title xml:lang="en">Dedication from Eptaecenthus of Burdapa for the Nymphs</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
@@ -51,8 +51,8 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout xml:lang="bg">Под барефела</layout> <!-- трябва да добавим и специален таг за място на надписа върху обекта, който може и да не се пълни винаги ДИ -->
-                                <layout xml:lang="en">Below the barelief</layout>
+                                <layout xml:lang="bg">под анаглифа</layout> <!-- трябва да добавим и специален таг за място на надписа върху обекта, който може и да не се пълни винаги ДИ -->
+                                <layout xml:lang="en">below the anaglyph</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -62,8 +62,8 @@
                         </handDesc>
                         <decoDesc>
                             <decoNote>
-                                <note xml:lang="bg">Барелеф изобразяващ три Нимфи намиращ се върху почти кръглата горна част на надписа.</note>
-                                <note xml:lang="en">Barelief depicting three nymphs located on top of subrotund upper part of the inscription.</note>
+                                <note xml:lang="bg">Анаглиф, изобразяващ три нимфи.</note>
+                                <note xml:lang="en">Anaglyph depicting three nymphs.</note>
                             </decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
                         </decoDesc>
                     </physDesc>
@@ -120,10 +120,10 @@
                     <head xml:lang="bg">Разночетения:</head><!-- В случай, че има коментари и от друг характер, да се промени съдържанието на елемента или да се добави нов елемент <head> -->
                     <head xml:lang="en">Readings:</head>
                     <app loc="1" xml:lang="bg"><!-- стойността на атрибута да се замени със съответния ред, на който се среща лигатурата; елементът да се повтори толкова пъти, колкото реда с лигатури има -->
-                        <rdg>Επτεκενθος - "ν" е по-малко и написано по-късно и отгоре . </rdg>
+                        <rdg>Επτεκενθος - по-малко "ν", добавено по-късно над реда. </rdg>
                     </app>
                     <app loc="1" xml:lang="en">
-                        <rdg>Επτεκενθος - "ν" is smaller and is added above and later.</rdg>
+                        <rdg>Επτεκενθος - smaller "ν" added later above the line.</rdg>
                     </app>
                 </listApp>
             </div>

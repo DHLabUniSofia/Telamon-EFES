@@ -55,7 +55,7 @@
                                     <dimensions>
                                         <!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                                         <height quantity="55">55</height>
-                                        <dim type="diameter" quantity="35" precision="low">35</dim>
+                                        <dim type="diameter" quantity="35" precision="low">c. 35</dim>
                                         <depth quantity="0"/>
                                     </dimensions>
                                 </support>
@@ -89,11 +89,11 @@
                         </origin>
                         <provenance type="found">
                             <seg xml:lang="bg">
-                                <placeName type="ancientFindspot" ref="findsp.xml#Hissar"
-                                    >Хисар</placeName><!-- добави в @ref след # съответното id от findsp.xml; съдържание на елемента - с думи -->
+                                <placeName type="ancientFindspot" ref="findsp.xml#Vetren"
+                                    >Ветрен</placeName><!-- добави в @ref след # съответното id от findsp.xml; съдържание на елемента - с думи -->
                             </seg>
                             <seg xml:lang="en">
-                                <placeName type="ancientFindspot">Hissar</placeName>
+                                <placeName type="ancientFindspot">Vetren</placeName>
                             </seg>
                         </provenance>
                         <provenance type="observed">
@@ -117,17 +117,22 @@
         </revisionDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="именаснимка.jpeg"/>
+        <graphic url="именаснимка.jpg"/>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><w lemma="ἀγαθός">ἀγαθῆι</w> <w lemma="τύχη">τύχηι</w>.
-                    <lb n="2"/><w lemma="αύτοκράτωρ"><supplied reason="lost">Αὐτοκράτορι</supplied></w> <w lemma="καῖσαρ">Καίσαρι</w> <persName ref="listemperors.xml#Gordianus" type="emperor"><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan></name> <name nymRef="Ἀντώνιος" ref="Onom.xml#Antonius">Ἀντωνίῳ</name> <supplied reason="lost"><name nymRef="Γορδιανός" ref="Onom.xml#Gordianus">Γορδιανῷ</name></supplied>
-                    <lb n="3"/><supplied reason="lost"><w lemma="εὐσεβής">Εὐσεβεῖ</w></supplied> <w lemma="εὐτυχής"><supplied reason="lost">Εὐτυχε</supplied>ῖ</w> <w lemma="σεβαστός">Σεβαστῷ</w></persName>, <w lemma="ἡγεμονεύω">ἡγεμονεύοντος</w>
-                    <lb n="4"/><supplied reason="lost">τῆς <w lemma="Θρᾷξ">Θρᾳκῶν</w></supplied> <w lemma="ἐπαρχεία"><supplied reason="lost">ἐπ</supplied>αρχείας</w> <persName type="official" ref="listemperors.xml#Celer"><name ref="Onom.xml#Quintus" nymRef="Κοΐντος"><expan><abbr>Κ</abbr><ex>οΐντου</ex></expan></name> <name nymRef="Ἄτιος">Ἀτίου</name> <name ref="Onom.xml#Celer" nymRef="Κέλερ">Κέλερ<supplied reason="lost">ος</supplied></name></persName>
-                    <lb n="5"/><supplied reason="lost"><w lemma="πρεσβευτής"><expan><abbr>πρεσβ</abbr><ex>ευτοῦ</ex></expan></w> <w lemma="σεβαστός"><expan><abbr>Σεβ</abbr><ex>αστοῦ</ex></expan></w></supplied> <w lemma="ἀντιστράτηγος"><supplied reason="lost">ἀ</supplied>ντιστρατήγου</w>, ἡ <w lemma="λαμπρός">λαμπροτάτη</w>
+                    <lb n="2"/><w lemma="αύτοκράτωρ"><supplied reason="lost">Αὐτοκράτορι</supplied></w> <w lemma="καῖσαρ">Καίσαρι</w> <persName ref="listemperors.xml#Gordianus" type="emperor"><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan></name> 
+                        <name nymRef="Ἀντώνιος" ref="Onom.xml#Antonius">Ἀντωνίῳ</name> <supplied reason="lost"><name nymRef="Γορδιανός" ref="Onom.xml#Gordianus">Γορδιανῷ</name></supplied>
+                    <lb n="3"/><supplied reason="lost"><w lemma="εὐσεβής">Εὐσεβεῖ</w></supplied> <w lemma="εὐτυχής"><supplied reason="lost">Εὐτυχε</supplied>ῖ</w> 
+                        <w lemma="σεβαστός">Σεβαστῷ</w></persName>, <w lemma="ἡγεμονεύω">ἡγεμονεύοντος</w>
+                    <lb n="4"/><supplied reason="lost">τῆς <w lemma="Θρᾷξ">Θρᾳκῶν</w></supplied> <w lemma="ἐπαρχεία"><supplied reason="lost">ἐπ</supplied>αρχείας</w> 
+                    <persName type="official" ref="listemperors.xml#Celer"><name ref="Onom.xml#Quintus" nymRef="Κοΐντος"><expan><abbr>Κ</abbr><ex>οΐντου</ex></expan></name> 
+                        <name nymRef="Ἄτιος">Ἀτίου</name> <name ref="Onom.xml#Celer" nymRef="Κέλερ">Κέλερ<supplied reason="lost">ος</supplied></name></persName>
+                    <lb n="5"/><supplied reason="lost"><w lemma="πρεσβευτής"><expan><abbr>πρεσβ</abbr><ex>ευτοῦ</ex></expan></w> 
+                        <w lemma="σεβαστός"><expan><abbr>Σεβ</abbr><ex>αστοῦ</ex></expan></w></supplied> <w lemma="ἀντιστράτηγος"><supplied reason="lost">ἀ</supplied>ντιστρατήγου</w>, ἡ <w lemma="λαμπρός">λαμπροτάτη</w>
                     <lb n="6"/><supplied reason="lost">τῆς <placeName type="ethnic" nymRef="Θρᾷξ">Θρᾳκῶν</placeName></supplied> <w lemma="ἐπαρχεία"><supplied reason="lost">ἐπαρ</supplied>χείας</w> <w lemma="μητρόπολις">μητρόπολις</w> <placeName ref="listPlaces.xml#Phil" nymRef="Φιλιππόπολις">Φιλιππό
                     <lb n="7" break="no"/><supplied reason="lost">πολις</supplied></placeName> <w lemma="ἀνίστημι"><supplied reason="lost">ἀνέσ</supplied>τησεν</w> τὸ <w lemma="μίλιον">μείλιον</w>
                     <lb n="8"/><num value="4">γ</num>.

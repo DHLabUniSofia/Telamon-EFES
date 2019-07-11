@@ -136,8 +136,8 @@
                <occupation></occupation>
             </person>
             <person xml:id="AT129">
-               <persName xml:lang="grc">Χρῆστος Τελεσφόρος</persName>
-               <persName xml:lang="en">Christus Telesforus</persName>
+               <persName xml:lang="grc">Χρῆστος Τελεσφόρου</persName>
+               <persName xml:lang="en">Christus son of Telesforus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>προμέτρης</occupation>
             </person>

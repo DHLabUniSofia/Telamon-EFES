@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посветителен надпис от светилище на Тракийския херос при с. Варвара</title><!-- Заглавие -->
-                <title xml:lang="en">Dedicatory inscription fron the sanctuari of the Thacian heros in Varvara village</title>
+                <title xml:lang="bg">Посветителен надпис от светилище на тракийския конник при с. Варвара</title><!-- Заглавие -->
+                <title xml:lang="en">Dedicatory inscription fron the sanctuary of the Thacian horseman in Varvara village</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -138,7 +138,7 @@
                                 <author>Георги Михайлов</author>.                                
                                 <date>1961</date>. 
                                 <title>Inscriptones Grecae in Bulgaria repertae</title>
-                                <biblScope unit="volume"></biblScope>, <!-- да се попълни  -->
+                                <biblScope unit="volume">III.1</biblScope>, <!-- да се попълни  -->
                                 <pubPlace>
                                     <settlement>София</settlement>, 
                                     <country>България</country>

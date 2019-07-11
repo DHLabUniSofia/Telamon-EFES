@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посветителен надпис от Татадзия от Бурдапа</title><!-- Заглавие -->
+                <title xml:lang="bg">Посветителен надпис от Татазия от Бурдапа</title><!-- Заглавие -->
                 <title xml:lang="en">Dedicatory inscription of Tatazia from Burdape</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
@@ -52,8 +52,8 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <note xml:lang="bg">под барелефа.</note>
-                                    <note xml:lang="en">below the low relief.</note>
+                                    <note xml:lang="bg">под анаглифа.</note>
+                                    <note xml:lang="en">below the anaglyph.</note>
                                 </layout> <!-- трябва да добавим и специален таг за място на надписа върху обекта, който може и да не се пълни винаги ДИ -->
                             </layoutDesc>
                         </objectDesc>
@@ -64,8 +64,8 @@
                         </handDesc>
                         <decoDesc>
                             <decoNote >
-                                <note xml:lang="bg">барелеф с изображение на трите нимфи.</note>
-                                <note xml:lang="en">barelief with depiction of the three nymphs.</note>
+                                <note xml:lang="bg">анаглиф с изображение на трите нимфи.</note>
+                                <note xml:lang="en">anaglyph with depiction of the three nymphs.</note>
                             </decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
                         </decoDesc>
                     </physDesc>
@@ -116,7 +116,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <!-- ИМЕНАТА НЕ СЕ НАМИРАТ В Onom.xml --><lb n="1"/><persName><name nymRef="Ταταζια" ref="Onom.xml#Tatazia">Ταταζια</name> 
-                        <name nymRef="Επτελις" ref="Onom.xml#Eptelis">Επτελου</name> <name nymRef="Βουρδαπηνος" ref="Onom.xml#Burdapenos">Βουρδ
+                        <name nymRef="Επτελος" ref="Onom.xml#Eptelos">Επτελου</name> <name nymRef="Βουρδαπηνος" ref="Onom.xml#Burdapenos">Βουρδ
                     <lb n="2" break="no"/>απηνος</name></persName> <w lemma="εὐχή">εὐχήν</w>
                 </ab>
             </div>
@@ -125,19 +125,17 @@
                     <head xml:lang="bg">Букви в лигатура:</head><!-- В случай, че има коментари и от друг характер, да се промени съдържанието на елемента или да се добави нов елемент <head> -->
                     <head xml:lang="en">Letters in ligature:</head>
                     <app loc="2"><note> ην, ην. </note></app>
-                     <app loc="1,2" xml:lang="bg">
-                         <rdg>Ταταζια - предпочита се да бъде схващано като женско лично име, но не е изключена възможността да е мъжко.  </rdg>
-                         <rdg>Επτελου - Добринка дава Επτενου (именителен падеж: Επτενις). </rdg>
-                         <rdg>Βουρδαπηνος - Добринка, казвайки, че не е ясно, дава νος(отнасящо се към Ταταζια) или νες(=ναις), което и предпочита. Сравни №1340. </rdg>
+                     <app loc="1,2" xml:lang="bg">      
+                         <rdg>Επτελου - Добруски дава Επτενου (именителен падеж: Επτενις). </rdg>
+                         <rdg>Βουρδαπηνος - Добруски, казвайки, че не е ясно, дава νος(отнасящо се към Ταταζια) или νες(=ναις), което и предпочита. Сравни №1340. </rdg>
                      </app>   
                     <app loc="1,2" xml:lang="en">
-                        <rdg>Ταταζια - it is prefered to be thought of as a feminine given name, but there is a posibility of it being a masculine one. </rdg>
-                        <rdg>Επτελου - Dobrinka gives Επτενου (nominative: Επτενις).</rdg>
-                        <rdg>Βουρδαπηνος - Dobrinka, saying that it is unclear, gives νος (agreeing with Ταταζια) or νες(=ναις), which he prefers. Cf №1340.</rdg>
+                        <rdg>Επτελου - Dobruski gives Επτενου (nominative: Επτενις).</rdg>
+                        <rdg>Βουρδαπηνος - Dobruski, saying that it is unclear, gives νος (agreeing with Ταταζια) or νες(=ναις), which he prefers. Cf №1340.</rdg>
                     </app>
                 </listApp>
             </div>
-            <div type="translation">
+            <div type="translation"> 
                 <p>
                     <seg xml:lang="bg">
                         Татадзия Бурдапенскa [дъщеря] на Ептел [направи/изпълни] обροκ. 
@@ -150,10 +148,10 @@
             <div type="commentary">
                 <p>
                     <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
+                        Ταταζια - предпочита се да бъде схващано като женско лично име, но не е изключена възможността да е мъжко.  
                     </seg>
                     <seg xml:lang="en">
-                        Not available.
+                        Ταταζια - it is prefered to be thought of as a feminine given name, but there is a posibility of it being a masculine one. 
                     </seg>
                 </p>
             </div>

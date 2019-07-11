@@ -93,6 +93,12 @@
                     <idno type="geonames">https://www.geonames.org/730405</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place sameAs="Hrabrino">
+                    <placeName xml:lang="en">Sveti Spas</placeName>
+                    <placeName xml:lang="bg">Свети Спас</placeName>
+                    <idno type="geonames">https://www.geonames.org/730405</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="ByalIzvor">
                     <placeName xml:lang="en">Byal Izvor</placeName>
                     <placeName xml:lang="bg">Бял извор</placeName>

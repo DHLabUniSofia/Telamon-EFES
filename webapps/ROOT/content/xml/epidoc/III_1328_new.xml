@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Надгробен надпис от Праксил от Цалапица</title><!-- Заглавие -->
-                <title xml:lang="en">Funerary inscription from Praxilles from Tsalapitsa</title>
+                <title xml:lang="bg">Надгробен надпис на Праксила от Цалапица</title><!-- Заглавие -->
+                <title xml:lang="en">Funerary inscription for Praxille from Tsalapitsa</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -34,9 +34,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#doc4p"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                        <summary corresp="document-type.xml#doc4v"><!-- добави в @corresp след # съответното id от document-type.xml -->
                             <!-- cert="low" --><seg xml:lang="bg">Надгробен надпис - проза.</seg><!-- с думи -->
-                            <seg xml:lang="en">Funerary inscription - prose.</seg>
+                            <seg xml:lang="en">Funerary inscription - verse.</seg>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -45,8 +45,8 @@
                                 <support>
                                     <material xml:lang="bg" ref="material.xml#m">мрамор</material><!-- добави в @ref след # съответното id от material.xml; съдържание на елемента - с думи -->  
                                     <material xml:lang="en">marble</material>
-                                    <!-- tabula= плоча/plate? --><objectType xml:lang="bg" ref="object.xml#pl">Плоча</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи-->   
-                                    <objectType xml:lang="en">Plate</objectType>
+                                    <!-- tabula= плоча/plate? --><objectType xml:lang="bg" ref="object.xml#sl">плоча</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи-->   
+                                    <objectType xml:lang="en">slab</objectType>
                                     <dimensions><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                                         <height quantity="55">55</height>
                                         <width quantity="51">51</width>
@@ -56,8 +56,8 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <seg xml:lang="bg">под барелефа.</seg>
-                                    <seg xml:lang="en">below the barelief.</seg>
+                                    <seg xml:lang="bg">под анаглифа.</seg>
+                                    <seg xml:lang="en">below the anaglyph.</seg>
                                 </layout> <!-- трябва да добавим и специален таг за място на надписа върху обекта, който може и да не се пълни винаги ДИ -->
                             </layoutDesc>
                         </objectDesc>
@@ -67,8 +67,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <decoNote xml:lang="bg">Барелеф изобразяващ погребален обяд/гощавка.</decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
-                            <decoNote xml:lang="en"> Barelief depicting a funerary lunch/meal.</decoNote>
+                            <decoNote xml:lang="bg">Анаглиф изобразяващ погребално угощение.</decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
+                            <decoNote xml:lang="en">Anaglyph depicting a funerary meal.</decoNote>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -84,7 +84,7 @@
                         </origin>
                         <provenance type="found">
                             <seg xml:lang="bg">
-                                <!--  --> <placeName type="ancientFindspot" ref="findsp.xml#">Цалапица</placeName><!-- добави в @ref след # съответното id от findsp.xml; съдържание на елемента - с думи -->
+                                <!--  --> <placeName type="ancientFindspot" ref="findsp.xml#Tsalapitsa">Цалапица</placeName><!-- добави в @ref след # съответното id от findsp.xml; съдържание на елемента - с думи -->
                             </seg>
                             <seg xml:lang="en">
                                 <placeName  type="ancientFindspot">Tsalapitsa</placeName>
@@ -115,13 +115,12 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
-                    <!-- името не се намира в Onom.xml --><lb n="1"/><persName type="attested"><name  nymRef="Πραξίλλης" ref="Onom.xml#Praxillis">Π<supplied reason="omitted">ρ</supplied>αξίλλης</name></persName> <w lemma="ὅδε">τόδε</w> 
+                <lg>
+                    <!-- името не се намира в Onom.xml --><lb n="1"/><l n="1"><persName type="attested"><name  nymRef="Πραξίλλη" ref="Onom.xml#Praxille">Π<supplied reason="omitted"><!-- UNCLEAR PACKHUM -->ρ</supplied>αξίλλης</name></persName> <w lemma="ὅδε">τόδε</w> 
                     <w lemma="σῆμα">σῆμα</w> <w lemma="θεουδής">θεουδέος</w>
-                    <lb n="2"/><w lemma="εἶδος">εἶδος</w> <w lemma="ἀγαθός">ἀρίστης</w> <w>καὶ</w> <w lemma="γενεά">γενεὰν</w> <w lemma="παῖς">παίδων</w>
-           <lb n="3"/> <w lemma="παῖς">παισὶ</w> <w lemma="λοχεύω">λοχευσαμένης</w>
-
-                </ab>
+                    <lb n="2"/><w lemma="εἶδος">εἶδος</w> <w lemma="ἀγαθός">ἀρίστης</w></l> <l n="2"><w>καὶ</w> <w lemma="γενεά">γενεὰν</w> <w lemma="παῖς">παίδων</w>
+           <lb n="3"/><w lemma="παῖς">παισὶ</w> <w lemma="λοχεύω">λοχευσαμένης</w></l>
+                </lg>
             </div>
             <div type="apparatus">
                 <listApp >

@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посветителен надпис за Аполон Кендрисийски от Джембазтепе</title><!-- Заглавие -->
+                <title xml:lang="bg">Посветителен надпис за Аполон Кендрисийски от Джендемтепе</title><!-- Заглавие -->
                 <title xml:lang="en">Dedicatory inscription for Apollo Cendrisus from Dzendemtepe</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
@@ -41,8 +41,8 @@
                                 <support>
                                     <material xml:lang="bg" ref="material.xml#m">мрамор</material><!-- добави в @ref след # съответното id от material.xml; съдържание на елемента - с думи -->  
                                     <material xml:lang="en">marble</material>
-                                    <objectType xml:lang="bg" ref="object.xml#pan">плоча</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
-                                    <objectType xml:lang="en">panel</objectType>
+                                    <objectType xml:lang="bg" ref="object.xml#sl">плоча</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
+                                    <objectType xml:lang="en">slab</objectType>
                                     <dimensions><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                                         <height quantity="13">13</height>
                                         <width quantity="11">11</width>
@@ -52,8 +52,8 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <seg xml:lang="bg">Текстът е разположен над релефа.</seg>
-                                    <seg xml:lang="en">The text is situated above the relief.</seg>
+                                    <seg xml:lang="bg">Текстът е разположен над барелефа.</seg>
+                                    <seg xml:lang="en">The text is situated above the barelief.</seg>
                                 </layout> <!-- трябва да добавим и специален таг за място на надписа върху обекта, който може и да не се пълни винаги ДИ -->
                             </layoutDesc>
                         </objectDesc>
@@ -64,8 +64,8 @@
                         </handDesc>
                         <decoDesc>
                             <decoNote>
-                                <seg xml:lang="bg">Изобразен е Тракийският конник.</seg>
-                                <seg xml:lang="en">Thracian horseman is depicted in the relief.</seg>
+                                <seg xml:lang="bg">Изобразен е τракийският конник.</seg>
+                                <seg xml:lang="en">Thracian horseman is depicted οn the barelief.</seg>
                             </decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
                         </decoDesc>
                     </physDesc>
@@ -102,7 +102,7 @@
         </fileDesc>
         <revisionDesc>
             <change when="2019-06-21" who="BI">въведох в кода информацията от сборика на Г. Михайлов</change>
-            <change when="2019-07-07" who="ЕБ">corrected, added links</change> <!-- сложи @when с година-месец-ден и @who с инициали; като съдържание сложи описание на свършената от теб работа по надписа -->
+            <change when="2019-07-07" who="EB">corrected, added links</change> <!-- сложи @when с година-месец-ден и @who с инициали; като съдържание сложи описание на свършената от теб работа по надписа -->
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -112,7 +112,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName ref="listDivine.xml#Apollo" type="divine">Ἀπόλ<supplied reason="lost">λωνι</supplied></persName> --- ---
+                    <lb n="1"/><persName ref="listDivine.xml#Apollo" type="divine">Ἀπόλ<supplied reason="lost">λωνι</supplied></persName> <gap reason="lost" extent="unknown" unit="character"></gap>
 <!-- тук сложи гръцкия текст -->
                 </ab>
             </div>

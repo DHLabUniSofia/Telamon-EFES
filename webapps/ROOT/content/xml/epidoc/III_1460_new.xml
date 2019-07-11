@@ -52,8 +52,8 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
-                                    <seg xml:lang="bg">Текстът е в долната част на плочата под релефа.</seg>
-                                    <seg xml:lang="en">The text is in the lower part of the slab below the relief.</seg>
+                                    <seg xml:lang="bg">Текстът е в долната част на плочата под анаглифа.</seg>
+                                    <seg xml:lang="en">The text is in the lower part of the slab below the anaglyph.</seg>
                                 </layout> <!-- трябва да добавим и специален таг за място на надписа върху обекта, който може и да не се пълни винаги ДИ -->
                             </layoutDesc>
                         </objectDesc>
@@ -64,8 +64,8 @@
                         </handDesc>
                         <decoDesc>
                             <decoNote>
-                                <seg xml:lang="bg">Изображение на тракийския конник.</seg>
-                                <seg xml:lang="en">Depiction of the Thracian horseman.</seg>
+                                <seg xml:lang="bg">Анаглиф с изображение на тракийския конник.</seg>
+                                <seg xml:lang="en">Anaglyph depicting the Thracian horseman.</seg>
                             </decoNote><!-- попълни с описание на декорацията на обекта, ако е налично -->
                         </decoDesc>
                     </physDesc>
@@ -113,7 +113,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" ref="listDivine.xml#Apollo">Ἀπόλλωνι Ζγουλαμιηνωι</persName> <!-- СГУЛАМИНСКИ В ТАГА ЛИ Е, ДОБАВЯМ ЛИ ГО КЪМ ПРОЗВИЩАТА НА АПОЛОН - ЕБ -->
+                    <lb n="1"/><persName type="divine" ref="listDivine.xml#Apollo">Ἀπόλλωνι <persName type="localdivine" ref="listDivine#Zgoulamenus">Ζγουλαμιηνωι</persName></persName> <!-- СГУЛАМИНСКИ В ТАГА ЛИ Е, ДОБАВЯМ ЛИ ГО КЪМ ПРОЗВИЩАТА НА АПОЛОН - ЕБ -->
                     <w lemma="ἐπήκοος">ἐπηκόῳ</w>
                     <persName>
                         <name ref="Onom.xml#Tiberius" nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name>

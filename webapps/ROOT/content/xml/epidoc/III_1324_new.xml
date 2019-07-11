@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Погребален надпис на Тит Флавий Зикудайсис с анаглиф на тракийски конник от Исперихово</title><!-- Заглавие -->
-                <title xml:lang="en">Funerary inscription for Titus Flavius Zykoudaisis with anaglyph with Thracian horseman from Isperihovo</title>
+                <title xml:lang="bg">Погребален надпис на Тит Флавий Зикудайсес с анаглиф на тракийски конник от Исперихово</title><!-- Заглавие -->
+                <title xml:lang="en">Funerary inscription for Titus Flavius Zykoudaises with anaglyph with Thracian horseman from Isperihovo</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -145,8 +145,8 @@
             </div>
             <div type="translation">
                 <p>
-                    <seg xml:lang="bg">Тит Флавий Зикудайсис приживе положи за него и съпругата му.</seg>
-                    <seg xml:lang="en">Titus Flavius Zykou daisis while still living placed for himself and his wife.</seg>
+                    <seg xml:lang="bg">Тит Флавий Зикудайсес приживе положи за него и съпругата му.</seg>
+                    <seg xml:lang="en">Titus Flavius Zykoudaises while still living placed for himself and his wife.</seg>
                 </p>
             </div>
             <div type="commentary">
