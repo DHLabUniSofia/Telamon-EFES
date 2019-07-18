@@ -105,7 +105,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                     <ab>
                     <lb n="1"/><persName type="divine" ref="listDivine.xml#Apollo"><name>Ἀπόλλωνι</name>
-                    <lb n="2"/><name>Κενδρισῳ</name></persName> <persName ref="listPers.xml#AT015" type="attested"><name ref="Onom.xml#Beithus" nymRef="Βειθυς">Βειθυς</name>
+                    <lb n="2"/><persName type="localdivine" ref="listDivine.xml#Kendriseus">Κενδρισῳ</persName></persName> <persName ref="listPers.xml#AT015" type="attested"><name ref="Onom.xml#Beithus" nymRef="Βειθυς">Βειθυς</name>
                     <lb n="3"/><name ref="Onom.xml#Kotys" nymRef="Κοτυς">Κοτυος</name></persName> <w lemma="ἱερεύς">ἱερεὺς</w>
                     <lb n="4"/><persName type="divine" ref="listDivine.xml#Syria">Συρίας θεᾶς</persName>
 	     <lb n="5"/><w lemma="δῶρον">δῶρον</w> <w lemma="ἀνατίθημι">ἀνέ                

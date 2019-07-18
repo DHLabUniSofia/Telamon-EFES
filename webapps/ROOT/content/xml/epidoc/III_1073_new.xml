@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посветителен надпис за Аполон Кендрисийски от храма му във Филипопол, намерен в Асеновград</title><!-- Заглавие -->
-                <title xml:lang="en">Dedicatory inscription for Apollo Cendrisus from his temple in Philippopolis, found in Asenovgrad</title> <!-- ТОВА?? -->
+                <title xml:lang="bg">Посветителен надпис върху олтар от Мукакент, сина на Динис, и братята му</title><!-- Заглавие -->
+                <title xml:lang="en">Dedicatory inscription on an altar by Mukakenthus, Dinis' son, and his brothers</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -14,25 +14,25 @@
             </titleStmt>            
             <publicationStmt>
                 <authority>Telamon Project</authority>
-                <date>2018</date>
-                <idno type="filename">III.919</idno><!-- номер на надписа -->
+                <date>2019</date>
+                <idno type="filename">III.1073</idno><!-- номер на надписа -->
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier><country/> 
+                    <msIdentifier><country/> <!-- какво слагаме в първия идентификатор и в алт идентификатора? на едното място може би да отиде инв. номер от музея, но на кое? ДИ -->
                         <altIdentifier  xml:lang="bg">
-                            <repository>Национален археологически институт с музей</repository><!-- Институция -->
-                            <idno>5931</idno><!-- Инвентарен номер -->
+                            <repository>Регионален исторически музей – Пазарджик</repository><!-- Институция -->
+                            <idno>—</idno><!-- Инвентарен номер -->
                         </altIdentifier>
                         <altIdentifier xml:lang="en">
-                            <repository>National Archaeological Institute with Museum</repository>
-                            <idno>5931</idno>
+                            <repository>Pazardzhik History Museum</repository>
+                            <idno>—</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
                         <summary corresp="document-type.xml#doc3-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
                             <seg xml:lang="bg">частен посветителен надпис - проза</seg><!-- с думи -->
-                            <seg xml:lang="en">private dedicatory inscription - prose</seg> <!-- В АВТОРИТЕТНИЯ СПИСЪК НЕ Е ОЗНАЧЕН, ЧЕ Е В ПРОЗА -->
+                            <seg xml:lang="en">private dedicatory inscription - prose</seg>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -44,9 +44,9 @@
                                     <objectType xml:lang="bg" ref="object.xml#altar">олтар</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
                                     <objectType xml:lang="en">altar</objectType>
                                     <dimensions><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
-                                        <height quantity="65">65</height>
-                                        <width quantity="33">33</width>
-                                        <depth quantity="28">28</depth>
+                                        <height quantity="50">50</height>
+                                        <width quantity="34"></width>
+                                        <depth quantity="34"></depth>
                                     </dimensions>
                                 </support>
                             </supportDesc>
@@ -56,7 +56,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                               <height atLeast="3.6" atMost="5">3.6 - 5</height> <!-- РАЗЛИЧНИ ЗА РАЗЛИЧНИ РЕДОВЕ ОБАЧЕ?? --><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
+                                <height atLeast="3" atMost="4.5">3 - 4.5</height><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,9 +65,9 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="origloc.xml#Phil"><!-- добави в @ref след # съответното id от origloc.xml; съдържание на елемента - с думи -->
-                                <seg xml:lang="bg">Филипопол</seg>
-                                <seg xml:lang="en">Philippopolis</seg>
+                            <origPlace ref="origloc.xml#"><!-- добави в @ref след # съответното id от origloc.xml; съдържание на елемента - с думи -->
+                                <seg xml:lang="bg"></seg> <!-- НЕ ГО НАМИРАМ В САЙТА -->
+                                <seg xml:lang="en"></seg>
                             </origPlace>
                             <origDate><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
                                 <seg xml:lang="bg"></seg>
@@ -76,10 +76,10 @@
                         </origin>
                         <provenance type="found">
                             <seg xml:lang="bg">
-                                <placeName type="ancientFindspot" ref="findsp.xml#As">Асеновград</placeName><!-- добави в @ref след # съответното id от findsp.xml; съдържание на елемента - с думи -->
+                                <placeName type="ancientFindspot" ref="findsp.xml#Pamidovo">Памидово</placeName><!-- добави в @ref след # съответното id от findsp.xml; съдържание на елемента - с думи -->
                             </seg>
                             <seg xml:lang="en">
-                                <placeName  type="ancientFindspot">Asenovgrad</placeName>   <!-- СВЕТИ ИЛИЯ ГО НЯМА В GEONAMES -->
+                                <placeName  type="ancientFindspot">Pamidovo</placeName>
                             </seg>
                         </provenance>
                         <provenance type="observed">
@@ -95,9 +95,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2019-06-21" who="BI">попълних в кода информацията от сборника на Г. Михайлов</change>
-            <change when="2019-07-07" who="ЕB">corr., added links</change>
-            <!-- сложи @when с година-месец-ден и @who с инициали; като съдържание сложи описание на свършената от теб работа по надписа -->
+            <change when="2019-07-06" who="BI">попълних в кода информацията от корпуса на Г. Михайлов</change>
+            <change when="2019-07-18" who="EB">corrected, added links</change><!-- сложи @when с година-месец-ден и @who с инициали; като съдържание сложи описание на свършената от теб работа по надписа -->
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -107,10 +106,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="ἀγαθός"><supplied reason="lost">ἀγ</supplied><unclear>α</unclear>θῆ<g type="dot"/>ι<g type="dot"/></w> <g type="leaf"/> <w lemma="τύχη">τύχη<supplied reason="lost">ι</supplied></w>.
-                    <lb n="2"/><persName type="divine" ref="listDivine.xml#Apollo"><supplied reason="lost">Ἀ</supplied><unclear>π</unclear>όλλωνι
-                    <lb n="3"/><persName type="localdivine" ref="listDivine.xml#Kendriseus">Κενδρειση
-                    <lb n="4" break="no"/>νῳ</persName></persName> <w lemma="σωτήρ">σωτῆρι</w>.
+                    <lb n="1"/><persName><name nymRef="Μουκακενθος" ref="Onom.xml#Mukakenthus">Μουκακεν<unclear>θ</unclear><!-- НЕ СЪМ СИГУРНА ЗА ТЕЗИ ИМЕНА, НЯМА ГИ В СПИСЪКА -->
+                    <lb n="2" break="no"/>ος</name> <name nymRef="Δινις" ref="Onom.xml#Dinis">Δινεος</name></persName> <w>κ
+                    <lb n="3" break="no"/><supplied reason="lost">αὶ</supplied></w> <w>οἱ</w> <w lemma="λοιπός">λοιποὶ</w>
+                    <lb n="4"/><w lemma="ἀδελφός"><supplied reason="lost">ἀδελ</supplied>φοὶ</w> <w>τὸ
+                    <lb n="5" break="no"/><supplied reason="lost">ν</supplied></w> <supplied reason="lost"><w lemma="βωμός">βωμὸν</w></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><gap reason="lost" quantity="1" unit="line"/>
 <!-- тук сложи гръцкия текст -->
                 </ab>
             </div>
@@ -118,31 +119,22 @@
                 <listApp >
                     <head xml:lang="bg">Букви в лигатура:</head><!-- В случай, че има коментари и от друг характер, да се промени съдържанието на елемента или да се добави нов елемент <head> -->
                     <head xml:lang="en">Letters in ligature:</head>
-                    <app loc="4">
-                        <note>τηρ.</note><!-- стойността на атрибута да се замени със съответния ред, на който се среща лигатурата; елементът да се повтори толкова пъти, колкото реда с лигатури има -->
+                    <app loc="1"><!-- стойността на атрибута да се замени със съответния ред, на който се среща лигатурата; елементът да се повтори толкова пъти, колкото реда с лигатури има -->
                         <rdg></rdg>
                     </app>
                 </listApp>
             </div>
             <div type="translation">
-                <p>
-                    <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има превод - да се попълни тук -->
-                    </seg>
-                    <seg xml:lang="en">
-                        Not available.
-                    </seg>
-                </p>
+                <!-- <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="commentary">
-                <p>
-                    <seg xml:lang="bg">
-                        Не е наличен.<!-- Съдържание по подразбиране, ако има коментар - да се попълни тук -->
-                    </seg>
-                    <seg xml:lang="en">
-                        Not available.
-                    </seg>
-                </p>
+                <!--  <p>
+                    <seg xml:lang="bg"></seg>
+                    <seg xml:lang="en"></seg>
+                </p> -->
             </div>
             <div type="bibliography">
                 <p>

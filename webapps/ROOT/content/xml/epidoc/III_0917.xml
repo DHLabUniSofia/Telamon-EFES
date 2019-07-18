@@ -121,7 +121,7 @@
             <lb n="3"/>        
                     <w lemma="ἀντιστράτηγος">ἀντιστρατήγου</w>
                     <w lemma="θεός">θεῷ</w>
-                    <persName type="divine" ref="listDivine.xml#Apollo">Κενδρεισῳ</persName>
+                    <persName type="divine" ref="listDivine.xml#Apollo"><persName type="localdivine" ref="listDivine.xml#Kendriseus">Κενδρεισῳ</persName></persName>
              <lb n="4"/>
                     <w lemma="τέχνη">τέχνη</w> <w lemma="κάπηλος"> καπήλων</w>  
                     <w lemma="εὐχαριστός">εὐχαριστῖ</w>,

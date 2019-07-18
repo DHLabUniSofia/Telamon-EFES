@@ -40,6 +40,11 @@
                     <placeName xml:lang="bg">Огняново</placeName>
                     <idno type="geonames">https://www.geonames.org/728660/ognyanovo.html</idno> 
                 </place>
+                <place xml:id="Novoselo">
+                    <placeName xml:lang="en">Novo selo</placeName>
+                    <placeName xml:lang="bg">Ново село</placeName>
+                    <idno type="geonames">https://www.geonames.org/728715</idno> 
+                </place>
                 <place xml:id="Tsalapitsa">
                     <placeName xml:lang="en">Tsalapitsa</placeName>
                     <placeName xml:lang="bg">Цалапица</placeName>
@@ -127,6 +132,12 @@
                     <idno type="geonames">http://www.geonames.org/732874/brezovo.html</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place xml:id="Brestovitsa">
+                    <placeName xml:lang="en">Brestovitsa</placeName>
+                    <placeName xml:lang="bg">Брестовица</placeName>
+                    <idno type="geonames">https://www.geonames.org/732898</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="Gost">
                     <placeName xml:lang="en">Gostilica</placeName>
                     <placeName xml:lang="bg">Гостилица</placeName>
@@ -174,11 +185,16 @@
                 </place>
                 <place xml:id="Voinitsite">
                     <placeName xml:lang="en">Voinitsite</placeName>
-                    <placeName xml:lang="bg">Хисаря</placeName>
+                    <placeName xml:lang="bg">Войниците</placeName>
                     <idno type="pleiades"></idno>
                     <idno type="geonames">http://www.geonames.org/725761/voynitsite.html</idno>
                 </place>
-                
+                <place xml:id="Orizare">
+                    <placeName xml:lang="en">Orizare</placeName>
+                    <placeName xml:lang="bg">Оризаре</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">https://www.geonames.org/728593</idno>
+                </place
             </listPlace>
         </body>
     </text>

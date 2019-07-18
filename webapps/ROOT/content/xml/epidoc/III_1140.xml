@@ -128,7 +128,7 @@
                             <persName type="divine" ref="listDivine.xml#Hygia">Ὑγείᾳ</persName>
                         </supplied>
                         <supplied reason="lost">
-                            <persName ref="listDivine.xml#Asclepius" type="divine">Ζυμυδρηνοις</persName></supplied>.
+                            <persName ref="listDivine.xml#Asclepius" type="divine"><persName type="localdivine" ref="listDivine.xml#Zymzdrenus">Ζυμυδρηνοις</persName></persName></supplied>.
                 </ab>
             </div>
             <div type="apparatus">
