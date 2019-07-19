@@ -134,36 +134,9 @@
                 </p> -->
             </div>
             <div type="bibliography">
-                <p>
-                    <seg xml:lang="bg">
-                        <listBibl>
-                            <bibl xml:id="b1"><!-- стойността на атрибута да се замени със съответната стойност от авторитетния списък bibliography.xml -->
-                                <author>Георги Михайлов</author>.                                
-                                <date>1964</date>. 
-                                <title>Inscriptones Grecae in Bulgaria repertae</title>
-                                <biblScope unit="volume"></biblScope>, <!-- да се попълни  -->
-                                <pubPlace>
-                                    <settlement>София</settlement>, 
-                                    <country>България</country>
-                                </pubPlace>
-                            </bibl>
-                        </listBibl>
-                    </seg>
-                    <seg xml:lang="en">
-                        <listBibl>
-                            <bibl>
-                                <author>Georgi Mihailov</author>, 
-                                <title>Inscriptones Grecae in Bulgaria repertae</title>
-                                <biblScope unit="volume"></biblScope>, 
-                                <pubPlace>
-                                    <settlement>Sofia</settlement>
-                                    <country>Bulgaria</country>
-                                </pubPlace>, 
-                                <date></date>
-                            </bibl>
-                        </listBibl>
-                    </seg>
-                </p>
+                <listBibl>
+                    <bibl sameAs="bib:b1"/><!-- след префикса bib: стойността на атрибута да се замени със съответната стойност от авторитетния списък bibliography.xml -->
+                </listBibl>
             </div>
         </body>
     </text>

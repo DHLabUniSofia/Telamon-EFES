@@ -100,6 +100,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+            </listPrefixDef>
+        </encodingDesc>
         <revisionDesc>
             <change when="2019-05-14" who="Diana Zulcheva">encoded text of the inscription and known information about it</change>
             <change when="2019-07-07" who="EB">corr., added links</change>
@@ -154,36 +159,9 @@
                 </p>
             </div>
             <div type="bibliography">
-                <p>
-                    <seg xml:lang="bg">
-                        <listBibl>
-                            <bibl xml:id="b3_1"><!-- стойността на атрибута да се замени със съответната стойност от авторитетния списък bibliography.xml -->
-                                <author>Георги Михайлов</author>.                                
-                                <date>1961</date>. 
-                                <title>Inscriptones Graecae in Bulgaria repertae</title>
-                                <biblScope unit="volume">III.1</biblScope>, <!-- да се попълни  -->
-                                <pubPlace>
-                                    <settlement>София</settlement>, 
-                                    <country>България</country>
-                                </pubPlace>
-                            </bibl>
-                        </listBibl>
-                    </seg>
-                    <seg xml:lang="en">
-                        <listBibl>
-                            <bibl>
-                                <author>Georgi Mihailov</author>. 
-                                <title>Inscriptones Graecae in Bulgaria repertae</title>
-                                <biblScope unit="volume">III.1</biblScope>, 
-                                <pubPlace>
-                                    <settlement>Sofia</settlement>
-                                    <country>Bulgaria</country>
-                                </pubPlace>, 
-                                <date>1961</date>
-                            </bibl>
-                        </listBibl>
-                    </seg>
-                </p>
+                <listBibl>
+                    <bibl sameAs="bib:b3_1"/>
+                </listBibl>
             </div>
         </body>
     </text>

@@ -169,7 +169,6 @@
             <div type="bibliography">
                   <listBibl>
                       <bibl sameAs="bib:b2"/><!-- стойността на атрибута да се замени със съответната стойност от авторитетния списък bibliography.xml -->
-                      <bibl sameAs="bib:b2"/>
                   </listBibl>
             </div>
         </body>

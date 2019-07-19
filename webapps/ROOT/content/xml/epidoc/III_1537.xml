@@ -95,6 +95,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+            </listPrefixDef>
+        </encodingDesc>
         <revisionDesc>
             <change></change><!-- сложи @when с година-месец-ден и @who с инициали; като съдържание сложи описание на свършената от теб работа по надписа -->
         </revisionDesc>
@@ -163,21 +168,10 @@
             </div>
             <div type="bibliography">
              <!-- Да се провери дали това е правилната библиография
-                 <p><listBibl>
-                    <biblStruct>
-                        <monogr>
-                            <author><ref target="GM">Georgi Mihailov</ref></author>
-                            <title>Inscriptones Grecae in Bulgaria repertae</title>
-                            <imprint>
-                                <biblScope unit="volume">3.2</biblScope>
-                                <pubPlace>
-                                    <settlement>Sofia</settlement>
-                                    <country>Bulgaria</country>
-                                </pubPlace>
-                                <date>1964</date>
-                            </imprint></monogr>
-                    </biblStruct>
-                </listBibl></p>-->
+                 <listBibl>
+                    <bibl sameAs="bib:b3_2"/>
+                </listBibl>
+             -->
             </div>
         </body>
     </text>
