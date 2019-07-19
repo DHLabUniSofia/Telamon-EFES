@@ -32,5 +32,44 @@
     </xsl:choose>
   
   </xsl:template>
+  
+  
+  <xsl:template match="tei:biblStruct">
+    <p>
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template>
+  
+  <xsl:template match="tei:biblStruct//tei:title">
+    <i>
+      <xsl:apply-templates />
+    </i>
+    <xsl:text>, </xsl:text>
+  </xsl:template>
+  
+  <xsl:template match="tei:biblStruct//tei:biblScope">
+    <xsl:apply-templates />
+    <xsl:text>, </xsl:text>
+  </xsl:template>
+  
+  <xsl:template match="tei:biblStruct//tei:settlement">
+    <xsl:apply-templates />
+    <xsl:text>, </xsl:text>
+  </xsl:template>
+  
+  <xsl:template match="tei:biblStruct//tei:country">
+    <xsl:apply-templates />
+    <xsl:text>, </xsl:text>
+  </xsl:template>
+  
+  <xsl:template match="tei:biblStruct//tei:surname">
+    <xsl:apply-templates />
+    <xsl:text>, </xsl:text>
+  </xsl:template>
+  
+  <xsl:template match="tei:biblStruct//tei:forename">
+    <xsl:apply-templates />
+    <xsl:text>, </xsl:text>
+  </xsl:template>
 
 </xsl:stylesheet>
