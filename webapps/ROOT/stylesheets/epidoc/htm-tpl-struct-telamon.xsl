@@ -246,7 +246,7 @@
       </div>
       
       <div id="commentary" >
-        <xsl:if test="t:div[@type='commentary']//t:p">
+        <xsl:if test="//t:div[@type='commentary']//t:p">
           <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-commentary">Commentary</i18n:text></h4>
         <!-- Commentary text output -->
         <xsl:variable name="commtxt">
@@ -258,7 +258,7 @@
       
      <div id="bibliography">
         <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-bibliography">Bibliography</i18n:text></h4>
-        <xsl:apply-templates select="//t:body//t:div[@type='bibliography']//t:p"/>
+        <xsl:apply-templates select="//t:body//t:div[@type='bibliography']//t:biblStruct"/>
       </div>
       
       <div id="images" >

@@ -91,6 +91,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+            </listPrefixDef>
+        </encodingDesc>
         <revisionDesc>
             <change when="2018-11" who="Teodora Katova"> Кодира текста, историята, съвременното местоположение, палеографията на паметника.</change>
             <change when="2019-03-14" who="E.B.">corrected, added links to authority</change><!-- сложи @when с година-месец-ден и @who с инициали; като съдържание сложи описание на свършената от теб работа по надписа -->
@@ -156,36 +161,9 @@
                 </p>
             </div>
             <div type="bibliography">
-                <p>
-                    <seg xml:lang="bg">
-                        <listBibl>
-                            <bibl xml:id="b3_1"><!-- стойността на атрибута да се замени със съответната стойност от авторитетния списък bibliography.xml -->
-                                <author>Георги Михайлов</author>.                                
-                                <date>1961</date>. 
-                                <title>Inscriptones Grecae in Bulgaria repertae</title>
-                                <biblScope unit="volume">III.1</biblScope>, <!-- да се попълни  -->
-                                <pubPlace>
-                                    <settlement>София</settlement>, 
-                                    <country>България</country>
-                                </pubPlace>
-                            </bibl>
-                        </listBibl>
-                    </seg>
-                    <seg xml:lang="en">
-                        <listBibl>
-                            <bibl>
-                                <author>Georgi Mihailov</author>, 
-                                <title>Inscriptones Grecae in Bulgaria repertae</title>
-                                <biblScope unit="volume">III.1</biblScope>, 
-                                <pubPlace>
-                                    <settlement>Sofia</settlement>
-                                    <country>Bulgaria</country>
-                                </pubPlace>, 
-                                <date>1961</date>
-                            </bibl>
-                        </listBibl>
-                    </seg>
-                </p>
+                <listBibl>
+                    <bibl sameAs="bib:b3_1"/>
+                </listBibl>
             </div>
         </body>
     </text>

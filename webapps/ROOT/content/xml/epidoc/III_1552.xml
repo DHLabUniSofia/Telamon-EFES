@@ -91,6 +91,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef matchPattern="(.+)" replacementPattern="../authority/bibliography.xml#$1" ident="bib"/>
+            </listPrefixDef>
+        </encodingDesc>
         <revisionDesc>
             <change when="2018-06-13" who="EB">encoded</change>
         </revisionDesc>
@@ -184,36 +189,9 @@
                 </p> -->
             </div>
             <div type="bibliography">
-                <p>
-                    <seg xml:lang="bg">
-                        <listBibl>
-                            <bibl xml:id="b3-2"><!-- стойността на атрибута да се замени със съответната стойност от авторитетния списък bibliography.xml -->
-                                <author>Георги Михайлов</author>.                                
-                                <date>1964</date>. 
-                                <title>Inscriptones Grecae in Bulgaria repertae</title>
-                                <biblScope unit="volume">III.2</biblScope>, <!-- да се попълни  -->
-                                <pubPlace>
-                                    <settlement>София</settlement>, 
-                                    <country>България</country>
-                                </pubPlace>
-                            </bibl>
-                        </listBibl>
-                    </seg>
-                    <seg xml:lang="en">
-                        <listBibl>
-                            <bibl>
-                                <author>Georgi Mihailov</author>, 
-                                <title>Inscriptones Grecae in Bulgaria repertae</title>
-                                <biblScope unit="volume">III.2</biblScope>, 
-                                <pubPlace>
-                                    <settlement>Sofia</settlement>
-                                    <country>Bulgaria</country>
-                                </pubPlace>, 
-                                <date>1964</date>
-                            </bibl>
-                        </listBibl>
-                    </seg>
-                </p>
+                <listBibl>
+                    <bibl sameAs="bib:b3_2"/>
+                </listBibl>
             </div>
         </body>
     </text>
