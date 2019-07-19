@@ -195,6 +195,12 @@
                     <idno type="pleiades"></idno>
                     <idno type="geonames">https://www.geonames.org/728593</idno>
                 </place>
+                <place xml:id="Pamidovo">
+                    <placeName xml:lang="en">Pamidovo</placeName>
+                    <placeName xml:lang="bg">Памидово</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">https://www.geonames.org/728451</idno>
+                </place>
             </listPlace>
         </body>
     </text>

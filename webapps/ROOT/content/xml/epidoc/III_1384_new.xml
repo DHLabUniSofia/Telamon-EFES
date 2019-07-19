@@ -117,7 +117,7 @@
                     <lb n="1"/> <w lemma="ἀγαθός"><unclear>ἀγ</unclear><supplied reason="lost">αθ</supplied>ῆι</w> <w lemma="τύχη">τύχ<supplied reason="lost">ηι</supplied></w>
                     <!-- ANTONIUS; GORDIANUS НЕ СЕ НАМИРАТ В Onom.xml --><lb n="2"/><w lemma="αὐτοκράτωρ">Α<unclear>ὐ</unclear>τοκράτορι</w> <w lemma="Καῖσαρ">Καίσαρι</w> <persName type="emperor" ref="listemperors.xml#Gordianus">
                         <name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan></name> <name nymRef="Ἀντώνιος"><supplied reason="lost">Ἀντω</supplied>
-                    <lb n="3" break="no"/>νίῳ</name> <name nymRef="Γορδιανός">Γορδιανῷ</name></persName> <w lemma="εὐτυχής">Εὐτυχ<supplied reason="omitted">ε</supplied>ῖ</w>
+                    <lb n="3" break="no"/>νίῳ</name> <name nymRef="Γορδιανός">Γορδιανῷ</name></persName> <w lemma="εὐτυχής">Εὐτυχ<supplied reason="omitted">ε</supplied>ῖ</w>
                     <w lemma="εὐσεβής">Εὐ<unclear>σ</unclear><supplied reason="lost">εβ<supplied reason="omitted">ε</supplied>ῖ</supplied></w>
                     <lb n="4"/><w lemma="σεβαστός">Σεβαστῷ</w> <w>καὶ</w> <w>τὴν</w> <w lemma="θεοφιλής">θεοφιλεστ<unclear>ά</unclear><supplied reason="lost">την</supplied></w> <w lemma="αὐγοῦστα"><supplied reason="lost">Αὐ</supplied>
                   <!-- Furia Sabina Tranquillina НЕ СЕ НАМИРА В listPers.xml;Sabinia + Furia НЕ Е В Onom.xml -->  <lb n="5" break="no"/>γοῦσταν</w> 
