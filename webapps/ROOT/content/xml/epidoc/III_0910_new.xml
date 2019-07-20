@@ -118,13 +118,13 @@
                     <lb n="1"/><w lemma="ἀγαθός">Ἀγαθῇ</w> <supplied reason="lost"><w lemma="τύχη">τύχῃ</w></supplied>.
                     <lb n="2"/><w>Ὑπὲρ</w> <w>τῶν</w> <w lemma="κύριος">κυρίων</w> <w lemma="αὐτοκράτωρ">αὐτοκρ<supplied reason="lost">ατόρων</supplied></w> 
                     <persName ref="listemperors.xml#Severus" type="emperor"><supplied reason="lost">
-                        <name ref="Onom.xml#Lucius" nymRef="Λουκίος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> 
-                        <name ref="Onom.xml#Septimius" nymRef="Σεπτιμίος"><expan><abbr>Σεπ</abbr><ex>τιμίου</ex></expan></name></supplied>
-                    <lb n="3"/><supplied reason="lost"><name ref="Onom.xml#Severus" nymRef="Σευήρος">Σευήρου</name></supplied> 
-                        <name ref="Onom.xml#Pertinax" nymRef="Πέρτιναξ">Περτίν<supplied reason="lost">ακος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><w>καὶ</w> 
+                        <name ref="Onom.xml#Lucius" nymRef="Λουκίος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> 
+                        <name ref="Onom.xml#Septimius" nymRef="Σεπτίμιος"><expan><abbr>Σεπ</abbr><ex>τιμίου</ex></expan></name></supplied>
+                    <lb n="3"/><supplied reason="lost"><name ref="Onom.xml#Severus" nymRef="Σεоυήρος">Σευήρου</name></supplied> 
+                        <name ref="Onom.xml#Pertinax" nymRef="Περτίναξ">Περτίν<supplied reason="lost">ακος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><w>καὶ</w> 
                             <persName ref="listemperors.xml#MarcusAurelius" type="emperor"><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> 
                                 <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> 
-                                <name ref="Onom.xml#Antoninus" nymRef="Ἀντονείνος">Ἀντωνείνου</name></persName></supplied>
+                                <name ref="Onom.xml#Antoninus" nymRef="Ἀντωνίνος">Ἀντωνείνου</name></persName></supplied>
                     <lb n="4"/><gap reason="lost" quantity="1" unit="line"/>
 <!-- тук сложи гръцкия текст -->
                 </ab>

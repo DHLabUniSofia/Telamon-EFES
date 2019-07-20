@@ -28,6 +28,11 @@
     <persName xml:lang="en"></persName>
     <persName xml:lang="bg"></persName>
 </person>
+    <person xml:id="Glaucus">
+        <persName xml:lang="grc">Γλαύκος</persName>
+        <persName xml:lang="en">Glaucus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Cornelius">
         <persName xml:lang="grc">Κορνήλιος</persName>
         <persName xml:lang="en"></persName>
@@ -124,6 +129,11 @@
     <persName xml:lang="en"></persName>
     <persName xml:lang="bg"></persName>
 </person>
+    <person xml:id="Pasinus">
+        <persName xml:lang="grc">Πασίνους</persName>
+        <persName xml:lang="en">Pasinus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Salazon">
         <persName xml:lang="grc">Σαλαζων</persName>
         <persName xml:lang="en">Salazon</persName>
@@ -363,6 +373,11 @@
     <person xml:id="Aurelius">
         <persName xml:lang="grc">Αὐρήλιος</persName>
         <persName xml:lang="en">Aurelius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Salvis">
+        <persName xml:lang="grc">Σάλβις</persName>
+        <persName xml:lang="en">Salvis</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Apphe"> 

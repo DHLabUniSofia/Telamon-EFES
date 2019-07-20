@@ -131,7 +131,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName><name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> <name nymRef="Μουκιανος" ref="Onom.xml#Mukianus">Μουκιανοῦ</name> 
+                    <lb n="1"/><persName><name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> <name nymRef="Μουκιανός" ref="Onom.xml#Mukianus">Μουκιανοῦ</name> 
                         <name ref="Onom.xml#Iakisinaris" nymRef="Ἰακησινάρις">Ἰακησι
  <lb n="2" break="no"/>νάρις</name></persName> <w lemma="εὐχή">εὐχήν</w>
                 </ab>

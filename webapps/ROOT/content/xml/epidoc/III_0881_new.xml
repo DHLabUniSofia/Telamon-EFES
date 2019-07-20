@@ -113,7 +113,7 @@
                 <ab>
                     <lb n="1"/><w lemma="αὐτοκράτωρ">Αὐτοκράτορα</w> <persName ref="listemperors.xml#Commodus" type="emperor"><supplied reason="lost"><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκον</ex></expan></name></supplied> <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><supplied reason="lost">Αὐρήλι</supplied>
                     <lb n="2" break="no"/><unclear>ον</unclear></name> <name ref="Onom.xml#Commodus" nymRef="Κόμμοδος"><unclear>Κόμοδον</unclear></name> 
-                        <name ref="Onom.xml#Antoninus" nymRef="Ἀντονείνος">Ἀν<supplied reason="lost">τωνεῖνον</supplied></name></persName>
+                        <name ref="Onom.xml#Antoninus" nymRef="Ἀντωνίνος">Ἀν<supplied reason="lost">τωνεῖνον</supplied></name></persName>
                     <lb n="3"/><w lemma="σεβαστός"><expan><abbr>Σεβ</abbr><ex>αστὸν</ex></expan></w> <g type="dot"/> <w>τὸν</w> <w>τῆς</w> 
                     <w lemma="οἰκουμένη">οἰκου<unclear>μ</unclear><supplied reason="lost">ένης</supplied></w> <w lemma="δεσπότης"><supplied reason="lost">δε</supplied>
                     <lb n="4" break="no"/>σπότην</w>, <w lemma="ἡγεμονεύω">ἡγεμονε<unclear>ύ</unclear><supplied reason="lost">οντος</supplied></w>

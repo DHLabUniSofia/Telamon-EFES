@@ -128,12 +128,12 @@
                     <lb n="2"/><w>Ὑπὲρ</w> <w>τῆς</w> <w>τῶν</w> <w lemma="αὐτοκράτωρ">αὐτοκρατόρων</w> <w lemma="νίκη">νίκης</w> <w>καὶ</w> <w lemma="αἰώνιος">αἰωνίου</w>
                     <lb n="3"/><w lemma="διαμονή">διαμονῆς</w>
                         <persName ref="listemperors.xml#MarcusAurelius" type="emperor">
-                            <name ref="Onom.xml#Marcus" nymRef="Μάρκος" type="praenomen"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name>
+                            <name ref="Onom.xml#Marcus" nymRef="Μᾶρκος" type="praenomen"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name>
                             <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος">Αὐρηλίου</name>
-                            <name ref="Onom.xml#Antoninus" nymRef="Ἀντονείνος">Ἀντ
+                            <name ref="Onom.xml#Antoninus" nymRef="Ἀντωνίνος">Ἀντ
                     <lb n="4" break="no"/>ωνείν<supplied reason="lost">ου</supplied></name></persName> <w>καὶ</w>
                         <persName type="emperor" ref="listemperors.xml#LuciusVerus"> 
-                            <name ref="Onom.xml#Lucius" nymRef="Λουκίος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name>
+                            <name ref="Onom.xml#Lucius" nymRef="Λουκίος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name>
                             <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος">Αὐρηλίου</name>
                             <name ref="Onom.xml#Verus" nymRef="Οὐῆρος">Οὐή
                     <lb n="5" break="no"/>ρου</name></persName> <w lemma="Αρμενιάκος">Ἀρμενιακῶν</w>
@@ -141,7 +141,7 @@
                             <name nymRef="Φιλίσκος" ref="Onom.xml#Filiscus">Φιλίσκος</name></persName> <w>καὶ</w> <!--ИМЕТО ФИЛИСК ГО НЯМА В АВТОРИТЕТНИЯ СПИСЪК-->
                         <persName>
                             <name ref="Onom.xml#Gaius" nymRef="Γάιος">Γάιος</name></persName> 
-                    <lb n="6"/><w>οἱ</w> <persName><name ref="Onom.xml#Marcus" nymRef="Μάρκος">Μάρκου</name></persName> <w>τῇ</w> <w lemma="φυλή">φυλῇ</w> <w>τῇ</w> <w lemma="ἱερός">ἱερᾷ</w> <w lemma="ἀνατίθημι">ἀ
+                    <lb n="6"/><w>οἱ</w> <persName><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος">Μάρκου</name></persName> <w>τῇ</w> <w lemma="φυλή">φυλῇ</w> <w>τῇ</w> <w lemma="ἱερός">ἱερᾷ</w> <w lemma="ἀνατίθημι">ἀ
                     <lb n="7" break="no"/>νέθηκαν</w> <w>Ἀρτεμεισιάδι</w> <w>μετὰ</w> <w lemma="ἱερωσύνη">ἱε   <!--НЕ СЪМ СИГУРНА КАКВО Е Ἀρτεμεισιάδι В ТОЗИ НАДПИС. ИМЕТО НА ФИЛАТА?-->
                     <lb n="8" break="no"/>ρωσύνην</w>, <g type="leaf"/> <w lemma="ἐκδικέω">ἐκδικοῦντος</w> 
                         <persName type="attested" ref="listPers.xml#AT133">

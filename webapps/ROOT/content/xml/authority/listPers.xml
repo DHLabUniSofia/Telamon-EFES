@@ -34,6 +34,12 @@
                <persName xml:lang="en">Aurelia Chryseis</persName>
                <persName xml:lang="bg"></persName>
             </person>
+            <person xml:id="AT005">
+               <persName xml:lang="grc">Γλαύκος Θάλλος</persName>
+               <persName xml:lang="en">Glaucus Thallus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ταμιεύων</occupation>
+            </person>
             <person xml:id="AT006">
                <persName xml:lang="grc">Αὐρήλιος Ποσειδώνιος</persName>
                <persName xml:lang="en">Aurelius Poseidonius</persName>
@@ -54,6 +60,12 @@
                <persName xml:lang="grc">Λονγεῖνος Κότυος</persName>
                <persName xml:lang="en">Longinus son of Kotys</persName>
                <persName xml:lang="bg"></persName>
+            </person>
+            <person xml:id="AT010">
+               <persName xml:lang="grc">Αὐρήλιος Σάλβις Μουκακενθου</persName>
+               <persName xml:lang="en">Aurelius Salvis, son of Mukakenthus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>βετρανός</occupation>
             </person>
             <person xml:id="AT012">
                <persName xml:lang="grc">Ἄσπαρ</persName>
@@ -181,7 +193,7 @@
                <persName xml:lang="grc">Τιβέριος Κλαύδιος Πασίνους Μουκιανοῦ</persName>
                <persName xml:lang="en">Tiberius Claudius Pasinus, son of Mukianus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation>
+               <occupation>ἔκδικος γερ.</occupation>
             </person>
             <person xml:id="AT308">
                <persName xml:lang="grc">Ἡρακλείδης Γρανίου</persName>

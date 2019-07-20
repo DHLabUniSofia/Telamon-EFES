@@ -117,8 +117,8 @@
                     <lb n="3"/><w lemma="θεῖος">θειοτάτου</w> <w lemma="αὐτοκράτωρ">Αὐτοκράτορος</w></supplied> <supplied reason="lost"><persName ref="listemperors.xml#PhilippusI" type="emperor"><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> <name ref="Onom.xml#Iulius" nymRef="Ἰούλιος">Ἰουλίου</name> 
                         <name nymRef="Φίλιππος" ref="Onom.xml#Philippus">Φιλίπ
                     <lb n="4" break="no"/>που</name></persName> <w lemma="σεβαστός"><expan><abbr>Σεβ</abbr><ex>αστοῦ</ex></expan></w> <w>καὶ</w></supplied> 
-                    <persName ref="listemperors.xml#Otacilia"><name nymRef="Ὠτακιλλία" ref="Onom.xml#Otacilia"><supplied reason="lost">Ὠτ</supplied>ακιλλί<supplied reason="lost">ας</supplied></name> 
-                        <supplied reason="lost"><name nymRef="Σευήρα" ref="Onom.xml#Severa">Σευήρας</name></supplied></persName> 
+                    <persName ref="listemperors.xml#Otacilia"><name nymRef="Ὠτακιλία" ref="Onom.xml#Otacilia"><supplied reason="lost">Ὠτ</supplied>ακιλλί<supplied reason="lost">ας</supplied></name> 
+                        <supplied reason="lost"><name nymRef="Σεουήρα" ref="Onom.xml#Severa">Σευήρας</name></supplied></persName> 
                     <supplied reason="lost"><w lemma="σεβαστός"><expan><abbr>Σεβ</abbr><ex>αστῆς</ex></expan></w></supplied>, 
                     <w lemma="ἡγεμονεύω"><supplied reason="lost">ἡγεμονεύ</supplied>
                     <lb n="5" break="no"/><unclear>οντο</unclear>ς</w> <w><unclear>τ</unclear><supplied reason="lost">ῆς</supplied></w> 

@@ -119,7 +119,7 @@
                 <ab>
                     <lb n="1"/><!-- тук сложи гръцкия текст -->
                         <persName>
-                        <name type="praenomen" nymRef="Τίτος" ref="Onom.xml#Titus">
+                        <name type="praenomen" nymRef="Τίτος" ref="Onom.xml#Titus">
                             <expan><abbr>Τ</abbr><ex>ίτος</ex></expan>
                         </name>
                         <name type="gentilicius" nymRef="Φλάβιος" ref="Onom.xml#Flavius">
