@@ -127,10 +127,10 @@
                     <lb n="7"/><persName><name nymRef="Δειδης" ref="Onom.xml#Deides">Δειδης</name> 
                         <name nymRef="Λειλοος" ref="Onom.xml#Leiloos">Λειλ<unclear>ο</unclear>ου</name></persName>
                     <lb n="8"/><persName><name nymRef="Οὔλπις" ref="Onom.xml#Ulpius">Οὔλπις</name> <name ref="Onom.xml#Victor" nymRef="Βίκτωρ">Βείκτ<supplied reason="omitted">ω</supplied>ρ</name></persName>
-                    <lb n="9"/><persName> <name ref="Onom.xml#Beithus" nymRef="Βειθυς">Βειθυς</name> <name nymRef="Δειζας" ref="Onom.xml#Diza">Δειζου</name></persName>
+                    <lb n="9"/><persName> <name ref="Onom.xml#Beithus" nymRef="Βειθυς">Βειθυς</name> <name nymRef="Διζας" ref="Onom.xml#Diza">Δειζου</name></persName>
                     <lb n="10"/> <persName><name nymRef="Κοσειτραλις" ref="Onom.xmlKoseitralis">Κοσειτρ<unclear>α</unclear>λις</name> <name nymRef="Κοσειτραλις" ref="Onom.xml#Koseitralis">Κουσιτρα<supplied reason="lost">λε</supplied>
                     <lb n="11" break="no"/>ο<supplied reason="lost">ς</supplied></name></persName> <!-- Не ми дава да оставя празно място в началото на реда с <space extent"unknown" unit="character">, може би трябва да използвам друго -->
-          <lb n="12"/><persName><name nymRef="Δειζας" ref="Onom.xml#Diza">Δειζας</name> <name nymRef="Σαλας" ref="Onom.xml#Salas">Σαλου</name></persName>, <persName ref="Onom.xml#Serod--lus" nymRef="Σεροδ--λος">Σεροδ<gap reason="lost" quantity="2" unit="character"/>
+          <lb n="12"/><persName><name nymRef="Διζας" ref="Onom.xml#Diza">Δειζας</name> <name nymRef="Σαλας" ref="Onom.xml#Salas">Σαλου</name></persName>, <persName ref="Onom.xml#Serod--lus" nymRef="Σεροδ--λος">Σεροδ<gap reason="lost" quantity="2" unit="character"/>
        <lb n="13" break="no"/>λο<supplied reason="lost">ς</supplied></persName><!-- С това име не знам какво да правя, защото според Михайлов не е ясно как е цялото, липсват му два символа -->
                 </ab>
             </div>
