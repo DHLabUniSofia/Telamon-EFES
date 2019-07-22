@@ -67,6 +67,12 @@
                <persName xml:lang="bg"></persName>
                <occupation>βετρανός</occupation>
             </person>
+            <person xml:id="AT011">
+               <persName xml:lang="grc">Αὐρήλιος Μουκατραλις</persName>
+               <persName xml:lang="en">Aurelius Mukatralis</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>στρατιώτης</occupation>
+            </person>
             <person xml:id="AT012">
                <persName xml:lang="grc">Ἄσπαρ</persName>
                <persName xml:lang="en">Aspar</persName>
@@ -82,6 +88,16 @@
                <persName xml:lang="en">Aurelius Theodorus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>πρ. ἄρχων</occupation></person>
+            <person xml:id="AT015">
+               <persName xml:lang="grc">Γέμελλος Γεμέλλου</persName>
+               <persName xml:lang="en">Gemellus, son of Gemellus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>βουλευτής</occupation></person>
+            <person xml:id="AT016">
+               <persName xml:lang="grc">Αὐρήλιος Διονυσόδωρος</persName>
+               <persName xml:lang="en">Aurelius Dionysodorus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ὠρδινᾶτος λῃστολογήσας</occupation></person>
             <person xml:id="AT214">
                <persName xml:lang="grc">Δομετιανός Κοτυς</persName>
                <persName xml:lang="en">Domitianus Kotys</persName>

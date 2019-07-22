@@ -94,7 +94,7 @@
             </person>
             <person xml:id="Zymzdrenus" sameAs="Asclepius">
                <persName xml:lang="grc">Ζυμζδρηνος</persName>
-               <persName xml:lang="en">Zymzdrenus, Zymydrenus</persName><!-- Zumzdrenus - 1133, Zymydrenus + HYGIA- 1140 -->
+               <persName xml:lang="en">Zymzdrenus, Zymydrenus, Zymyzdrenus</persName><!-- Zumzdrenus - 1133, 1117 Zymydrenus + HYGIA- 1140, Zymyzdrenus - 1126-->
                <persName xml:lang="bg">Зимздрен</persName>
             </person>
             <person xml:id="Calchas">
@@ -106,6 +106,12 @@
             <person xml:id="Hygia">
                <persName xml:lang="grc">Ὑγεία</persName>
                <persName xml:lang="en">Hygia</persName>
+               <persName xml:lang="bg"></persName>
+               <idno type="wp">https://en.wikipedia.org/wiki/Asclepius</idno>
+            </person>
+            <person xml:id="Telesphorus">
+               <persName xml:lang="grc">Τελεσφόρος</persName>
+               <persName xml:lang="en">Telesphorus</persName>
                <persName xml:lang="bg"></persName>
                <idno type="wp">https://en.wikipedia.org/wiki/Asclepius</idno>
             </person>

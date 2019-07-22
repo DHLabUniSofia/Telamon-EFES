@@ -194,6 +194,12 @@
         <persName xml:lang="en"></persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Olympius">
+        <persName xml:lang="grc">Ὀλύμπιος</persName>
+        <persName xml:lang="en">Olympius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    
     <person xml:id="Ascanius">
         <persName xml:lang="grc">Ἀσκάνιος</persName>
         <persName xml:lang="en"></persName>
@@ -435,6 +441,11 @@
         <persName xml:lang="en">Mukatralis</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Mukaporis">
+        <persName xml:lang="grc">Μουκαπορις</persName>
+        <persName xml:lang="en">Mukaporis</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Mukakenthus">
         <persName xml:lang="grc">Μουκακενθος</persName>
         <persName xml:lang="en">Mukakenthus</persName>
@@ -468,6 +479,16 @@
     <person xml:id="Dinis">
         <persName xml:lang="grc">Δινις</persName>
         <persName xml:lang="en">Dinis</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Dinias">
+        <persName xml:lang="grc">Δινίας</persName>
+        <persName xml:lang="en">Dinias</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Diogenianus">
+        <persName xml:lang="grc">Διογενιανός</persName>
+        <persName xml:lang="en">Diogenianus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Deides">
@@ -540,6 +561,11 @@
         <persName xml:lang="en">Demetrius</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Dionysodorus">
+        <persName xml:lang="grc">Διονυσόδωρος</persName>
+        <persName xml:lang="en">Dionysodorus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Asellius">
         <persName xml:lang="grc">Ἀσέλλιος</persName>
         <persName xml:lang="en">Asellius</persName>
@@ -570,9 +596,19 @@
         <persName xml:lang="en">Pyrrus</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Gemellus">
+        <persName xml:lang="grc">Γέμελλος</persName>
+        <persName xml:lang="en">Gemellus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Taurus">
         <persName xml:lang="grc">Ταῦρος</persName>
         <persName xml:lang="en">Taurus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Teres">
+        <persName xml:lang="grc">Τηρης</persName>
+        <persName xml:lang="en">Teres</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Aurelia">
