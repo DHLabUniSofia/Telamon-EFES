@@ -187,6 +187,24 @@
                <persName xml:lang="bg"></persName>
                <occupation></occupation>
             </person>
+            <person xml:id="AT136">
+               <persName xml:lang="grc">Ῥοῦφος</persName>
+               <persName xml:lang="en">Rufus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>θρᾳκάρχης</occupation>
+            </person>
+            <person xml:id="AT137">
+               <persName xml:lang="grc">Μάξιμος Σουσίων</persName>
+               <persName xml:lang="en">Maximus Susion</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation></occupation>
+            </person>
+            <person xml:id="AT138">
+               <persName xml:lang="grc">Αὖλος Ἄλκιος Φροντῖνος</persName>
+               <persName xml:lang="en">Aulus Alcius Frontinus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>γραμματεύς</occupation>
+            </person>
             <person xml:id="AT210">
                <persName xml:lang="grc">Μᾶρκος Μέστριος Αἴνιος</persName>
                <persName xml:lang="en">Marcus Mestrius Aenius</persName>

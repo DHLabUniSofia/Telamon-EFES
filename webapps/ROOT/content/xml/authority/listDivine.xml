@@ -39,17 +39,27 @@
                <persName xml:lang="en">Hera</persName>
                <persName xml:lang="bg">Хера</persName>
             </person>
+            <person xml:id="Demetra">
+               <persName xml:lang="grc">Δημήτηρ</persName>
+               <persName xml:lang="en">Demetra</persName>
+               <persName xml:lang="bg">Деметра</persName>
+            </person>
             <person xml:id="Zeus">
                <persName xml:lang="grc">Ζεύς</persName>
                <persName xml:lang="en">Zeus</persName>
-               <persName xml:lang="bg">Хера</persName>
+               <persName xml:lang="bg">Зевс</persName>
+            </person>
+            <person xml:id="Dionysus">
+               <persName xml:lang="grc">Διόνυσος</persName>
+               <persName xml:lang="en">Dionysus</persName>
+               <persName xml:lang="bg">Дионис</persName>
             </person>
             <person xml:id="Apollo">
                <persName xml:lang="grc">Απόλλων</persName>
                <persName xml:lang="en">Apollo</persName>
                <persName xml:lang="bg">Аполон</persName>
             </person>
-            <person sameAs="#Apollo">
+            <person sameAs="Apollo">
                <persName xml:lang="grc">Φοῖβος</persName>
                <persName xml:lang="en">Phoebos</persName>
                <persName xml:lang="bg">Феб</persName>
@@ -59,20 +69,20 @@
                <persName xml:lang="en">Paean</persName>
                <persName xml:lang="bg">Пеан</persName>
             </person>
+            <person sameAs="Apollo">
+               <persName xml:lang="grc">Πύθιος</persName>
+               <persName xml:lang="en">Pythian</persName>
+               <persName xml:lang="bg">Питийски</persName>
+            </person>
             <person xml:id="Kendriseus" sameAs="Apollo">
                <persName xml:lang="grc">Κενδρεισος</persName>
-               <persName xml:lang="en">Kendriseus, Kendrisenus, Kendrisus</persName><!-- Kendrisus - 917, 918; Kendreisenus - 919 -->
-               <persName xml:lang="bg">Кендрисос</persName>
-            </person>
-            <person sameAs="Apollo">
-               <persName xml:lang="grc">Κενδρεισηνος</persName>
-               <persName xml:lang="en">Kendrisenus</persName>
+               <persName xml:lang="en">Kendriseus, Kendrisenus, Kendrisus</persName><!-- Kendrisus - 917, 918, 921; Kendreisenus - 919 -->
                <persName xml:lang="bg">Кендрисос</persName>
             </person>
             <person xml:id="Zgoulamenus" sameAs="Apollo">
                <persName xml:lang="grc">Ζγουλαμιηνος</persName>
-               <persName xml:lang="en">Zgoulamienus</persName>
-               <persName xml:lang="bg">Згуламиенски</persName>
+               <persName xml:lang="en">Zgoulamenus</persName>
+               <persName xml:lang="bg">Згуламенски</persName>
             </person>
             <person xml:id="Heracles">
                <persName xml:lang="grc">Ἡρακλῆς</persName>
@@ -94,7 +104,7 @@
             </person>
             <person xml:id="Zymzdrenus" sameAs="Asclepius">
                <persName xml:lang="grc">Ζυμζδρηνος</persName>
-               <persName xml:lang="en">Zymzdrenus, Zymydrenus, Zymyzdrenus</persName><!-- Zumzdrenus - 1133, 1117 Zymydrenus + HYGIA- 1140, Zymyzdrenus - 1126-->
+               <persName xml:lang="en">Zymzdrenus, Zymydrenus, Zymyzdrenus, Zysdrenus, Zylmyzdrenus</persName><!-- Zumzdrenus - 1133, 1117 Zymydrenus + HYGIA- 1140, Zymyzdrenus - 1126, Zysdrenus - 1132, Zylmyzdrenus - 1134-->
                <persName xml:lang="bg">Зимздрен</persName>
             </person>
             <person xml:id="Calchas">
