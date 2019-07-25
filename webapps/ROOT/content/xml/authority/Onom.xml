@@ -261,9 +261,34 @@
         <persName xml:lang="en">Rufus</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Zoilus">
+        <persName xml:lang="grc">Ζωΐλος</persName>
+        <persName xml:lang="en">Zoilus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Epagathus">
+        <persName xml:lang="grc">Ἐπάγαθος</persName>
+        <persName xml:lang="en">Epagathus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Theodosius">
+        <persName xml:lang="grc">Θεοδόσιος</persName>
+        <persName xml:lang="en">Theodosius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Sabina">
         <persName xml:lang="grc">Σαβείνη</persName>
         <persName xml:lang="en">Sabina</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Paulina">
+        <persName xml:lang="grc">Παυλεῖνα</persName>
+        <persName xml:lang="en">Paulina</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Tiuta">
+        <persName xml:lang="grc">Τιουτα</persName>
+        <persName xml:lang="en">Tiuta</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Aemilius">
@@ -485,6 +510,21 @@
     <person xml:id="Mukaporis">
         <persName xml:lang="grc">Μουκαπορις</persName>
         <persName xml:lang="en">Mukaporis</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Mukazenis">
+        <persName xml:lang="grc">Μουκαζενις</persName>
+        <persName xml:lang="en">Mukazenis</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Eptalus">
+        <persName xml:lang="grc">Επταλος</persName>
+        <persName xml:lang="en">Eptalus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Seuthes">
+        <persName xml:lang="grc">Σευθης</persName>
+        <persName xml:lang="en">Seuthes</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Mukakenthus">

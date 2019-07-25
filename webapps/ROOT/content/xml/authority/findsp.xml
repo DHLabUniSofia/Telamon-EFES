@@ -115,6 +115,16 @@
                     <placeName xml:lang="bg">Златовръх</placeName>
                     <idno type="geonames">http://www.geonames.org/725263/zlatovrah.html</idno>
                 </place>
+                <place xml:id="Zvun">
+                    <placeName xml:lang="en">Zvunichevo </placeName>
+                    <placeName xml:lang="bg">Звъничево</placeName>
+                    <idno type="geonames">https://www.geonames.org/725215</idno>
+                </place>
+                <place xml:id="Saraja">
+                    <placeName xml:lang="en">Saraja </placeName>
+                    <placeName xml:lang="bg">Сарая</placeName>
+                    <idno type="geonames">https://www.geonames.org/6461175</idno>
+                </place>
                 <place xml:id="Zltr">
                     <placeName xml:lang="en">Zlatitrap</placeName>
                     <placeName xml:lang="bg">Златитрап</placeName>
