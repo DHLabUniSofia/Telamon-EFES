@@ -51,6 +51,10 @@
                     <term xml:lang="bg">статуя</term>
                     <term xml:lang="en">statue</term>
                 </item>
+                <item xml:id="sst">
+                    <term xml:lang="bg">статуетка</term>
+                    <term xml:lang="en">statuette</term>
+                </item>
                 <item xml:id="epi">
                     <gloss xml:lang="bg"> епистил</gloss>
                     <term xml:lang="en">epistyle</term>

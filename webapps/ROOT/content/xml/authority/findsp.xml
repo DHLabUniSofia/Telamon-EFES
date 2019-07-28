@@ -68,6 +68,12 @@
                     <idno type="geonames">http://www.geonames.org/733284/belozem.html</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place xml:id="Belovo">
+                    <placeName xml:lang="en">Belovo</placeName>
+                    <placeName xml:lang="bg">Белово</placeName>
+                    <idno type="geonames">https://www.geonames.org/733286</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="ChG">
                     <placeName xml:lang="en">Cherna Gora</placeName>
                     <placeName xml:lang="bg">Черна гора</placeName>

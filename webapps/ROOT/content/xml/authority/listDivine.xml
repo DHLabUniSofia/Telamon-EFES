@@ -117,13 +117,19 @@
                <persName xml:lang="grc">Ὑγεία</persName>
                <persName xml:lang="en">Hygia</persName>
                <persName xml:lang="bg"></persName>
-               <idno type="wp">https://en.wikipedia.org/wiki/Asclepius</idno>
+               <idno type="wp">https://en.wikipedia.org/wiki/Hygieia</idno>
             </person>
             <person xml:id="Telesphorus">
                <persName xml:lang="grc">Τελεσφόρος</persName>
                <persName xml:lang="en">Telesphorus</persName>
                <persName xml:lang="bg"></persName>
-               <idno type="wp">https://en.wikipedia.org/wiki/Asclepius</idno>
+               <idno type="wp">https://en.wikipedia.org/wiki/Telesphorus_(mythology)</idno>
+            </person>
+            <person xml:id="Mater">
+               <persName xml:lang="grc">Μήτηρ Θεῶν</persName>
+               <persName xml:lang="en">Mater deorum</persName>
+               <persName xml:lang="bg"></persName>
+               <idno type="wp">https://en.wikipedia.org/wiki/Rhea_(mythology)</idno>
             </person>
             <person xml:id="Polydamas">
                <persName xml:lang="grc">Πολυδάμας</persName>

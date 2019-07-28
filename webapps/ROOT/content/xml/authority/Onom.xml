@@ -189,6 +189,11 @@
     <persName xml:lang="en"></persName>
     <persName xml:lang="bg"></persName>
 </person>
+    <person xml:id="Beithynicus">
+        <persName xml:lang="grc">Βειθυνικός</persName>
+        <persName xml:lang="en">Beithynicus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Auluzenes">
         <persName xml:lang="grc">Αυλουζενης</persName>
         <persName xml:lang="en"></persName>
@@ -202,6 +207,16 @@
     <person xml:id="Alcius">
         <persName xml:lang="grc">Ἄλκιος</persName>
         <persName xml:lang="en">Alcius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Ariston">
+        <persName xml:lang="grc">Ἀρίστων</persName>
+        <persName xml:lang="en">Ariston</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Alcibiades">
+        <persName xml:lang="grc">Ἀλκιβιάδης</persName>
+        <persName xml:lang="en">Alcibiades</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Pollion">
@@ -259,6 +274,11 @@
     <person xml:id="Rufus">
         <persName xml:lang="grc">Ῥοῦφος</persName>
         <persName xml:lang="en">Rufus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Facetes">
+        <persName xml:lang="grc">Φακέτης</persName>
+        <persName xml:lang="en">Facetes</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Zoilus">
@@ -522,6 +542,11 @@
         <persName xml:lang="en">Eptalus</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Eptetralis">
+        <persName xml:lang="grc">Επτητραλις</persName>
+        <persName xml:lang="en">Eptetralis</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Seuthes">
         <persName xml:lang="grc">Σευθης</persName>
         <persName xml:lang="en">Seuthes</persName>
@@ -635,6 +660,11 @@
     <person xml:id="Aspar"> 
         <persName xml:lang="grc">Ἄσπαρ</persName>
         <persName xml:lang="en">Aspar</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Pantonicus"> 
+        <persName xml:lang="grc">Παντόνεικος</persName>
+        <persName xml:lang="en">Pantonicus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Demetrius">
@@ -795,6 +825,16 @@
     <person xml:id="Verus">
         <persName xml:lang="grc">Οὐῆρος</persName>
         <persName xml:lang="en">Verus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Varius">
+        <persName xml:lang="grc">Οὐῆρος</persName>
+        <persName xml:lang="en">Varius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Lupus">
+        <persName xml:lang="grc">Λοῦππος</persName>
+        <persName xml:lang="en">Lupus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Maximus">

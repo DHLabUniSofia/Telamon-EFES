@@ -218,6 +218,15 @@
                <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
                <floruit>235 - 238</floruit>
             </person>
+            <person xml:id="Lupus">
+               <persName xml:lang="en">Titus Flavius Varius Lupus</persName>
+               <persName xml:lang="grc">Τίτος Φλάβιος Οὐάριος Λοῦππος</persName>
+               <persName xml:lang="bg">Тит Флавий Варий Луп</persName>
+               <occupation xml:lang="en">procurator ducenarius</occupation>
+               <occupation xml:lang="bg"></occupation>
+               <occupation xml:lang="grc">δουκηνάριος, νεωκόρος, γραφεύς</occupation>
+               <floruit>c. 215 - 235</floruit>
+            </person>
             <person xml:id="Proculus">
                <persName xml:lang="en">Quintus Egnatius Proculus</persName>
                <persName xml:lang="grc">Κοΐντος Ἐγνατίος Πρόκυλος</persName>
