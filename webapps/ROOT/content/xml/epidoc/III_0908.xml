@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg"> Посветителен надпис на Марк Аврелий от Квинт Атрий Клоний</title><!-- Заглавие -->
-                <title xml:lang="en">Dedicatory inscription to Marcus Aurelius by Quintus Atrius Clonius</title>
+                <title xml:lang="bg"> Почетен надпис за Марк Аврелий от Квинт Атрий Клоний</title><!-- Заглавие -->
+                <title xml:lang="en">Honorary inscription for Marcus Aurelius by Quintus Atrius Clonius</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -30,9 +30,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#doc3-1p"><!-- ЗА ТОЗИ НЕ СЪМ СИГУРНА ДАЛИ Е ПУБЛИЧЕН ИЛИ ЧАСТЕН-->
-                            <seg xml:lang="bg">посветителен надпис от частно лице - проза</seg><!-- с думи -->
-                            <seg xml:lang="en">dedicatory inscription from private person - prose</seg>
+                        <summary corresp="document-type.xml#doc2-1p"><!-- ЗА ТОЗИ НЕ СЪМ СИГУРНА ДАЛИ Е ПУБЛИЧЕН ИЛИ ЧАСТЕН-->
+                            <seg xml:lang="bg">почетен надпис за император - проза</seg><!-- с думи -->
+                            <seg xml:lang="en">honorary inscription for emperor - prose</seg>
                         </summary>
                     </msContents>
                     <physDesc>

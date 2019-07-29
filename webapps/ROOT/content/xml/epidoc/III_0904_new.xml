@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посветителен надпис за император М. Аврелий, вероятно горната част на паметник, който включва и 902</title><!-- Заглавие -->
-                <title xml:lang="en">Dedicatory inscription for emperor M. Aurelius, probably the upper part of a monument, that constitutes of 904 and 902</title>
+                <title xml:lang="bg">Почетен надпис за император М. Аврелий, вероятно горната част на паметник, който включва и 902</title><!-- Заглавие -->
+                <title xml:lang="en">Honorary inscription for emperor M. Aurelius, probably the upper part of a monument, that constitutes of 904 and 902</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -30,9 +30,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#Ddoc3_2p"><!-- добави в @corresp след # съответното id от document-type.xml -->
-                            <seg xml:lang="bg">публичен посветителен надпис - проза</seg><!-- с думи -->
-                            <seg xml:lang="en">public dedicatory inscription - prose </seg>
+                        <summary corresp="document-type.xml#doc2_1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                            <seg xml:lang="bg">почетен надпис за император - проза</seg><!-- с думи -->
+                            <seg xml:lang="en">honorary inscription for emperor - prose </seg>
                         </summary>
                     </msContents>
                     <physDesc>

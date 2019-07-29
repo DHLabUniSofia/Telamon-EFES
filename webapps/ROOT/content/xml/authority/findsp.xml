@@ -74,6 +74,12 @@
                     <idno type="geonames">https://www.geonames.org/733286</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place xml:id="MBelovo">
+                    <placeName xml:lang="en">Malko Belovo</placeName>
+                    <placeName xml:lang="bg">Малко Белово</placeName>
+                    <idno type="geonames">https://www.geonames.org/729343</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="ChG">
                     <placeName xml:lang="en">Cherna Gora</placeName>
                     <placeName xml:lang="bg">Черна гора</placeName>
@@ -210,6 +216,12 @@
                     <placeName xml:lang="bg">Оризаре</placeName>
                     <idno type="pleiades"></idno>
                     <idno type="geonames">https://www.geonames.org/728593</idno>
+                </place>
+                <place xml:id="Sinitovo">
+                    <placeName xml:lang="en">Sinitovo</placeName>
+                    <placeName xml:lang="bg">Синитово</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/216732</idno>
+                    <idno type="geonames">https://www.geonames.org/727195</idno>
                 </place>
                 <place xml:id="Pamidovo">
                     <placeName xml:lang="en">Pamidovo</placeName>

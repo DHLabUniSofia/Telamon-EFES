@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Откъслечен посветителен надпис към Септимий Север и Каракала</title><!-- Заглавие -->
-                <title xml:lang="en">Fragmentary dedicotory inscription to Septimius Severus and Caracalla</title>
+                <title xml:lang="bg">Откъслечен почетен надпис към Септимий Север и Каракала</title><!-- Заглавие -->
+                <title xml:lang="en">Fragmentary honorary inscription for Septimius Severus and Caracalla</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -30,9 +30,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#doc3-2p"><!-- КАКВО ИЗБИРАМЕ, КОГАТО НЕ Е ЯСНО ДАЛИ Е ЧАСТЕН ИЛИ ПУБЛИЧЕН?-->
-                            <seg xml:lang="bg">публичен посветителен надпис - проза</seg><!-- с думи -->
-                            <seg xml:lang="en">public dedicatory inscription - prose</seg>
+                        <summary corresp="document-type.xml#doc2-1p"><!-- КАКВО ИЗБИРАМЕ, КОГАТО НЕ Е ЯСНО ДАЛИ Е ЧАСТЕН ИЛИ ПУБЛИЧЕН?-->
+                            <seg xml:lang="bg">почетен надпис за императори - проза</seg><!-- с думи -->
+                            <seg xml:lang="en">honorary inscription for emperors - prose</seg>
                         </summary>
                     </msContents>
                     <physDesc>

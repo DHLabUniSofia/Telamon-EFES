@@ -55,7 +55,13 @@
                     <placeName xml:lang="grc"></placeName>
                     <placeName xml:lang="en">Burdapa</placeName>
                     <placeName xml:lang="bg">Бурдапа</placeName>
-                    <idno type="pleiades"> https://pleiades.stoa.org/places/501381</idno>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/501381</idno>
+                </place>
+                <place xml:id="Bessapara">
+                    <placeName xml:lang="grc"></placeName>
+                    <placeName xml:lang="en">Bessapara</placeName>
+                    <placeName xml:lang="bg">Бесапара</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/216732</idno>
                 </place>
                 <place xml:id="Cillae">
                     <placeName xml:lang="grc">Κελαι</placeName>

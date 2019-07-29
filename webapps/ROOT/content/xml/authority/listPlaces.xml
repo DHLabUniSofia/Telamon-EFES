@@ -30,6 +30,12 @@
                     <placeName xml:lang="bg">Августа Траяна</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/216731</idno>
                 </place>
+                <place xml:id="Burdapa">
+                    <placeName xml:lang="grc"></placeName>
+                    <placeName xml:lang="en">Burdapa</placeName>
+                    <placeName xml:lang="bg">Бурдапа</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/501381</idno>
+                </place>
                 <place xml:id="Phil"><placeName xml:lang="grc">Φιλιππόπολις</placeName>
                 <placeName xml:lang="en">Philippopolis</placeName>
                     <placeName xml:lang="bg">Филипопол</placeName>

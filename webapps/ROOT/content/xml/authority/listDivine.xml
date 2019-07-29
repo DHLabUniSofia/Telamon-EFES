@@ -34,6 +34,11 @@
                <persName xml:lang="en">Helios</persName>
                <persName xml:lang="bg">Хелиос</persName>
             </person>
+            <person xml:id="Mithra">
+               <persName xml:lang="grc">Μίθρας</persName>
+               <persName xml:lang="en">Mithra</persName>
+               <persName xml:lang="bg">Хелиос</persName>
+            </person>
             <person xml:id="Hera">
                <persName xml:lang="grc">Ἥρα</persName>
                <persName xml:lang="en">Hera</persName>
@@ -104,8 +109,18 @@
             </person>
             <person xml:id="Zymzdrenus" sameAs="Asclepius">
                <persName xml:lang="grc">Ζυμζδρηνος</persName>
-               <persName xml:lang="en">Zymzdrenus, Zymydrenus, Zymyzdrenus, Zysdrenus, Zylmyzdrenus</persName><!-- Zumzdrenus - 1133, 1117 Zymydrenus + HYGIA- 1140, Zymyzdrenus - 1126, Zysdrenus - 1132, Zylmyzdrenus - 1134-->
+               <persName xml:lang="en">Zymzdrenus, Zymydrenus, Zymyzdrenus, Zysdrenus, Zylmyzdrenus, Zylmyzdienus</persName><!-- Zumzdrenus - 1133, 1117 Zymydrenus + HYGIA- 1140, Zymyzdrenus - 1126, Zysdrenus - 1132, Zylmyzdrenus - 1134, Zylmyzdienus - 1184-->
                <persName xml:lang="bg">Зимздрен</persName>
+            </person>
+            <person xml:id="Rasyperenus" sameAs="Asclepius">
+               <persName xml:lang="grc">Ρασυπηρηνος</persName>
+               <persName xml:lang="en">Rasyperenus</persName>
+               <persName xml:lang="bg"></persName>
+            </person>
+            <person xml:id="Suregethes">
+               <persName xml:lang="grc">Σουρεγεθης</persName>
+               <persName xml:lang="en">Suregethes</persName>
+               <persName xml:lang="bg"></persName>
             </person>
             <person xml:id="Calchas">
                <persName xml:lang="grc">Κάλχας</persName>

@@ -5,9 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посвещение на Марк Аврелий и Луций Вер от Филиск и Гай</title>
+                <title xml:lang="bg">Почетен надпис за Марк Аврелий и Луций Вер от Филиск и Гай</title>
                 <!-- Заглавие -->
-                <title xml:lang="en">Dedication to Marcus Aurelius and Licius Verus by Filiscus and
+                <title xml:lang="en">Honorary inscription for Marcus Aurelius and Lucius Verus by Filiscus and
                     Gaius</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
@@ -37,9 +37,9 @@
                     </msIdentifier>
                     <msContents>
                         <!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#doc3-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
-                            <seg xml:lang="bg">частен посветителен надпис - проза</seg><!-- с думи -->
-                            <seg xml:lang="en">private dedicatory inscription - prose</seg>
+                        <summary corresp="document-type.xml#doc2-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                            <seg xml:lang="bg">почетен надпис за императори - проза</seg><!-- с думи -->
+                            <seg xml:lang="en">honorary inscription for emperors - prose</seg>
                         </summary>
                     </msContents>
                     <physDesc>

@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посветителен надпис от Квинт Клоний за Гета</title><!-- Заглавие -->
-                <title xml:lang="en">Dedicatory inscription by Quintus Clonius for emperor Geta</title>
+                <title xml:lang="bg">Почетен надпис от Квинт Клоний за Гета</title><!-- Заглавие -->
+                <title xml:lang="en">Honorary inscription by Quintus Clonius for emperor Geta</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -30,9 +30,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#doc3-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
-                            <seg xml:lang="bg">посветителен надпис от частно лице - проза</seg><!-- с думи -->
-                            <seg xml:lang="en">dedicatory inscription from private person - prose</seg>
+                        <summary corresp="document-type.xml#doc2-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                            <seg xml:lang="bg">почетен надпис за император - проза</seg><!-- с думи -->
+                            <seg xml:lang="en">honorary inscription for emperor - prose</seg>
                         </summary>
                     </msContents>
                     <history>
