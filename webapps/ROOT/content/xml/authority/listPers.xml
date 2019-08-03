@@ -139,6 +139,33 @@
                <persName xml:lang="bg"></persName>
                <occupation>ἀρχιερεύς</occupation>
             </person>
+            <person xml:id="AT024">
+               <persName xml:lang="grc">Φλάουϊος Σκελης</persName>
+               <persName xml:lang="en">Flavius Sceles</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>κριτής, ὁροθέτης</occupation>
+            </person>
+            <person xml:id="AT025">
+               <persName xml:lang="grc">Ἀλέξανδρος Φιλίππου</persName>
+               <persName xml:lang="en">Alexander, son of Phillip</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ἀγοραῖος</occupation>
+            </person>
+            <person xml:id="AT027">
+               <persName xml:lang="en">Marcus Aurelius Eustochius Celer</persName>
+               <persName xml:lang="grc">Εὐστοχίος Κέλερ Ἀσκληπιάδου</persName> 
+               <persName xml:lang="bg">М. Авр. Евстохий Целер</persName>
+               <occupation xml:lang="en">thraciarchus</occupation>
+               <occupation xml:lang="bg">тракиарх</occupation>
+               <occupation xml:lang="grc">θρᾳκάρχης?, πρῶτος ἄρχων</occupation>
+               <floruit>249 - 250</floruit> 
+            </person>
+            <person xml:id="AT026">
+               <persName xml:lang="grc">Ἡρώδης Πάκκις Σουρατραλις</persName>
+               <persName xml:lang="en">Herodes Pakis Suratralis</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ἱερεὺς</occupation>
+            </person>
             <person xml:id="AT028">
                <persName xml:lang="grc">Αἰμιλίος Βειθυς</persName>
                <persName xml:lang="en">Aemilius Beithus</persName>

@@ -44,6 +44,11 @@
                <persName xml:lang="en">Hera</persName>
                <persName xml:lang="bg">Хера</persName>
             </person>
+            <person xml:id="Titidene" sameAs="Hera">
+               <persName xml:lang="grc">Τιδιτηνη</persName>
+               <persName xml:lang="en">Titidene</persName>
+               <persName xml:lang="bg">Хера</persName>
+            </person>
             <person xml:id="Demetra">
                <persName xml:lang="grc">Δημήτηρ</persName>
                <persName xml:lang="en">Demetra</persName>

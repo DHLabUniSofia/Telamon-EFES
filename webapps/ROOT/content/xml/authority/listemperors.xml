@@ -26,6 +26,14 @@
                <floruit>98 - 117</floruit>
                <idno type="wp">https://en.wikipedia.org/wiki/Trajan</idno>
             </person>
+            <person xml:id="Antoninus">
+               <persName xml:lang="en">Titus Aelius Hadrianus Antoninus</persName>  
+               <persName xml:lang="grc">Τίτος Αἴλιος Ἁδριανός Ἀντωνίνος</persName>
+               <persName xml:lang="bg">Тит Елий Адриан Антонин</persName>
+               <floruit>138 - 161</floruit>
+               <idno type="wp">https://en.wikipedia.org/wiki/Antoninus_Pius</idno>
+            </person>
+            
             <person xml:id="MarcusAurelius">
                <persName xml:lang="en">Marcus Aurelius Antoninus</persName>
                <persName xml:lang="grc">Μάρκος Αὐρήλιος Ἀντονείνος</persName>
@@ -168,7 +176,7 @@
                <idno type="wp">https://en.wikipedia.org/wiki/Lucius_Catius_Celer</idno>
             </person>
             <person sameAs="Celer">
-               <idno type="https://bg.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B8%D0%BD%D1%82_%D0%90%D1%82%D0%B8%D0%B9_%D0%A6%D0%B5%D0%BB%D0%B5%D1%80"></idno>
+               <idno type="wp">https://bg.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B8%D0%BD%D1%82_%D0%90%D1%82%D0%B8%D0%B9_%D0%A6%D0%B5%D0%BB%D0%B5%D1%80</idno>
             </person>
             <person xml:id="Polemarchus"><persName xml:lang="grc">Τιβέριος Κλαύδιος Πολέμαρχος</persName>
             <persName xml:lang="en">Tiberius Claudius Polemarchus</persName>
@@ -187,7 +195,16 @@
                <occupation xml:lang="bg">управител на провинция</occupation>
                <idno type="wp">https://en.wikipedia.org/wiki/Rutilius_Pudens_Crispinus</idno>
             </person>
-            
+            <person xml:id="Orfitianus">
+               <persName xml:lang="en">Gaius Julius Commodus Orfitianus</persName>
+               <persName xml:lang="grc">Γάιος Ἰ̣ο̣ύλιος Οὐῆρος Κόμμοδος</persName>
+               <persName xml:lang="bg">Гай Юлий Комод Орфициан</persName>
+               <occupation xml:lang="en">provincial governor</occupation>
+               <occupation xml:lang="bg">управител на провинция</occupation>
+               <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
+               <floruit>154-155</floruit>
+               <idno type="wp">https://bg.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9_%D0%AE%D0%BB%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BC%D0%BE%D0%B4_%D0%9E%D1%80%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BD</idno>
+            </person>
             <person xml:id="Asellius">
                <persName xml:lang="grc">Ἀσέλλιος Αἰμιλιανός</persName>
                <persName xml:lang="en">Asellius Aemilianus</persName>
@@ -227,6 +244,15 @@
                <occupation xml:lang="grc">δουκηνάριος, νεωκόρος, γραφεύς</occupation>
                <floruit>c. 215 - 235</floruit>
             </person>
+            <person xml:id="Bassus">
+               <persName xml:lang="en">Publius Virdius Bassus</persName>
+               <persName xml:lang="grc">Πόπλιος Οὐίρδιος Βάσσος</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation xml:lang="en"></occupation>
+               <occupation xml:lang="bg"></occupation>
+               <occupation xml:lang="grc">νεωκόρος</occupation>
+               <floruit>c. 215 - 235</floruit>
+            </person>
             <person xml:id="Proculus">
                <persName xml:lang="en">Quintus Egnatius Proculus</persName>
                <persName xml:lang="grc">Κοΐντος Ἐγνατίος Πρόκυλος</persName>
@@ -245,24 +271,6 @@
                <occupation xml:lang="en">provincial governor</occupation>
                <occupation xml:lang="bg">управител на провинция</occupation>
                <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
-            </person>
-            <person xml:id="AurApoll">
-               <persName xml:lang="grc">Αὐρήλιος Ἀπολλωνίδος Ἀπολλοδώρος</persName>
-               <persName xml:lang="en">Aurelius Apollonidus Apollodorus</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation xml:lang="en">provincial governor</occupation>
-               <occupation xml:lang="bg">управител на провинция ; първи архонт? същото ли беше?</occupation>
-               <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
-               <floruit>176 - 193</floruit>
-            </person>
-            <person xml:id="Eustochius">
-               <persName xml:lang="en">M. Aur. Eustochius Celer</persName>
-               <persName xml:lang="grc"></persName> 
-               <persName xml:lang="bg">М. Авр. Евстохий Целер</persName>
-               <occupation xml:lang="en">thraciarchus</occupation>
-               <occupation xml:lang="bg">тракиарх</occupation>
-               <occupation xml:lang="grc">θρᾳκάρχης </occupation>
-               <floruit>249 - 250</floruit> 
             </person>
             <person xml:id="Clonius"> 
                <persName xml:lang="en">Quintus Atrius Clonius </persName>
@@ -293,6 +301,15 @@
                <occupation xml:lang="en">provincial governor</occupation>
                <occupation xml:lang="bg">управител на провинция</occupation>
                <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
+            </person>
+            <person xml:id="AurApoll">
+               <persName xml:lang="grc">Αὐρήλιος Ἀπολλωνίδος Ἀπολλοδώρος</persName>
+               <persName xml:lang="en">Aurelius Apollonidus Apollodorus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation xml:lang="en">provincial governor</occupation>
+               <occupation xml:lang="bg">управител на провинция ; първи архонт? същото ли беше?</occupation>
+               <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
+               <floruit>176 - 193</floruit>
             </person>
          </listPerson>
       </body>

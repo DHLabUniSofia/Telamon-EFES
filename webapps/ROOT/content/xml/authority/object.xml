@@ -35,6 +35,10 @@
                     <term xml:lang="en">column</term>
                     <gloss xml:lang="bg">колона</gloss>
                 </item>
+                <item xml:id="stone">
+                    <term xml:lang="en">boundary stone</term>
+                    <gloss xml:lang="bg">граничен камък</gloss>
+                </item>
                 <item xml:id="sarc">
                     <term xml:lang="en">sarcophagus</term>
                     <gloss xml:lang="bg">саркофаг</gloss>

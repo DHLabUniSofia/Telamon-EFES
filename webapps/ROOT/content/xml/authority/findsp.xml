@@ -68,6 +68,12 @@
                     <idno type="geonames">http://www.geonames.org/733284/belozem.html</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place xml:id="Belashtitsa">
+                    <placeName xml:lang="en">Belashtitsa</placeName>
+                    <placeName xml:lang="bg">Белащица</placeName>
+                    <idno type="geonames">https://www.geonames.org/733368</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="Belovo">
                     <placeName xml:lang="en">Belovo</placeName>
                     <placeName xml:lang="bg">Белово</placeName>
@@ -78,6 +84,12 @@
                     <placeName xml:lang="en">Malko Belovo</placeName>
                     <placeName xml:lang="bg">Малко Белово</placeName>
                     <idno type="geonames">https://www.geonames.org/729343</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="GVoden">
+                    <placeName xml:lang="en">Gorni Voden</placeName>
+                    <placeName xml:lang="bg">Горни Воден</placeName>
+                    <idno type="geonames">https://www.geonames.org/731194</idno>
                     <idno type="pleiades"></idno>
                 </place>
                 <place xml:id="ChG">
@@ -104,6 +116,18 @@
                     <idno type="geonames">https://www.geonames.org/726310</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place xml:id="Topolovo">
+                    <placeName xml:lang="en">Topolovo</placeName>
+                    <placeName xml:lang="bg">Тополово</placeName>
+                    <idno type="geonames">https://www.geonames.org/726381</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="Tatarevo">
+                    <placeName xml:lang="en">Tatarevo</placeName>
+                    <placeName xml:lang="bg">Татарево</placeName>
+                    <idno type="geonames">https://www.geonames.org/6459954</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="Hrabrino">
                     <placeName xml:lang="en">Hrabrino</placeName>
                     <placeName xml:lang="bg">Храбрино</placeName>
@@ -120,6 +144,18 @@
                     <placeName xml:lang="en">Byal Izvor</placeName>
                     <placeName xml:lang="bg">Бял извор</placeName>
                     <idno type="geonames">http://www.geonames.org/732697/byal-izvor.html</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="Izvor">
+                    <placeName xml:lang="en">Izvor</placeName>
+                    <placeName xml:lang="bg">Извор</placeName>
+                    <idno type="geonames">https://www.geonames.org/730818</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="Galabovo">
+                    <placeName xml:lang="en">Galabovo</placeName>
+                    <placeName xml:lang="bg">Гълъбово</placeName>
+                    <idno type="geonames">https://www.geonames.org/730988</idno>
                     <idno type="pleiades"></idno>
                 </place>
                 <place xml:id="Zlat">
@@ -222,6 +258,18 @@
                     <placeName xml:lang="bg">Синитово</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/216732</idno>
                     <idno type="geonames">https://www.geonames.org/727195</idno>
+                </place>
+                <place xml:id="YoGru">
+                    <placeName xml:lang="en">Yoakim Gruevo</placeName>
+                    <placeName xml:lang="bg">Йоаким Груево</placeName>
+                    <idno type="pleiades"> </idno>
+                    <idno type="geonames">https://www.geonames.org/725513</idno>
+                </place>
+                <place xml:id="Boljartsi">
+                    <placeName xml:lang="en">Boljartsi</placeName>
+                    <placeName xml:lang="bg">Болярци</placeName>
+                    <idno type="pleiades"> </idno>
+                    <idno type="geonames">https://www.geonames.org/733085</idno>
                 </place>
                 <place xml:id="Pamidovo">
                     <placeName xml:lang="en">Pamidovo</placeName>
