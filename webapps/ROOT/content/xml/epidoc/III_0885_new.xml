@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title xml:lang="bg">Почетен надпис за Тиберий Клавдий Пасинунт, син на Мукиан</title><!-- Заглавие -->
-                <title xml:lang="en">Hinirary inscription for Tiberius Claudius Pasinus, son of Moukianus</title>
+                <title xml:lang="en">Honirary inscription for Tiberius Claudius Pasinus, son of Moukianus</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -30,7 +30,7 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#2-2p"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                        <summary corresp="document-type.xml#doc2-2p"><!-- добави в @corresp след # съответното id от document-type.xml -->
                             <seg xml:lang="bg">почетен надпис за местен магистрат</seg><!-- с думи -->
                             <seg xml:lang="en">honorary inscription for local magistrate</seg>
                         </summary>

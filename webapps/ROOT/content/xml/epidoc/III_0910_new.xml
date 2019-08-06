@@ -30,7 +30,7 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#doc2_1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
+                        <summary corresp="document-type.xml#doc2-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
                             <seg xml:lang="bg">почетен надпис за император - проза</seg><!-- с думи -->
                             <seg xml:lang="en">honorary inscription emperor - prose</seg>
                         </summary>

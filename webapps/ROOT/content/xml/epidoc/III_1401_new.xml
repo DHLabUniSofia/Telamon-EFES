@@ -41,7 +41,7 @@
                                 <support>
                                    <material xml:lang="bg" ref="material.xml#"></material><!-- добави в @ref след # съответното id от material.xml; съдържание на елемента - с думи -->  
                                     <material xml:lang="en"></material>
-                                    <!-- Cippus terminalis formam arae habens -->  <objectType xml:lang="bg" ref="object.xml#stone">граничен камък</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
+                                    <!-- Cippus terminalis formam arae habens -->  <objectType xml:lang="bg" ref="object.xml#">граничен камък</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
                                     <objectType xml:lang="en">boundary stone</objectType>
                                     <dimensions><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                                         <height quantity="113">113</height>

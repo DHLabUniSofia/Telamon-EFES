@@ -65,9 +65,9 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="origloc.xml#Batkun"> <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
-                                <seg xml:lang="bg">Баткун</seg>
-                                <seg xml:lang="en">Batkun</seg>
+                            <origPlace ref="origloc.xml#"> <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
+                                <seg xml:lang="bg"></seg>
+                                <seg xml:lang="en"></seg>
                             </origPlace>
                             <origDate><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
                                 <seg xml:lang="bg"></seg>

@@ -818,6 +818,11 @@
         <persName xml:lang="en">Caecilius</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Caecina">
+        <persName xml:lang="grc">Καικίνα</persName>
+        <persName xml:lang="en">Caecina</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Maternus">
         <persName xml:lang="grc">Ματέρνος</persName>
         <persName xml:lang="en">Maternus</persName>
@@ -1031,6 +1036,11 @@
     <person xml:id="Titus">
         <persName xml:lang="grc">Τίτος</persName>
         <persName xml:lang="en">Titus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Largus">
+        <persName xml:lang="grc">Λάργος</persName>
+        <persName xml:lang="en">Largus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Tarsas">

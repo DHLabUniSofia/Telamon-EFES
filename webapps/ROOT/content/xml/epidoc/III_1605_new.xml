@@ -30,7 +30,7 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#4p"><!-- нямам представа какъв е жанра -->
+                        <summary corresp="document-type.xml#doc4p"><!-- нямам представа какъв е жанра -->
                             <seg xml:lang="bg">надгробен надпис - проза</seg><!-- с думи -->
                             <seg xml:lang="en">funerary inscription - prose</seg>
                         </summary>

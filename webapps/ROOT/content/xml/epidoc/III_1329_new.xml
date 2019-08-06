@@ -30,7 +30,7 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents><!-- Жанр на надписа -->
-                        <summary corresp="document-type.xml#2-4p"><!-- НЕ МОГА ДА ПРЕЦЕНЯ ME NEITHER< EB> -->
+                        <summary corresp="document-type.xml#doc2-4p"><!-- НЕ МОГА ДА ПРЕЦЕНЯ ME NEITHER< EB> -->
                             <seg xml:lang="bg">почетен надпис за частно лице</seg><!-- с думи -->
                             <seg xml:lang="en">honorary inscription for private person</seg>
                         </summary>
