@@ -69,6 +69,12 @@
                     <placeName xml:lang="bg">Циле</placeName>
                     <idno type="other">http://www.bulgariancastles.com/bg/node/928</idno>
                 </place>
+                <place xml:id="Carassura">
+                    <placeName xml:lang="grc"></placeName>
+                    <placeName xml:lang="en">Carassura</placeName>
+                    <placeName xml:lang="bg">Карасура</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/216750</idno>
+                </place>
                 <place xml:id="Tug">
                     <placeName xml:lang="en">Tugugerum</placeName>
                     <placeName xml:lang="bg">Тугугерум</placeName>

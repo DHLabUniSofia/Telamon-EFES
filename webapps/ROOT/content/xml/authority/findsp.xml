@@ -277,6 +277,12 @@
                     <idno type="pleiades"></idno>
                     <idno type="geonames">https://www.geonames.org/728451</idno>
                 </place>
+                <place xml:id="Rupkite">
+                    <placeName xml:lang="en">Rupkite</placeName>
+                    <placeName xml:lang="bg">Рупките</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">https://www.geonames.org/727533</idno>
+                </place>
             </listPlace>
         </body>
     </text>

@@ -129,6 +129,12 @@
         <persName xml:lang="en"></persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Dometis">
+        <persName xml:lang="grc">Δομέτις</persName>
+        <persName xml:lang="en">Dometis</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    
 <person xml:id="Antipatrus">
     <persName xml:lang="grc">Ἀντίπατρος</persName>
     <persName xml:lang="en"></persName>
@@ -162,6 +168,11 @@
     <person xml:id="Salazon">
         <persName xml:lang="grc">Σαλαζων</persName>
         <persName xml:lang="en">Salazon</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Lazeris">
+        <persName xml:lang="grc">Λαζερις</persName>
+        <persName xml:lang="en">Lazeris</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Longinus">
@@ -476,6 +487,12 @@
         <persName xml:lang="en">Attius</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Atilianus">
+        <persName xml:lang="grc">Ἀτειλιανός</persName>
+        <persName xml:lang="en">Atilianus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    
     <person xml:id="Clonius">
         <persName xml:lang="grc">Κλόνιος</persName>
         <persName xml:lang="en">Clonius</persName>
@@ -576,6 +593,11 @@
         <persName xml:lang="en">Crispinus</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Crispina">
+        <persName xml:lang="grc">Κρισπεῖνα</persName>
+        <persName xml:lang="en">Crispina</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Theodorus">
         <persName xml:lang="grc">Θεόδωρος</persName>
         <persName xml:lang="en">Theodorus</persName>
@@ -589,6 +611,11 @@
     <person xml:id="Diodorus">
         <persName xml:lang="grc">Διόδωρος</persName>
         <persName xml:lang="en">Diodorus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Deospuris">
+        <persName xml:lang="grc">Δεοσπουρις</persName>
+        <persName xml:lang="en">Deospuris</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Sebastianus">
@@ -926,6 +953,11 @@
         <persName xml:lang="en">Ulpius</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Ulpia">
+        <persName xml:lang="grc">Οὐλπία</persName>
+        <persName xml:lang="en">Ulpia</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Trophimus">
         <persName xml:lang="grc">Τρόφιμος</persName>
         <persName xml:lang="en">Trophimus</persName>
@@ -939,6 +971,11 @@
     <person xml:id="Iulius">
         <persName xml:lang="grc">Ἰούλιος</persName>
         <persName xml:lang="en">Iulius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Iulianus">
+        <persName xml:lang="grc">Ἰουλιανός</persName>
+        <persName xml:lang="en">Iulianus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Philippus">
@@ -964,6 +1001,11 @@
     <person xml:id="Secundus">
         <persName xml:lang="grc">Σεκοῦνδος</persName>
         <persName xml:lang="en">Secundus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Secunda">
+        <persName xml:lang="grc">Σεκοῦνδα</persName>
+        <persName xml:lang="en">Secunda</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Iucundus">
@@ -1039,6 +1081,11 @@
     <person xml:id="Celer">
         <persName xml:lang="grc">Κέλερ</persName>
         <persName xml:lang="en">Celer</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Celsina">
+        <persName xml:lang="grc">Κελσεῖνα</persName>
+        <persName xml:lang="en">Celsina</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Claudias">

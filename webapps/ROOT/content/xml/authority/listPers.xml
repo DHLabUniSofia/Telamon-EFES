@@ -178,6 +178,12 @@
                <persName xml:lang="bg"></persName>
                <occupation>ὕπατος</occupation>
             </person>
+            <person xml:id="AT030">
+               <persName xml:lang="grc">Κλαύδιος Δομέτις</persName>
+               <persName xml:lang="en">Claudius Dometis</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ἱερώσυνος</occupation>
+            </person>
             <person xml:id="AT119">
                <persName xml:lang="grc">Πόπλιος Αἴλιος Διοσκουρίδης</persName>
                <persName xml:lang="en">Publius Aelius Dioscurides</persName>
