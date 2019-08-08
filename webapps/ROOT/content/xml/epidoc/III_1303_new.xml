@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="bg">Посвещение на Аслкепий от Гай Валерий Скопелиан и Елиа Алкенида, дъщеря на Ептакент, на мраморен олтар от Паталеница</title><!-- Заглавие -->
-                <title xml:lang="en">Dedication to Asclepius by Gaius Valerius Scopelianus and Aelia Alcenis, daughter of Eptacenthus, on a marble altar from Patalenica</title>
+                <title xml:lang="bg">Посвещение на Асклепий от Деметрий и Мукин на мраморен олтар от Паталеница</title><!-- Заглавие -->
+                <title xml:lang="en">Dedication to Asclepius by Demetrius and Mukinus on a marble altar from Palatenica</title>
                 <editor>
                     <persName xml:lang="bg">Георги Михайлов</persName>
                     <persName xml:lang="en">Georgi Mihailov</persName>
@@ -15,7 +15,7 @@
             <publicationStmt>
                 <authority>Telamon Project</authority>
                 <date>2019</date>
-                <idno type="filename">III.1302</idno><!-- номер на надписа -->
+                <idno type="filename">III.1303</idno><!-- номер на надписа -->
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -27,8 +27,7 @@
                         <altIdentifier xml:lang="en">
                             <repository>—</repository>
                             <idno>—</idno>
-                        </altIdentifier>
-                    </msIdentifier>
+                        </altIdentifier></msIdentifier>
                     <msContents><!-- Жанр на надписа -->
                         <summary corresp="document-type.xml#doc3-1p"><!-- добави в @corresp след # съответното id от document-type.xml -->
                             <seg xml:lang="bg">частен посветителен надпис - проза</seg><!-- с думи -->
@@ -44,8 +43,9 @@
                                     <objectType xml:lang="bg" ref="object.xml#altar">олтар</objectType><!-- добави в @ref след # съответното id от object.xml; съдържание на елемента - с думи--> 
                                     <objectType xml:lang="en">altar</objectType>
                                     <dimensions><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
-                                        <height quantity="75">75</height>
-                                        <width quantity="43">43</width>
+                                        <height quantity="102">102</height>
+                                        <width quantity="28">28</width>
+                                        <depth quantity="31">31</depth>
                                     </dimensions>
                                 </support>
                             </supportDesc>
@@ -55,7 +55,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>
-                                <height atLeast="3" atMost="5">3 - 5</height><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
+                                <height atLeast="1.8" atMost="2.5">1.8 - 2.5</height><!-- само числова стойност като стойност на атрибута и като съдържание на елемента -->
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -83,10 +83,10 @@
                         </provenance>
                         <provenance type="observed">
                             <seg xml:lang="bg">
-                                в църквата на <placeName>Паталеница</placeName><!-- само с думи --> <!-- само с думи ли да остане наистина или да имаме референтен списък на места и тук? ДИ -->
+                                <placeName></placeName><!-- само с думи --> <!-- само с думи ли да остане наистина или да имаме референтен списък на места и тук? ДИ -->
                             </seg>
                             <seg xml:lang="en">
-                                in the church of <placeName>Patalenica</placeName>
+                                <placeName></placeName>
                             </seg>
                         </provenance>
                     </history>
@@ -110,29 +110,29 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="ἀγαθός">Άγαθῆι</w> <w lemma="τύχη">τύχηι</w>.
-                    <lb n="2"/><w lemma="θεός">Θεῶι</w> <g type="dot"/> <persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπιῶι</persName>
-                    <lb n="3"/><persName>
-                        <name ref="Onom.xml#Gaius" nymRef="Γάιος"><expan><abbr>Γ</abbr><ex>άιος</ex></expan></name> <g type="dot"/>
-                        <name ref="Onom.xml#Valerius" nymRef="Οὐαλέριος">Οὐαλέριος</name> <g type="dot"/> <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
-                        <name ref="Onom.xml#Scopelianus" nymRef="Σκοπελιανός">Σκοπε 
-                    <lb n="4" break="no"/>λιανὸς</name></persName> <g type="dot"/><!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
-                        <w>καὶ</w> <persName><name ref="Onom.xml#Aelia" nymRef="Αἰλία">Αἰλία</name> <g type="dot"/><!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
-                    <lb n="5"/><name ref="Onom.xml#Alcenis" nymRef="Ἀλκενίς"><unclear>Ἀ</unclear>λκενὶς</name> <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
-                            <name ref="Onom.xml#Eptacenthus" nymRef="Επτακενθος">Επτακεν
-                    <lb n="6" break="no"/>θου</name></persName> <g type="dot"/> <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
-                        <w lemma="χαριστήριον">χαριστήριον</w>.
+                    <lb n="1"/><w lemma="ἀγαθός "><supplied reason="lost">Ἀ</supplied>γαθῆι</w> <w lemma="τύχη">τύχ<supplied reason="lost">ηι</supplied></w>.
+                    <lb n="2"/><w lemma="κύριος">Κυρίῳ</w>
+                    <lb n="3"/><persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπιῷ</persName> <persName>Στα<gap reason="lost" extent="3" unit="character"/></persName>
+                    <lb n="4"/><persName><name ref="Onom.xml#Demetrius" nymRef="Δημήτριος">Δημήτριος</name> <name ref="Onom.xml#Dio--?" nymRef="Διο---ου">Διο<gap reason="lost" extent="3" unit="character"/> <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
+                    <lb n="5" break="no"/>ου</name> <w>ὁ</w> <w>κὲ</w> <name ref="Onom.xml#Mukinus" nymRef="Μουκινος">Μουκινο<supplied reason="lost">ς</supplied></name></persName> <placeName type="ethnic" ref="listPlaces.xml#Phil"><supplied reason="lost">Φι<!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
+                    <lb n="6" break="no"/>λι</supplied><unclear>π</unclear>ποπολίτης</placeName> <w lemma="σύνδικος"><supplied reason="lost">σύν <!--ТУК У МИХАЙЛОВ ИМА ДВЕ ПРЕДПОЛОЖЕНИЯ ЗА ПОПЪЛВАНЕ НА ЛАКУНАТА-->
+                    <lb n="7" break="no"/>δι</supplied><unclear>κ</unclear>ος</w> <w>ὑπὲρ</w> <w lemma="ἑαυτοῦ">ἑαυτ<supplied reason="lost">οῦ</supplied></w>
+                    <lb n="8"/><w><supplied reason="lost">καὶ</supplied></w> <w>τῶν</w> <w lemma="ἴδιος">ἰδίων</w> <w lemma="εὔχομαι">εὐ<supplied reason="lost">ξάμε</supplied>
+                    <lb n="9" break="no"/><supplied reason="lost">νο</supplied><unclear>ς</unclear></w> <w lemma="τίθημι">ἔθηκεν</w>, <w lemma="ἱερεύω">ἱε<supplied reason="lost">ρεύ
+                    <lb n="10" break="no"/>ον</supplied><unclear>τ</unclear>ος</w><persName><name ref="Onom.xml#Mukatralis" nymRef="Μουκατραλις">Μουκατρ<unclear>α</unclear><supplied reason="lost">λε
+                    <lb n="11" break="no"/>ος</supplied></name> <name ref="Onom.xml#Kotys" nymRef="Κοτυς"><supplied reason="lost">Κο</supplied>τυος</name></persName>.
                 </ab>
             </div>
             <div type="apparatus">
                 <listApp >
                     <head xml:lang="bg">Букви в лигатура:</head><!-- В случай, че има коментари и от друг характер, да се промени съдържанието на елемента или да се добави нов елемент <head> -->
                     <head xml:lang="en">Letters in ligature:</head>
-                    <app loc="2"><note>ηπ;</note></app>
-                    <app loc="3"><note>πε;</note></app>
-                    <app loc="6"><note>ηρ.</note></app>
+                    <app loc="6"><note>ης;</note></app>
+                    <app loc="8"><note>ων;</note></app>
+                    <app loc="9"><note>ηκ.</note></app>
                     <app><!-- стойността на атрибута да се замени със съответния ред, на който се среща лигатурата; елементът да се повтори толкова пъти, колкото реда с лигатури има -->
-                        <rdg></rdg>
+                        <rdg xml:lang="en">Mihailov gives an alternative reading of [σύνδι]κος - ἔκδικος.</rdg>
+                        <rdg xml:lang="bg">Михайлов дава разночетене на [σύνδ]ικος - ἔκδικος.</rdg>
                     </app>
                 </listApp>
             </div>

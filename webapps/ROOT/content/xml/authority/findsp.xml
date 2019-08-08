@@ -236,6 +236,11 @@
                     <placeName xml:lang="bg">Пазарджик</placeName>
                     <idno type="geonames">https://www.geonames.org/728378/pazardzhik.html</idno>
                 </place>
+                <place xml:id="Patalenitsa">
+                    <placeName xml:lang="en">Patalenitsa</placeName>
+                    <placeName xml:lang="bg">Паталеница</placeName>
+                    <idno type="geonames">https://www.geonames.org/728397</idno>
+                </place>
                 <place xml:id="GKrichim">
                     <placeName xml:lang="en">Stamboliyski</placeName>
                     <placeName xml:lang="bg">Стамболийски</placeName>

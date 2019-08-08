@@ -225,6 +225,11 @@
         <persName xml:lang="en">Alcius</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Alcenis">
+        <persName xml:lang="grc">Ἀλκενίς</persName>
+        <persName xml:lang="en">Alcenis</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Ariston">
         <persName xml:lang="grc">Ἀρίστων</persName>
         <persName xml:lang="en">Ariston</persName>
@@ -289,6 +294,11 @@
     <person xml:id="Scorianus">
         <persName xml:lang="grc">Σκωριανός</persName>
         <persName xml:lang="en"></persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Scopelianus">
+        <persName xml:lang="grc">Σκοπελιανός</persName>
+        <persName xml:lang="en">Scopelianus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Scorilus">
@@ -372,6 +382,11 @@
         <persName xml:lang="en">Aelius</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Aelia">
+        <persName xml:lang="grc">Αἰλία</persName>
+        <persName xml:lang="en">Aelia</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Tatazia">
         <persName xml:lang="grc">Ταταζια</persName>
         <persName xml:lang="en">Tatazia</persName>
@@ -415,6 +430,11 @@
     <person xml:id="Eptecaenthus">
         <persName xml:lang="grc">Επταικενθος</persName>
         <persName xml:lang="en">Eptecaenthus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Eptacenthus">
+        <persName xml:lang="grc">Επτακενθος</persName>
+        <persName xml:lang="en">Eptacenthus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Lucius">
@@ -613,6 +633,11 @@
         <persName xml:lang="en">Diodorus</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Dio--?">
+        <persName xml:lang="grc">Διο---ου</persName>
+        <persName xml:lang="en">Dio---ου</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Deospuris">
         <persName xml:lang="grc">Δεοσπουρις</persName>
         <persName xml:lang="en">Deospuris</persName>
@@ -671,6 +696,11 @@
     <person xml:id="Mukianus">
         <persName xml:lang="grc">Μουκιανος</persName>
         <persName xml:lang="en">Mukianus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Mukinus">
+        <persName xml:lang="grc">Μουκινος</persName>
+        <persName xml:lang="en">Mukinus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Iakisinaris">
@@ -996,6 +1026,11 @@
     <person xml:id="Varius">
         <persName xml:lang="grc">Οὐάριος</persName>
         <persName xml:lang="en">Varius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Valerius">
+        <persName xml:lang="grc">Οὐαλέριος</persName>
+        <persName xml:lang="en">Valerius</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Cassius">
