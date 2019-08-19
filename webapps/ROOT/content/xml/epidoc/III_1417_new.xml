@@ -114,7 +114,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><persName><name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr>Αὐρ</abbr><ex>ήλιος</ex></expan></name> <name nymRef="Μουκιανός" ref="Onom.xml#Mukianus">Μουκιανὸ<supplied reason="omitted">ς</supplied></name> <name nymRef="Μουκιανός" ref="Onom.xml#Mukianus">Μουκια-
-                    <lb n="2" break="no"/>νοῦ</name></persName> <w lemma="θεός">θεῷ</w> <persName type="divine" ref="listDivine#heros">Ἥρωει</persName><!-- ТОВА ТАКА ЛИ ИЛИ С РЕФЕРЕНЦИЯ КЪМ БОГА --> <w lemma="ἀνατίθημι">ἀνέθηκε</w>.
+                    <lb n="2" break="no"/>νοῦ</name></persName> <w lemma="θεός">θεῷ</w> <persName type="divine" ref="listDivine.xml#heros">Ἥρωει</persName><!-- ТОВА ТАКА ЛИ ИЛИ С РЕФЕРЕНЦИЯ КЪМ БОГА --> <w lemma="ἀνατίθημι">ἀνέθηκε</w>.
 <!-- тук сложи гръцкия текст -->
                 </ab>
             </div>

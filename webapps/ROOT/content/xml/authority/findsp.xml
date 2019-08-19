@@ -202,6 +202,18 @@
                     <idno type="geonames">http://www.geonames.org/732874/gostilica.html</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place xml:id="Kovach">
+                    <placeName xml:lang="en">Kovach</placeName>
+                    <placeName xml:lang="bg">Ковач</placeName>
+                    <idno type="geonames">https://www.geonames.org/730060</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="GBotevo">
+                    <placeName xml:lang="en">Gorno Botevo</placeName>
+                    <placeName xml:lang="bg">Горно Ботево</placeName>
+                    <idno type="geonames">https://www.geonames.org/731188</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="Batkun">
                     <placeName xml:lang="en">Batkun</placeName>
                     <placeName xml:lang="bg">Баткун</placeName>
@@ -226,6 +238,12 @@
                     <idno type="pleiades"></idno>
                     <idno type="geonames">https://www.geonames.org/725593</idno>
                 </place>
+                <place xml:id="Petrovo">
+                    <placeName xml:lang="en">Petrovo</placeName>
+                    <placeName xml:lang="bg">Петрово</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">https://www.geonames.org/728279</idno>
+                </place>
                 <place xml:id="Perushtitsa">
                     <placeName xml:lang="en">Perushtitsa</placeName>
                     <placeName xml:lang="bg">Перущица</placeName>
@@ -245,6 +263,11 @@
                     <placeName xml:lang="en">Stamboliyski</placeName>
                     <placeName xml:lang="bg">Стамболийски</placeName>
                     <idno type="geonames">https://www.geonames.org/726890/stamboliyski.html</idno>
+                </place>
+                <place xml:id="StIzvor">
+                    <placeName xml:lang="en">Staria Izvor</placeName>
+                    <placeName xml:lang="bg">Стария Извор</placeName>
+                    <idno type="geonames">www.geonames.org/726836</idno>
                 </place>
                 <place xml:id="Voinitsite">
                     <placeName xml:lang="en">Voinitsite</placeName>
@@ -281,6 +304,12 @@
                     <placeName xml:lang="bg">Памидово</placeName>
                     <idno type="pleiades"></idno>
                     <idno type="geonames">https://www.geonames.org/728451</idno>
+                </place>
+                <place xml:id="KDimitrievo">
+                    <placeName xml:lang="en">Kapitan Dimitrievo</placeName>
+                    <placeName xml:lang="bg">Капитан Димитриево</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">www.geonames.org/6461192</idno>
                 </place>
                 <place xml:id="Rupkite">
                     <placeName xml:lang="en">Rupkite</placeName>

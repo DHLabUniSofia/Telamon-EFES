@@ -59,6 +59,11 @@
                <persName xml:lang="en">Zeus</persName>
                <persName xml:lang="bg">Зевс</persName>
             </person>
+            <person xml:id="Zbelsurd" sameAs="Zeus">
+               <persName xml:lang="grc">Ζβελσουρδος</persName>
+               <persName xml:lang="en">Zbelsurdus</persName>
+               <persName xml:lang="bg">Збелсурд</persName>
+            </person>
             <person xml:id="Dionysus">
                <persName xml:lang="grc">Διόνυσος</persName>
                <persName xml:lang="en">Dionysus</persName>
@@ -93,6 +98,11 @@
                <persName xml:lang="grc">Ζγουλαμιηνος</persName>
                <persName xml:lang="en">Zgoulamenus</persName>
                <persName xml:lang="bg">Згуламенски</persName>
+            </person>
+            <person xml:id="Ares">
+               <persName xml:lang="grc">Ἄρης</persName>
+               <persName xml:lang="en">Ares</persName>
+               <persName xml:lang="bg">Арес</persName>
             </person>
             <person xml:id="Heracles">
                <persName xml:lang="grc">Ἡρακλῆς</persName>
@@ -190,6 +200,12 @@
             <person xml:id="heros">
                <persName xml:lang="grc">Ἥρως</persName>
                <persName xml:lang="en">Heros</persName>
+               <persName xml:lang="bg"></persName>
+               <idno type="wp"></idno>
+            </person>
+            <person xml:id="Arzenus">
+               <persName xml:lang="grc">Αρ̣ζηνος</persName>
+               <persName xml:lang="en">Arzenus</persName>
                <persName xml:lang="bg"></persName>
                <idno type="wp"></idno>
             </person>

@@ -47,6 +47,12 @@
                     <placeName xml:lang="bg">Солун (Тесалоники)</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/491741</idno>
                 </place>
+                <place xml:id="Serdica">
+                    <placeName xml:lang="grc">Σερδων</placeName>
+                    <placeName xml:lang="en">Serdica</placeName>
+                    <placeName xml:lang="bg">Сердика</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/207439</idno>
+                </place>
                 <place xml:id="Eitrizene">
                     <placeName xml:lang="grc">Ειτριζηνη</placeName>
                     <placeName xml:lang="en">Eitrizene</placeName>

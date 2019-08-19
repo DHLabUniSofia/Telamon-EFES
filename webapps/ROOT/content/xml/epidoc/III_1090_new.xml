@@ -124,7 +124,7 @@
                 </ab></div>
             <div type="textpart" n="below">
                 <ab>
-                    <lb n="1"/><persName><name ref="Onom.xml#Beithus" nymRef="Βειθυς">Βειθυς</name> <name ref="Onom.xml#Auluzenes" nymRef="Αυλουζενης">Αυλουζενεος</name></persName> <w>κ<supplied reason="lost">αὶ</supplied></w> <name ref="Onom.xml#Facetes" nymRef="Φακέτης"><supplied reason="lost" precision="low">Φ</supplied>ακέτης</name> <name ref="Onom.xml#Ascanius" nymRef="Ἀσκάνιος">Ἀσκα
+                    <lb n="1"/><persName><name ref="Onom.xml#Beithus" nymRef="Βειθυς">Βειθυς</name> <name ref="Onom.xml#Auluzenis" nymRef="Αυλουζενις">Αυλουζενεος</name></persName> <w>κ<supplied reason="lost">αὶ</supplied></w> <name ref="Onom.xml#Facetes" nymRef="Φακέτης"><supplied reason="lost" precision="low">Φ</supplied>ακέτης</name> <name ref="Onom.xml#Ascanius" nymRef="Ἀσκάνιος">Ἀσκα
                         <lb n="2" break="no"/>νίου</name> <w>καὶ</w> <persName><name ref="Onom.xml#Scorilus" nymRef="Σκωριλός">Σκωριλ<unclear>ο</unclear><supplied reason="lost">ς</supplied></name> <supplied reason="lost"><w>ὁ</w></supplied> <w><supplied reason="lost">κα</supplied>ὶ</w> <name ref="Onom.xml#Sadalas" nymRef="Σαδαλας">Σαδαλας</name></persName> <w lemma="εὐχή">εὐ
                     <lb n="3" break="no"/>χήν</w>
                 </ab>

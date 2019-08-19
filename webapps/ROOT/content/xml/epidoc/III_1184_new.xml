@@ -115,7 +115,7 @@
                 <ab>
                     <lb n="1"/><persName><name ref="Onom.xml#Lucius" nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <g type="dot"/> 
                         <name nymRef="Κάσσιος" ref="Onom.xml#Cassius">Κάσσιος</name> 
-                        <name ref="Onom.xml#Iucundus" nymRef="Ἰουκοῦνδος"><supplied reason="lost">Ἰου</supplied>κοῦνδος</name></persName> <w lemma="κύριος">κυρίῳ</w> <persName type="divine" ref="Onom.xml#Asclepius">Ἀσκλ<supplied reason="lost">η</supplied> <!-- Не знам това в бележката какво да го правя. -->
+                        <name ref="Onom.xml#Iucundus" nymRef="Ἰουκοῦνδος"><supplied reason="lost">Ἰου</supplied>κοῦνδος</name></persName> <w lemma="κύριος">κυρίῳ</w> <persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκλ<supplied reason="lost">η</supplied> <!-- Не знам това в бележката какво да го правя. -->
                     <lb n="2" break="no"/>πιῶι <persName type="localdivine" ref="listDivine.xml#Zymzdrenus">Ζυλμυζδιηνῳ</persName></persName> <w lemma="εὔχομαι">εὐξάμενος</w> <w>κ<supplied reason="lost">αὶ</supplied></w>
                     <lb n="3"/><w lemma="εὐχαριστέω">εὐχαριστήσας</w> <w lemma="ἀνατίθημι">ἀνέθηκεν</w>.
                 </ab>

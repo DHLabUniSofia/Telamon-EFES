@@ -70,8 +70,8 @@
                                 <seg xml:lang="bg">Августа Траяна</seg>
                                 <seg xml:lang="en">Augusta Traiana</seg>
                             </origPlace>
-                            <origDate notBefore="0196" notAfter="0217" cert="high" evidence="titulature">
-                                <seg xml:lang="bg">96 - 217 г. сл. Хр.</seg>
+                            <origDate notBefore="0196" notAfter="0217" cert="high" evidence="reign">
+                                <seg xml:lang="bg">196 - 217 г. сл. Хр.</seg>
                                 <seg xml:lang="en">196 - 217 AD</seg>
                             </origDate>
                         </origin>

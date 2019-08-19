@@ -121,7 +121,7 @@
                     <lb n="1"/><w lemma="κύριος">Κυρίῳ</w> <persName type="divine" ref="listDivine.xml#Zeus">Διὶ</persName> <w>καὶ</w> <persName type="divine" ref="listDivine.xml#Hera">Ἥρᾳ</persName> <!-- как да напиша под и над релефа? -->
                     <lb n="2"/><persName>
                         <name nymRef="Βειθυς" ref="Onom.xml#Beithus">Βειθυς</name>
-                        <persName><name nymRef="Αυλουζενης" ref="Onom.xml#Auluzenes">Αυλουζενεος</name></persName></persName>
+                        <persName><name nymRef="Αυλουζενις" ref="Onom.xml#Auluzenis">Αυλουζενεος</name></persName></persName>
                         <w>κ<supplied reason="lost">αὶ</supplied></w> <persName><gap reason="lost" extent="1" unit="character"/>ακετης</persName> 
                     <persName><name nymRef="Ἀσκάνιος" ref="Onom.xml#Ascanius">Ἀσκα
             <lb n="3" break="no"/>νίου</name></persName> <w>καὶ</w>

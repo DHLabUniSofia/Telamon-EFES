@@ -155,8 +155,8 @@
                <persName xml:lang="en">Marcus Aurelius Eustochius Celer</persName>
                <persName xml:lang="grc">Εὐστοχίος Κέλερ Ἀσκληπιάδου</persName> 
                <persName xml:lang="bg">М. Авр. Евстохий Целер</persName>
-               <occupation xml:lang="en">thraciarchus</occupation>
-               <occupation xml:lang="bg">тракиарх</occupation>
+               <occupation xml:lang="en">thracarchus</occupation>
+               <occupation xml:lang="bg">тракарх</occupation>
                <occupation xml:lang="grc">θρᾳκάρχης?, πρῶτος ἄρχων</occupation>
                <floruit>249 - 250</floruit> 
             </person>
@@ -214,6 +214,18 @@
                <persName xml:lang="bg"></persName>
                <occupation>ἀγωνοθέτης πρώτων Κενδρεισιων</occupation>
             </person>
+            <person xml:id="AT131">
+               <persName xml:lang="en">Septimius Aurelius Bassus</persName>
+               <persName xml:lang="grc">Σεπτίμιος Αὐρήλιος Βάσσος</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>πρ. ἄρχων</occupation>
+            </person>
+            <person xml:id="AT132">
+               <persName xml:lang="en">Titus Flavius Apollodorus</persName>
+               <persName xml:lang="grc">Τίτος Φλάβιος Ἀπολλόδωρος</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>πρ. ἄρχων</occupation>
+            </person>
             <person xml:id="AT133">
                <persName xml:lang="grc">Ἀλφεῖος Ποσειδώνίου</persName>
                <persName xml:lang="en">Alpheius son of Poseidonius</persName>
@@ -243,6 +255,18 @@
                <persName xml:lang="en">Aulus Alcius Frontinus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>γραμματεύς</occupation>
+            </person>
+            <person xml:id="AT143">
+               <persName xml:lang="grc">Βειθυς</persName>
+               <persName xml:lang="en">Beithus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>θρᾳκάρχης</occupation>
+            </person>
+            <person xml:id="AT145">
+               <persName xml:lang="grc">Αὐρήλιος Ἰνγένοος Κέλερος</persName>
+               <persName xml:lang="en">Aurelius Ingenuus Celer</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>πρ. ἄρχων</occupation>
             </person>
             <person xml:id="AT210">
                <persName xml:lang="grc">Μᾶρκος Μέστριος Αἴνιος</persName>
