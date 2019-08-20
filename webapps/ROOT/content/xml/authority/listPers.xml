@@ -302,6 +302,18 @@
                <persName xml:lang="en">Diza Brikazeneus (Hermodorus)</persName>
                <persName xml:lang="bg"></persName>
             </person>
+            <person xml:id="AT600">
+               <persName xml:lang="grc">Μουκατραλις Μουκατραλεος</persName>
+               <persName xml:lang="en">Mukatralis, son of Mukatralis</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ἱερεύς</occupation>
+            </person>
+            <person xml:id="AT601">
+               <persName xml:lang="grc">Διοφάνης</persName>
+               <persName xml:lang="en">Diophanes</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>παλεστρατιώτης</occupation>
+            </person>
             <personGrp></personGrp>
          </listPerson>
       </body>

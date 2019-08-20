@@ -40,6 +40,11 @@
                     <placeName xml:lang="bg">Огняново</placeName>
                     <idno type="geonames">https://www.geonames.org/728660/ognyanovo.html</idno> 
                 </place>
+                <place xml:id="Mogilovo">
+                    <placeName xml:lang="en">Mogilovo</placeName>
+                    <placeName xml:lang="bg">Могилово</placeName>
+                    <idno type="geonames">https://www.geonames.org/729004</idno> 
+                </place>
                 <place xml:id="Novoselo">
                     <placeName xml:lang="en">Novo selo</placeName>
                     <placeName xml:lang="bg">Ново село</placeName>
@@ -110,6 +115,12 @@
                     <idno type="geonames">https://www.geonames.org/6459968</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place xml:id="MVereia">
+                    <placeName xml:lang="en">Malka Vereia</placeName>
+                    <placeName xml:lang="bg">Малка Верея</placeName>
+                    <idno type="geonames">https://www.geonames.org/729356</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="Trud">
                     <placeName xml:lang="en">Trud</placeName>
                     <placeName xml:lang="bg">Труд</placeName>
@@ -152,6 +163,12 @@
                     <idno type="geonames">https://www.geonames.org/730818</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place xml:id="Izvorovo">
+                    <placeName xml:lang="en">Izvorovo</placeName>
+                    <placeName xml:lang="bg">Изворово</placeName>
+                    <idno type="geonames">https://www.geonames.org/730805</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="Galabovo">
                     <placeName xml:lang="en">Galabovo</placeName>
                     <placeName xml:lang="bg">Гълъбово</placeName>
@@ -172,6 +189,11 @@
                     <placeName xml:lang="en">Saraja </placeName>
                     <placeName xml:lang="bg">Сарая</placeName>
                     <idno type="geonames">https://www.geonames.org/6461175</idno>
+                </place>
+                <place xml:id="Saedinenie">
+                    <placeName xml:lang="en">Saedinenie </placeName>
+                    <placeName xml:lang="bg">Съединение</placeName>
+                    <idno type="geonames">https://www.geonames.org/726656</idno>
                 </place>
                 <place xml:id="Zltr">
                     <placeName xml:lang="en">Zlatitrap</placeName>
@@ -200,6 +222,12 @@
                     <placeName xml:lang="en">Gostilica</placeName>
                     <placeName xml:lang="bg">Гостилица</placeName>
                     <idno type="geonames">http://www.geonames.org/732874/gostilica.html</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="Svoboda">
+                    <placeName xml:lang="en">Svoboda</placeName>
+                    <placeName xml:lang="bg">Свобода</placeName>
+                    <idno type="geonames">https://www.geonames.org/726532</idno>
                     <idno type="pleiades"></idno>
                 </place>
                 <place xml:id="Kovach">
@@ -259,6 +287,11 @@
                     <placeName xml:lang="bg">Паталеница</placeName>
                     <idno type="geonames">https://www.geonames.org/728397</idno>
                 </place>
+                <place xml:id="Pastrovo">
+                    <placeName xml:lang="en">Pastrovo</placeName>
+                    <placeName xml:lang="bg">Пъстрово</placeName>
+                    <idno type="geonames">https://www.geonames.org/727875</idno>
+                </place>
                 <place xml:id="GKrichim">
                     <placeName xml:lang="en">Stamboliyski</placeName>
                     <placeName xml:lang="bg">Стамболийски</placeName>
@@ -286,6 +319,11 @@
                     <placeName xml:lang="bg">Синитово</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/216732</idno>
                     <idno type="geonames">https://www.geonames.org/727195</idno>
+                </place>
+                <place xml:id="Kirilovo">
+                    <placeName xml:lang="en">Kirilovo</placeName>
+                    <placeName xml:lang="bg">Кирилово</placeName>
+                    <idno type="geonames">https://www.geonames.org/730357</idno>
                 </place>
                 <place xml:id="YoGru">
                     <placeName xml:lang="en">Yoakim Gruevo</placeName>
