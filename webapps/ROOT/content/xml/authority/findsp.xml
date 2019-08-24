@@ -61,6 +61,18 @@
                     <idno type="geonames">http://www.geonames.org/726848/stara-zagora.html</idno>
                     <idno type="pleiades">https://pleiades.stoa.org/places/216731</idno>
                 </place>
+                <place xml:id="StZB">
+                    <placeName xml:lang="en">Starozagorski Bani</placeName>
+                    <placeName xml:lang="bg">Старозагорски бани</placeName>
+                    <idno type="geonames">https://www.geonames.org/726819</idno>
+                    <idno type="pleiades"></idno>
+                </place>
+                <place xml:id="Stransko">
+                    <placeName xml:lang="en">Stransko</placeName>
+                    <placeName xml:lang="bg">Странско</placeName>
+                    <idno type="geonames">https://www.geonames.org/726743</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="Pl">
                     <placeName xml:lang="en">Plovdiv</placeName>
                     <placeName xml:lang="bg">Пловдив</placeName>
@@ -206,6 +218,12 @@
                     <idno type="geonames">http://www.geonames.org/733618/asenovgrad.html</idno>
                     <idno type="pleiades"></idno>
                 </place>
+                <place xml:id="Asenovec">
+                    <placeName xml:lang="en">Asenovec</placeName>
+                    <placeName xml:lang="bg">Асеновец</placeName>
+                    <idno type="geonames">https://www.geonames.org/733620</idno>
+                    <idno type="pleiades"></idno>
+                </place>
                 <place xml:id="Brezovo">
                     <placeName xml:lang="en">Brezovo</placeName>
                     <placeName xml:lang="bg">Брезово</placeName>
@@ -337,17 +355,47 @@
                     <idno type="pleiades"> </idno>
                     <idno type="geonames">https://www.geonames.org/733085</idno>
                 </place>
+                <place xml:id="Dalboki">
+                    <placeName xml:lang="en">Dalboki</placeName>
+                    <placeName xml:lang="bg">Дълбоки</placeName>
+                    <idno type="pleiades"> </idno>
+                    <idno type="geonames">https://www.geonames.org/731837</idno>
+                </place>
+                <place xml:id="Dobridol">
+                    <placeName xml:lang="en">Dobri dol</placeName>
+                    <placeName xml:lang="bg">Добри дол</placeName>
+                    <idno type="pleiades"> </idno>
+                    <idno type="geonames">https://www.geonames.org/732213</idno>
+                </place>
                 <place xml:id="Pamidovo">
                     <placeName xml:lang="en">Pamidovo</placeName>
                     <placeName xml:lang="bg">Памидово</placeName>
                     <idno type="pleiades"></idno>
                     <idno type="geonames">https://www.geonames.org/728451</idno>
                 </place>
+                <place xml:id="Pastren">
+                    <placeName xml:lang="en">Пъстрен</placeName>
+                    <placeName xml:lang="bg">Pastren</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">https://www.geonames.org/727881</idno>
+                </place>
                 <place xml:id="KDimitrievo">
                     <placeName xml:lang="en">Kapitan Dimitrievo</placeName>
                     <placeName xml:lang="bg">Капитан Димитриево</placeName>
                     <idno type="pleiades"></idno>
                     <idno type="geonames">www.geonames.org/6461192</idno>
+                </place>
+                <place xml:id="Karanovo">
+                    <placeName xml:lang="en">Karanovo</placeName>
+                    <placeName xml:lang="bg">Караново</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">https://www.geonames.org/730594</idno>
+                </place>
+                <place xml:id="Novoselets">
+                    <placeName xml:lang="en">Novoselets</placeName>
+                    <placeName xml:lang="bg">Новоселец</placeName>
+                    <idno type="pleiades"></idno>
+                    <idno type="geonames">https://www.geonames.org/728721</idno>
                 </place>
                 <place xml:id="Rupkite">
                     <placeName xml:lang="en">Rupkite</placeName>

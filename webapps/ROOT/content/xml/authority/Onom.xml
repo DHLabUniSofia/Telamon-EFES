@@ -103,6 +103,11 @@
         <persName xml:lang="en">Susion</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Sicinius">
+        <persName xml:lang="grc">Σικίννιος</persName>
+        <persName xml:lang="en">Sicinius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Marcus">
         <persName xml:lang="grc">Μᾶρκος</persName>
         <persName xml:lang="en"></persName>
@@ -111,6 +116,11 @@
     <person xml:id="Gordianus">
         <persName xml:lang="grc">Γορδιανός</persName>
         <persName xml:lang="en">Gordianus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Gorgias">
+        <persName xml:lang="grc">Γοργίας</persName>
+        <persName xml:lang="en">Gorgias</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Pomponius">
@@ -180,6 +190,11 @@
         <persName xml:lang="en">Salazon</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Synerus">
+        <persName xml:lang="grc">Συνέρως</persName>
+        <persName xml:lang="en">Synerus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Lazeris">
         <persName xml:lang="grc">Λαζερις</persName>
         <persName xml:lang="en">Lazeris</persName>
@@ -193,6 +208,11 @@
     <person xml:id="Herennius">
         <persName xml:lang="grc">Ἑρέννιος</persName>
         <persName xml:lang="en">Herennius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Hermione">
+        <persName xml:lang="grc">Ἑρμιόνη</persName>
+        <persName xml:lang="en">Hermione</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Eireneus">
@@ -478,6 +498,11 @@
         <persName xml:lang="en">Eptacenthus</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Capitolinus">
+        <persName xml:lang="grc">Καπετωλεῖνος</persName>
+        <persName xml:lang="en">Capitolinus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Lucius">
         <persName xml:lang="grc">Λουκίος</persName>
         <persName xml:lang="en">Lucius</persName>
@@ -624,6 +649,11 @@
         <persName xml:lang="en">Salvis</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Sallustius">
+        <persName xml:lang="grc">Σαλλούστιος</persName>
+        <persName xml:lang="en">Sallustius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Apphe"> 
         <persName xml:lang="grc">Αφφη</persName>
         <persName xml:lang="en">Apphe</persName>
@@ -672,6 +702,11 @@
     <person xml:id="Theodorus">
         <persName xml:lang="grc">Θεόδωρος</persName>
         <persName xml:lang="en">Theodorus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Theagenes">
+        <persName xml:lang="grc">Θεαγένης</persName>
+        <persName xml:lang="en">Theagenes</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Dioscurides">
@@ -752,6 +787,11 @@
     <person xml:id="Mukases">
         <persName xml:lang="grc">Μουκασης</persName>
         <persName xml:lang="en">Mukases</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Mukabur">
+        <persName xml:lang="grc">Μουκαβουρ</persName>
+        <persName xml:lang="en">Mukabur</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Menemachus">
@@ -1268,6 +1308,11 @@
     <person xml:id="Celsina">
         <persName xml:lang="grc">Κελσεῖνα</persName>
         <persName xml:lang="en">Celsina</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Celsus">
+        <persName xml:lang="grc">Κέλσος</persName>
+        <persName xml:lang="en">Celsus</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Claudias">

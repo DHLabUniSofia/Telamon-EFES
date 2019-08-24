@@ -302,6 +302,18 @@
                <persName xml:lang="en">Diza Brikazeneus (Hermodorus)</persName>
                <persName xml:lang="bg"></persName>
             </person>
+            <person xml:id="AT317">
+               <persName xml:lang="grc">Πόπλιος Ἁδριάνιος Σαλλούστιος</persName>
+               <persName xml:lang="en">Publius Adrianius Sallustius</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ἀρχιερεύς ὅπλω̣ν</occupation>
+            </person>          
+            <person xml:id="AT320">
+               <persName xml:lang="grc">Πύρρος</persName>
+               <persName xml:lang="en">Pyrrus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>πρ. ἄρχων</occupation>
+            </person>
             <person xml:id="AT600">
                <persName xml:lang="grc">Μουκατραλις Μουκατραλεος</persName>
                <persName xml:lang="en">Mukatralis, son of Mukatralis</persName>

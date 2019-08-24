@@ -159,6 +159,12 @@
                <floruit>222 - 235</floruit>
                <idno type="wp">https://en.wikipedia.org/wiki/Severus_Alexander</idno>
             </person>
+            <person xml:id="Elagabalus">
+               <persName xml:lang="en">Marcus Aurelius Antoninus</persName>
+               <persName xml:lang="grc">Μάρκος Αὐρήλιος Ἀντονείνος</persName>
+               <persName xml:lang="bg">Марк Аврелий Антонин - Елагабал</persName>
+               <idno type="wp">https://en.wikipedia.org/wiki/Elagabalus</idno>
+               <floruit>218 - 222</floruit></person>
             <person xml:id="Caecilius">
                <persName xml:lang="grc">Καικίλιος Ματέρνος</persName>
                <persName xml:lang="en">Caecilius Maternus</persName>
@@ -326,6 +332,26 @@
                <occupation xml:lang="bg">управител на провинция</occupation>
                <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
             </person>
+            <person xml:id="Sicinius"> 
+               <persName xml:lang="en">Quintus Sicinius Clarus</persName>
+               <persName xml:lang="grc">Κοΐντος Σικίννιος</persName>
+               <persName xml:lang="bg">Квинт Сициний Клар</persName>
+               <idno type="wp">https://en.wikipedia.org/wiki/Sicinia_(gens)</idno>
+               <floruit>202 - 205</floruit>
+               <occupation xml:lang="en">provincial governor</occupation>
+               <occupation xml:lang="bg">управител на провинция</occupation>
+               <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
+            </person>
+            <person xml:id="Marcianus"> 
+               <persName xml:lang="en">Marcianus</persName>
+               <persName xml:lang="grc">Μαρκιανός</persName>
+               <persName xml:lang="bg">Марциан</persName>
+               <idno type="wp"></idno>
+               <floruit>267 - 268</floruit>
+               <occupation xml:lang="en">tribunus, praetorianus, ....</occupation>
+               <occupation xml:lang="bg">трибун, преторианец, пълководец</occupation>
+               <occupation xml:lang="grc">τριβούνος, πραιτωριανός, δούξ, στρατηλάτης</occupation>
+            </person> 
             <person xml:id="EgProculus"> 
                <persName xml:lang="en">Quintus Egnatius Proculus</persName>
                <persName xml:lang="grc">Κοΐντος Ἐγνατίος Πρόκουλος</persName>
