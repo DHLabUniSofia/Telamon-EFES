@@ -54,6 +54,9 @@
         <map:transform src="../stylesheets/epidoc/prune-to-language.xsl">
           <map:parameter name="language" value="{1}" />
         </map:transform>
+        <map:transform type="i18n">
+          <map:parameter name="locale" value="{1}" />
+        </map:transform>
         <map:serialize type="xml" />
       </map:match>
 

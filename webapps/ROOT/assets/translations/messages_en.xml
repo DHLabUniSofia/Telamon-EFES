@@ -30,6 +30,8 @@
   <message key="menu-index-word">Words</message>
   <message key="menu-search">Search</message>
   <message key="menu-admin">Admin</message>
+
+  <message key="titulature">Titulature</message>
   
   <!-- Footer -->
   <message key="footer-telamon">Telamon Project, 2018, University of Sofiа </message>
