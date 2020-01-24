@@ -17,21 +17,48 @@
 <p>Therefore, we hope that the creating of an electronic database of these inscriptions will facilitate the study of the history, 
     culture, and language both of the Bulgarian lands in antiquity and of the Greco-Roman civilization as a whole.</p>
   </message>
+
+    <message key="home-conten">
+<div class="large-12 columns spase"><h1>Нашите партнъори</h1>
+    <div class="large-3 columns "><p>Софииски университет</p><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p>  </div>
+     <div class="large-3 columns "><p>Софииски университет</p><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p>  </div>
+    <div class="large-3 columns "><p>Софииски университет</p><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p>  </div>
+     <div class="large-3 columns "><p>Софииски университет</p><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p>  </div>
+</div>
+    <div class="large-12 columns gr spase"><h1>Екип</h1>
+    <div class="large-2 columns "><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p> <p>Пешо петров</p> </div>
+    <div class="large-2 columns "><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p> <p>Пешо петров</p> </div>
+    <div class="large-2 columns "><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p> <p>Пешо петров</p> </div>
+    <div class="large-2 columns "><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p> <p>Пешо петров</p> </div>
+    <div class="large-2 columns "><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p> <p>Пешо петров</p> </div>
+     <div class="large-2 columns "><p> <a href="#"> <img src="/assets/images/logo_pr.jpg" alt="Logo"/></a></p> <p>Пешо петров</p> </div>
+   </div>
+
+   <div class="large-12 columns spase"><h1>Контакти</h1>   
+     
+           
+    
+  </div>
+
+  </message>
   
   <!-- Menu labels -->
   <message key="menu-inscriptions">Inscriptions</message>
   <message key="menu-indices">Indices</message>
   <message key="menu-index-abbreviation">Abbreviations</message>
+  <message key="menu-index-attested">Attested persons</message>
+  <message key="menu-index-divine">Divinities</message>
+  <message key="menu-index-emperors">Emperors</message>
   <message key="menu-index-fragment">Fragments</message>
-  <message key="menu-index-lemma">Lemmata</message>s
+  <message key="menu-index-lemma">Lemmata</message>
+  <message key="menu-index-localdivine">Local divinities</message>
   <message key="menu-index-numeral">Numerals</message>
+  <message key="menu-index-officials">Officials</message>
   <message key="menu-index-person_name">Personal names</message>
   <message key="menu-index-symbol">Symbols</message>
   <message key="menu-index-word">Words</message>
   <message key="menu-search">Search</message>
   <message key="menu-admin">Admin</message>
-
-  <message key="titulature">Titulature</message>
   
   <!-- Footer -->
   <message key="footer-telamon">Telamon Project, 2018, University of Sofiа </message>
@@ -45,36 +72,28 @@
   <message key="facet-inscription_category">Category of inscription</message>
  
   <!-- Inscriptions XSLT-->
-  <message key="epidoc-xslt-iospe-monument">Monument</message>
-  <message key="epidoc-xslt-iospe-monument-type">Type of monument</message>
-  <message key="epidoc-xslt-iospe-not-specified">Unknown</message>
-  <message key="epidoc-xslt-iospe-not-specified-m">Unknown</message>
-  <message key="epidoc-xslt-iospe-not-specified-letters">Not specified</message>
-  <message key="epidoc-xslt-iospe-material">Material</message>
-  <message key="epidoc-xslt-iospe-findspot">Findspot</message>
-  <message key="epidoc-xslt-iospe-modern-location">Modern location</message>
-  <message key="epidoc-xslt-iospe-dimensions">Dimensions</message>
-  <message key="epidoc-xslt-iospe-institution-inventory">Institution and inventory</message>
-  <message key="epidoc-xslt-iospe-letterheight">Letterheight</message>
-  <message key="epidoc-xslt-iospe-decoration">Decoration</message>
-  <message key="epidoc-xslt-iospe-text">Text</message>
-  <message key="epidoc-xslt-iospe-category">Category</message>
-  <message key="epidoc-xslt-iospe-date">Date</message>
-  <message key="epidoc-xslt-iospe-dating-criteria">Dating criteria</message>
+  <message key="epidoc-xslt-telamon-monument">Monument</message>
+  <message key="epidoc-xslt-telamon-monument-type">Type of monument</message>
+  <message key="epidoc-xslt-telamon-not-specified">Unknown</message>
+  <message key="epidoc-xslt-telamon-material">Material</message>
+  <message key="epidoc-xslt-telamon-find-place">Find place</message>
+  <message key="epidoc-xslt-telamon-modern-location">Modern location</message>
+  <message key="epidoc-xslt-telamon-dimensions">Dimensions</message>
+  <message key="epidoc-xslt-telamon-institution-inventory">Institution and inventory</message>
+  <message key="epidoc-xslt-telamon-letterheight">Letterheight</message>
+  <message key="epidoc-xslt-telamon-text">Text</message>
+  <message key="epidoc-xslt-telamon-category">Category</message>
+  <message key="epidoc-xslt-telamon-date">Date</message>
+  <message key="epidoc-xslt-telamon-dating-criteria">Dating criteria</message>
   <message key="epidoc-xslt-iospe-apparatus">Apparatus</message>
   <message key="epidoc-xslt-iospe-translation">Translation</message>
   <message key="epidoc-xslt-iospe-commentary">Commentary</message>
-  <message key="epidoc-xslt-iospe-bibliography">Bibliography</message>
   <message key="epidoc-xslt-iospe-images">Images</message>
   <message key="epidoc-xslt-inslib-diplomatic">Diplomatic</message>
   <message key="epidoc-xslt-inslib-edition">Interpretive</message>
-  <message key="epidoc-xslt-inslib-verse">Verse</message>
-  <message key="epidoc-xslt-iospe-unavailable">Not available</message>
-  <message key="epidoc-xslt-iospe-unavailable-pl">Not available</message>
-  <message key="h">h. </message>
-  <message key="w"> w. </message>
-  <message key="th"> th. </message>
-  <message key="cm"> cm</message>
+  <message key="h">h.</message>
+  <message key="w">w.</message>
+  <message key="th">th.</message>
   <message key=""></message>
   <message key=""></message>
   <message key=""></message>

@@ -22,8 +22,8 @@
     <kiln:block name="content">
       <div class="row">
         <div class="large-12 columns">
-          <!-- Display the index's notes. -->
-          <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='notes']" />
+          <!-- Display the index's notes. 
+          <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='notes']" />-->
           <!-- Display the index. -->
           <xsl:apply-templates select="/aggregation/response/result" />
         </div>

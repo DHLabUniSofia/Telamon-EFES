@@ -9,9 +9,11 @@ ul.index-instances { }
 .index-instance-line { }
 
 footer {
-    background: none repeat scroll 0 0 #fafafa;
-    border-top: 1px solid #eeeeee;
-    color: #777777;
+	margin-top: 40px;
+    background: none repeat scroll 0 0 #f6f5ec;
+    border-top: 1px solid #503721;
+     border-bottom:  1px solid #503721;
+    color: #333;
     font-size: 80%;
     padding: 1em;
 }

@@ -11,8 +11,8 @@
     <item label="Personal names" match="local-index-display-html" params="epidoc person_name" i18n:key="menu-index-person_name"/>
     <item label="Symbols" match="local-index-display-html" params="epidoc symbol" i18n:key="menu-index-symbol"/>
     <item label="Emperors" match="local-index-display-html" params="epidoc emperors" i18n:key="menu-index-emperors"/>
-    <item label="Divine" match="local-index-display-html" params="epidoc divine" i18n:key="menu-index-emperors"/>
-    <item label="Officials" match="local-index-display-html" params="epidoc officials" i18n:key="menu-index-emperors"/>
+    <item label="Divine" match="local-index-display-html" params="epidoc divine" i18n:key="menu-index-divine"/>
+    <item label="Officials" match="local-index-display-html" params="epidoc officials" i18n:key="menu-index-officials"/>
     <item label="Attested persons" match="local-index-display-html" params="epidoc attested" i18n:key="menu-index-attested"/>
     <item label="Local divinities" match="local-index-display-html" params="epidoc localdivine" i18n:key="menu-index-localdivine"/>
   </menu>
@@ -21,5 +21,5 @@
           i18n:key="menu-concordance-bibliography" />
   </menu>-->
   <menu label="Search" match="local-search" i18n:key="menu-search" />
-  <menu label="Admin" language="" match="local-admin-home-page" i18n:key="menu-admin" />
+  <!-- <menu label="Admin" language="" match="local-admin-home-page" i18n:key="menu-admin" /> -->
 </root>

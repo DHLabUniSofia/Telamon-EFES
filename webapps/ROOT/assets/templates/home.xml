@@ -9,7 +9,7 @@
   </kiln:parent>
   
   <kiln:child>
-    <kiln:block name="title">
+    <!--<kiln:block name="title">
       <i18n:text>home-title</i18n:text>
     </kiln:block>
     
@@ -23,36 +23,37 @@
           </h1>
         </div>
       </div>
-    </kiln:block>
-    
-    <kiln:block name="content-section">
+    </kiln:block>-->
+  
+    <kiln:block name="content-section" >
       <main>
+	   <div class="home">
         <div class="row">
-          <div class="large-12 columns text-center">
-            <div class="panel radius">
+          <div class="large-12 columns">
+            <div class="slogan">
               <p><strong><i18n:text i18n:key="home-welcome"/></strong></p>
             </div>
           </div>
         </div>
-      </main>
-    </kiln:block>
-    
-    <kiln:block name="content-section">
-      <main>
+
         <div class="row">
-          <div class="large-12 columns text-center">
-            <div class="panel radius">
-              <p><strong><i18n:text i18n:key="home-welcome"/></strong></p>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="large-12 columns text-justified">
-            <div class="panel radius">
+          <div class="large-12 columns ">
+            <div class="intro">
               <p><i18n:text i18n:key="home-text"></i18n:text>.</p>
             </div>
           </div>
         </div>
+    </div>
+
+        <div class="row">
+         <div class="large-12 columns ">   
+           <div class="home-conten">          
+               <p><i18n:text i18n:key="home-conten"></i18n:text>.</p>                  
+          </div>
+        </div>
+      </div>
+
+		
       </main>
     </kiln:block>
   </kiln:child>
