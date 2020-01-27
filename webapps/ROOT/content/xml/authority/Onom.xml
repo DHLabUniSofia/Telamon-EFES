@@ -202,7 +202,12 @@
     </person>
     <person xml:id="Longinus">
         <persName xml:lang="grc">Λονγεῖνος</persName>
-        <persName xml:lang="en"></persName>
+        <persName xml:lang="en">Longinus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Longina">
+        <persName xml:lang="grc">Λογγεῖνα</persName>
+        <persName xml:lang="en">Longina</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Herennius">
@@ -243,6 +248,11 @@
     <person xml:id="Beithynicus">
         <persName xml:lang="grc">Βειθυνικός</persName>
         <persName xml:lang="en">Beithynicus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Beithytralis">
+        <persName xml:lang="grc">Βειθυτραλις</persName>
+        <persName xml:lang="en">Beithytralis</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Auluzenis">
@@ -453,6 +463,11 @@
         <persName xml:lang="en">Tatazia</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Tatia">
+        <persName xml:lang="grc">Τατία</persName>
+        <persName xml:lang="en">Tatia</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Zykoudaises">
         <persName xml:lang="grc">Ζυκουδαισης</persName>
         <persName xml:lang="en">Zykoudaises</persName>
@@ -553,6 +568,21 @@
         <persName xml:lang="en">Quintus</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Quintillianus">
+        <persName xml:lang="grc">Κυντιλλι̣ανός</persName>
+        <persName xml:lang="en">Quintillianus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Quiete">
+        <persName xml:lang="grc">Κουητη</persName>
+        <persName xml:lang="en">Quiete</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Cavarius">
+        <persName xml:lang="grc">Καουάριος</persName>
+        <persName xml:lang="en">Cavarius</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Egnatius">
         <persName xml:lang="grc">Ἐγνατίος</persName>
         <persName xml:lang="en">Egnatius</persName>
@@ -602,6 +632,11 @@
     <person xml:id="Timaeus">
         <persName xml:lang="grc"> Τίμαιος</persName>
         <persName xml:lang="en">Timaeus</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Tases">
+        <persName xml:lang="grc"> Τασης</persName>
+        <persName xml:lang="en">Tases</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Eutyches">
@@ -909,6 +944,11 @@
         <persName xml:lang="en">Polemarchus</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Polemon">
+        <persName xml:lang="grc">Πολέμων</persName>
+        <persName xml:lang="en">Polemon</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Mestrius">
         <persName xml:lang="grc">Μέστριος</persName>
         <persName xml:lang="en">Mestrius</persName>
@@ -1175,6 +1215,11 @@
         <persName xml:lang="en">Domna</persName>
         <persName xml:lang="bg"></persName>
     </person>
+    <person xml:id="Dydes">
+        <persName xml:lang="grc">Δυδης</persName>
+        <persName xml:lang="en">Dydes</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
     <person xml:id="Mamaea">
         <persName xml:lang="grc">Μαμαῖα</persName>
         <persName xml:lang="en">Mamaea</persName>
@@ -1378,6 +1423,11 @@
     <person xml:id="Asclepiodotes">
         <persName xml:lang="grc">Ἀσκληπιοδότης</persName>
         <persName xml:lang="en">Asclepiodotes</persName>
+        <persName xml:lang="bg"></persName>
+    </person>
+    <person xml:id="Asclepiodotos">
+        <persName xml:lang="grc">Ἀσκληπιόδοτος</persName>
+        <persName xml:lang="en">Asclepiodotos</persName>
         <persName xml:lang="bg"></persName>
     </person>
     <person xml:id="Asclepiades">

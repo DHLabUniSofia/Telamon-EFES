@@ -215,6 +215,16 @@
                <occupation xml:lang="bg">управител на провинция</occupation>
                <idno type="wp">https://en.wikipedia.org/wiki/Rutilius_Pudens_Crispinus</idno>
             </person>
+            <person xml:id="LuciusCassius">
+               <persName xml:lang="en">Lucius Cassius Severus</persName>
+               <persName xml:lang="grc">Λουκίος Κάσσιος Σεουήρος</persName>
+               <persName xml:lang="bg">Луций Касий Север</persName>
+               <floruit>202</floruit>
+               <occupation xml:lang="grc">ἔπαρχος σπείρης Θρᾳκῶν</occupation>
+               <occupation xml:lang="en">provincial governor</occupation>
+               <occupation xml:lang="bg">управител на провинция</occupation>
+               <idno type="wp"></idno>
+            </person>
             <person xml:id="Orfitianus">
                <persName xml:lang="en">Gaius Julius Commodus Orfitianus</persName>
                <persName xml:lang="grc">Γάιος Ἰ̣ο̣ύλιος Οὐῆρος Κόμμοδος</persName>

@@ -54,6 +54,16 @@
                <persName xml:lang="en">Demetra</persName>
                <persName xml:lang="bg">Деметра</persName>
             </person>
+            <person xml:id="Persephone">
+               <persName xml:lang="grc">Περσεφόνη</persName>
+               <persName xml:lang="en">Persephone</persName>
+               <persName xml:lang="bg">Персефона</persName>
+            </person>
+            <person xml:id="Kore" sameAs="Persephone">
+               <persName xml:lang="grc">Κόρη</persName>
+               <persName xml:lang="en">Kore</persName>
+               <persName xml:lang="bg">Кора</persName>
+            </person>
             <person xml:id="Zeus">
                <persName xml:lang="grc">Ζεύς</persName>
                <persName xml:lang="en">Zeus</persName>

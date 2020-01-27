@@ -63,6 +63,18 @@
                     <placeName xml:lang="en">Cillae</placeName>
                     <placeName xml:lang="bg"></placeName>
                 </place>
+                <place xml:id="Quirina">
+                    <placeName xml:lang="grc">Κυρείνα</placeName>
+                    <placeName xml:lang="en">Quirina</placeName>
+                    <placeName xml:lang="bg"></placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/954023893</idno>
+                </place>
+                <place xml:id="Roma">
+                    <placeName xml:lang="grc"></placeName>
+                    <placeName xml:lang="en">Rome</placeName>
+                    <placeName xml:lang="bg"></placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/423025</idno>
+                </place>
                 <place xml:id="Cyzicus">
                     <placeName xml:lang="grc">Κύζικος</placeName>
                     <placeName xml:lang="en">Cyzicus</placeName>
@@ -92,11 +104,29 @@
                         <placeName xml:lang="bg"></placeName>
                         <idno type="pleiades">https://pleiades.stoa.org/places/991370</idno><!-- NOT AN ACTUAL MAP OF RHODOPE PROVINCE -->
                     </place>
+                    <place xml:id="Thrace">
+                        <placeName xml:lang="grc">Θρᾴκη</placeName>
+                        <placeName xml:lang="en">Thrace</placeName>
+                        <placeName xml:lang="bg"></placeName>
+                        <idno type="pleiades">https://pleiades.stoa.org/places/981552</idno>
+                    </place>
+                    <place xml:id="Macedonia">
+                        <placeName xml:lang="grc">Μακεδονία</placeName>
+                        <placeName xml:lang="en">Macedonia</placeName>
+                        <placeName xml:lang="bg"></placeName>
+                        <idno type="pleiades">https://pleiades.stoa.org/places/981552</idno>
+                    </place>
                     <place xml:id="Sardis">
                         <placeName xml:lang="grc">Σάρδεις</placeName>
                         <placeName xml:lang="en">Sardis</placeName>
                         <placeName xml:lang="bg"></placeName>
                         <idno type="pleiades">https://pleiades.stoa.org/places/550867</idno>
+                    </place>
+                    <place xml:id="Ravenna">
+                        <placeName xml:lang="grc">Ῥαουήννη</placeName>
+                        <placeName xml:lang="en">Ravenna</placeName>
+                        <placeName xml:lang="bg"></placeName>
+                        <idno type="pleiades">https://pleiades.stoa.org/places/393480</idno>
                     </place>
                     <place xml:id="Bendipara">
                         <placeName xml:lang="grc">Βενδιπαρα</placeName>

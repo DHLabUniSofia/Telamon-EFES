@@ -88,6 +88,18 @@
                <persName xml:lang="en">Aurelius Theodorus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>πρ. ἄρχων</occupation></person>
+            <person xml:id="AT015">
+               <persName xml:lang="grc">Βειθυς Κοτυος</persName>
+               <persName xml:lang="en">Beithus Kotys</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ἱερεὺς Συρίας θεᾶς</occupation>
+            </person>
+            <person xml:id="AT016">
+               <persName xml:lang="grc">Αὐρήλιος Ἀπολλωνίδης Ἀπολλοδώρου</persName>
+               <persName xml:lang="en">Aurelius Apollonides Appolodorus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>πρ. ἄρχων</occupation>
+            </person>
             <person xml:id="AT017">
                <persName xml:lang="grc">Γέμελλος Γεμέλλου</persName>
                <persName xml:lang="en">Gemellus, son of Gemellus</persName>
@@ -98,23 +110,6 @@
                <persName xml:lang="en">Aurelius Dionysodorus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>ὠρδινᾶτος λῃστολογήσας</occupation></person>
-            <person xml:id="AT214">
-               <persName xml:lang="grc">Δομετιανός Κοτυς</persName>
-               <persName xml:lang="en">Domitianus Kotys</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation></person>
-            <person xml:id="AT016">
-               <persName xml:lang="grc">Αὐρήλιος Ἀπολλωνίδης Ἀπολλοδώρου</persName>
-               <persName xml:lang="en">Aurelius Apollonides Appolodorus</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation>
-            </person>
-            <person xml:id="AT015">
-               <persName xml:lang="grc">Βειθυς Κοτυος</persName>
-               <persName xml:lang="en">Beithus Kotys</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation>ἱερεὺς Συρίας θεᾶς</occupation>
-            </person>
             <person xml:id="AT019">
                <persName xml:lang="grc">Βειθυνικός</persName>
                <persName xml:lang="en">Beithynicus</persName>
@@ -132,6 +127,13 @@
                <persName xml:lang="grc">Κλαυδίας Ἀντίας Ἀσκληπιοδότης</persName>
                <persName xml:lang="en">Claudias Antius Asclepiodotes</persName>
                <persName xml:lang="bg"></persName>
+            </person>
+            <person xml:id="AT022">
+               <persName xml:lang="grc">Ζῆθος</persName>
+               <persName xml:lang="en">Zethus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation xml:lang="grc">πραγματευτής</occupation>
+               <occupation xml:lang="en">secretarian</occupation>
             </person>
             <person xml:id="AT023">
                <persName xml:lang="grc">Ἀπολλώνιος</persName>
@@ -151,6 +153,12 @@
                <persName xml:lang="bg"></persName>
                <occupation>ἀγοραῖος</occupation>
             </person>
+            <person xml:id="AT026">
+               <persName xml:lang="grc">Ἡρώδης Πάκκις Σουρατραλις</persName>
+               <persName xml:lang="en">Herodes Pakis Suratralis</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ἱερεὺς</occupation>
+            </person>
             <person xml:id="AT027">
                <persName xml:lang="en">Marcus Aurelius Eustochius Celer</persName>
                <persName xml:lang="grc">Εὐστοχίος Κέλερ Ἀσκληπιάδου</persName> 
@@ -159,13 +167,7 @@
                <occupation xml:lang="bg">тракарх</occupation>
                <occupation xml:lang="grc">θρᾳκάρχης?, πρῶτος ἄρχων</occupation>
                <floruit>249 - 250</floruit> 
-            </person>
-            <person xml:id="AT026">
-               <persName xml:lang="grc">Ἡρώδης Πάκκις Σουρατραλις</persName>
-               <persName xml:lang="en">Herodes Pakis Suratralis</persName>
-               <persName xml:lang="bg"></persName>
-               <occupation>ἱερεὺς</occupation>
-            </person>
+            </person>    
             <person xml:id="AT028">
                <persName xml:lang="grc">Αἰμιλίος Βειθυς</persName>
                <persName xml:lang="en">Aemilius Beithus</persName>
@@ -184,6 +186,13 @@
                <persName xml:lang="bg"></persName>
                <occupation>ἱερώσυνος</occupation>
             </person>
+            <person xml:id="AT031">
+               <persName xml:lang="grc">Εὐστοχίος Κέλερ</persName>
+               <persName xml:lang="en">Eustochius Celer</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>θρᾳκάρχης</occupation>
+            </person>
+            
             <person xml:id="AT119">
                <persName xml:lang="grc">Πόπλιος Αἴλιος Διοσκουρίδης</persName>
                <persName xml:lang="en">Publius Aelius Dioscurides</persName>
@@ -292,6 +301,11 @@
                <persName xml:lang="bg"></persName>
                <occupation>ἔκδικος γερ.</occupation>
             </person>
+            <person xml:id="AT214">
+               <persName xml:lang="grc">Δομετιανός Κοτυς</persName>
+               <persName xml:lang="en">Domitianus Kotys</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>πρ. ἄρχων</occupation></person>
             <person xml:id="AT308">
                <persName xml:lang="grc">Ἡρακλείδης Γρανίου</persName>
                <persName xml:lang="en">Heraclides Granius</persName>
@@ -313,6 +327,30 @@
                <persName xml:lang="en">Pyrrus</persName>
                <persName xml:lang="bg"></persName>
                <occupation>πρ. ἄρχων</occupation>
+            </person>
+            <person xml:id="AT322">
+               <persName xml:lang="grc">Αἴλιος Πολέμων</persName>
+               <persName xml:lang="en">Aelius Polemon</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>βενεφικιάριος</occupation>
+            </person>
+            <person xml:id="AT323">
+               <persName xml:lang="grc">Αὐρήλιος Ἀσκληπιόδοτος</persName>
+               <persName xml:lang="en">Aurelius Asclepiodotus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>βουλευτής, γερουσιαστής</occupation>
+            </person>
+            <person xml:id="AT324">
+               <persName xml:lang="grc">Γαιανός Γαίου</persName>
+               <persName xml:lang="en">Gaianus Gaius</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ταμιεύοντος</occupation>
+            </person>
+            <person xml:id="AT325">
+               <persName xml:lang="grc">Φλάουϊος Σκελητος</persName>
+               <persName xml:lang="en">Flavius Sceletus</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation>ταμιεύοντος</occupation>
             </person>
             <person xml:id="AT600">
                <persName xml:lang="grc">Μουκατραλις Μουκατραλεος</persName>
