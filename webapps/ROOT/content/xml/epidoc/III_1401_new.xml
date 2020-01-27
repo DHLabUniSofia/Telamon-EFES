@@ -126,7 +126,7 @@
                     <lb n="5"/><placeName type="ethnic">Θρᾳκῶν</placeName> <w lemma="ἐπαρχεία">ἐπαρχείας</w> <persName type="official" ref="listemperors.xml#Orfitianus"><name nymRef="Γαίος" ref="Gaius"><expan><abbr>Γ</abbr><ex>αίου</ex></expan></name> <name nymRef="Ἰούλιος" ref="Iulius">Ἰουλίου</name>
                     <lb n="6"/><name nymRef="Κόμμοδος" ref="Onom.xml#Commodus">Κο<supplied reason="omitted">μ</supplied>μόδου</name></persName> <w lemma="πρεσβευτής"><expan><abbr>πρεσβ</abbr><ex>ευτοῦ</ex></expan></w> <w lemma="σεβαστός"><expan><abbr>Σεβ</abbr><ex>αστοῦ</ex></expan></w> <w lemma="ἀντιστράτηγος">ἀντιστρα
                     <lb n="7" break="no"/>τήγου</w> <w lemma="ὅρος">ὅροι</w> <w lemma="χορτοκοπιάω">χορτοκοπίων</w> <w lemma="φυλή">φυλῆς</w>
-                    <lb n="8"/><placeName ref="listPlaces.xml#Rhodope">Ῥοδοπηΐδος</placeName> <w lemma="τίθημι">τεθέντες</w> <w>ὑπὸ</w> <persName type="attested" ref="listPers.xml#Sceles"><name nymRef="Φλάουϊος" ref="Onom.xml#Flavius"><expan><abbr>Φλ</abbr><ex>αυίου</ex></expan></name>
+                    <lb n="8"/><placeName ref="listPlaces.xml#Rhodope">Ῥοδοπηΐδος</placeName> <w lemma="τίθημι">τεθέντες</w> <w>ὑπὸ</w> <persName type="attested" ref="listPers.xml#AT325"><name nymRef="Φλάουϊος" ref="Onom.xml#Flavius"><expan><abbr>Φλ</abbr><ex>αυίου</ex></expan></name>
                     <lb n="9"/><name nymRef="Σκελης" ref="Onom.xml#Sceles">Σκελητος</name></persName> <w lemma="κριτής">κριτοῦ</w> <w>καὶ</w> <w lemma="ὁροθέτης">ὁροθέτου</w>
                     <!-- χορτοκοπίων - имам съмнения -->
                 </ab>

@@ -113,7 +113,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <div type="textpart"><ab>
-                    <lb n="1"/><persName type="attested" ref="listPers.xmlAT025"><name ref="Onom.xml#Alexander" nymRef="Ἀλέξανδρος">Ἀλέξανδρος</name> <name nymRef="Φίλιππος">Φι
+                    <lb n="1"/><persName type="attested" ref="listPers.xml#AT025"><name ref="Onom.xml#Alexander" nymRef="Ἀλέξανδρος">Ἀλέξανδρος</name> <name nymRef="Φίλιππος">Φι
                     <lb n="2" break="no"/>λίππου</name></persName> <w lemma="ἀγοραῖος">ἀγοραῖος</w><!-- тук сложи гръцкия текст -->
                 </ab></div>
                 <div type="textpart">

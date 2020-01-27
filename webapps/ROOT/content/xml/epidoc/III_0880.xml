@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -66,7 +66,7 @@
                                 <seg xml:lang="bg"></seg>
                                 <seg xml:lang="en"></seg>
                             </origPlace>
-                            <origDate notBefore="0102" notAfter="0116" evidence="titulature" i18n:attr="evidence"><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
+                            <origDate notBefore="0102" notAfter="0116" evidence="titulature"><!-- приема @notBefore заедно с @notAfter, ако имаме датировка по години на управление на император или посочен век (виж бележки как се бележат вековете), както и @when във формат година-месец-дата -->
                                 <seg xml:lang="bg">102 - 116 г. сл. Хр.</seg>
                                 <seg xml:lang="en">102 - 116 A.D.</seg>
                             </origDate>
