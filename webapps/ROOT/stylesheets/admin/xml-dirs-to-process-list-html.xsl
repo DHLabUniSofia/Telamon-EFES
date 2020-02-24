@@ -13,7 +13,7 @@
 
     <h3><xsl:value-of select="$header" /></h3>
 
-    <table>
+    <table id="example" class="display" style="width:100%">
       <thead>
         <tr>
           <th scope="col">File</th>
@@ -64,7 +64,7 @@
     directory according to all of the indices defined in that
     file.</p>
 
-    <table>
+    <table id="example" class="display" style="width:100%">
       <thead>
         <tr>
           <th scope="col">File</th>

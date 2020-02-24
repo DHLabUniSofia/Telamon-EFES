@@ -11,7 +11,7 @@
 	<xsl:include href="url-encode.xsl" />
 
 	<xsl:template match="sparql:sparql">
-		<table class="data">
+		<table id="example" class="display" style="width:100%">
 			<xsl:apply-templates select="*" />
 		</table>
 	</xsl:template>

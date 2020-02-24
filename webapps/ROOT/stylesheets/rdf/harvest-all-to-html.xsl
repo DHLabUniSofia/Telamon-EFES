@@ -41,7 +41,7 @@
   </xsl:template>
 
   <xsl:template match="xincludes" mode="rdf">
-    <table class="pure-table pure-table-horizontal">
+    <table id="example" class="display" style="width:100%">
       <thead>
         <th scope="col">File</th>
         <th scope="col">Remove old data</th>

@@ -8,7 +8,9 @@
   <!-- Called from htm-tpl-structure.xsl -->
   
   <xsl:template name="iospe-body-structure">
-    <div id="stone">
+    <div  class="large-4 columns">
+      <div id="stone">
+     
       <h3><i18n:text i18n:key="epidoc-xslt-iospe-monument">Monument</i18n:text></h3>
       <table>
         <tr>
@@ -39,7 +41,7 @@
         </tr>
         <tr>
           <th scope="row">
-            <i18n:text i18n:key="epidoc-xslt-iospe-findspot">Findspot</i18n:text>
+            <i18n:text i18n:key="epidoc-xslt-iospe-find-place">Find place</i18n:text>
           </th>
           <td>
             <xsl:choose>
@@ -70,9 +72,9 @@
           <td>
             <xsl:choose>
               <xsl:when test="//t:support/t:dimensions//text()[not(normalize-space(.)=' ')]">
-                <xsl:if test="//t:support/t:dimensions/t:height/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="h">h.</i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:height"/> <i18n:text i18n:key="cm"> cm</i18n:text>,</xsl:if>
-                <xsl:if test="//t:support/t:dimensions/t:width/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="w"> w. </i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:width"/> <i18n:text i18n:key="cm"> cm</i18n:text>,</xsl:if>
-                <xsl:if test="//t:support/t:dimensions/t:depth/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="th"> th. </i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:depth"/> <i18n:text i18n:key="cm"> cm</i18n:text></xsl:if>
+                <xsl:if test="//t:support/t:dimensions/t:height/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="h">h.</i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:height"/>,</xsl:if>
+                <xsl:if test="//t:support/t:dimensions/t:width/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="w">w.</i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:width"/>,</xsl:if>
+                <xsl:if test="//t:support/t:dimensions/t:depth/text()[not(normalize-space(.)=' ')]"><i18n:text i18n:key="th">th.</i18n:text> <xsl:value-of select="//t:support/t:dimensions/t:depth"/></xsl:if>
                 <xsl:if test="//t:support/t:dimensions/t:dim[@type='diameter']/text()[not(normalize-space(.)=' ')]">, Diam. <xsl:value-of select="//t:support/t:dimensions/t:dim[@type='diameter']"/></xsl:if>
               </xsl:when>
               <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unknown">Unknown</i18n:text></xsl:otherwise>
@@ -81,19 +83,19 @@
         </tr>
         <tr>
           <th scope="row">
-            <i18n:text i18n:key="epidoc-xslt-iospe-institution-inventory">Institution and inventory number</i18n:text>
+            <i18n:text i18n:key="epidoc-xslt-iospe-institution-inventory">Institution and inventory</i18n:text>
           </th>
           <td>
             <xsl:choose>
               <xsl:when test="//t:msIdentifier//t:repository/text() and //t:msIdentifier//t:idno/ text()">
-                <xsl:value-of select="//t:msIdentifier//t:repository"/>,  
+                <xsl:value-of select="//t:msIdentifier//t:repository"/>
                 <xsl:value-of select="//t:msIdentifier//t:idno"/>
               </xsl:when>
               <xsl:when test="//t:msIdentifier//t:repository/text()">
                 <xsl:value-of select="//t:msIdentifier//t:repository"/>
-                <i18n:text i18n:key="no-inventary-number">no inventory number</i18n:text>
+                <xsl:text>no inv. no.</xsl:text>
               </xsl:when>
-              <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unavailable-pl">Not available.</i18n:text></xsl:otherwise>
+              <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-unknown">Unknown</i18n:text></xsl:otherwise>
             </xsl:choose>
           </td>
         </tr>
@@ -106,26 +108,15 @@
               <xsl:when test="//t:handNote//t:height/text()">
                 <xsl:value-of select="//t:handNote//t:height"/>
               </xsl:when>
-              <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-not-specified-m">Not specified</i18n:text></xsl:otherwise>
-            </xsl:choose>
-          </td>
-        </tr>
-        <tr>
-          <th scope="row">
-            <i18n:text i18n:key="epidoc-xslt-iospe-decoration">Decoration</i18n:text>
-          </th>
-          <td>
-            <xsl:choose>
-              <xsl:when test="//t:decoNote//text()">
-                <xsl:value-of select="//t:decoNote//text()"/>
-              </xsl:when>
-              <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-not-specified-m">Not specified</i18n:text></xsl:otherwise>
+              <xsl:otherwise><i18n:text i18n:key="epidoc-xslt-iospe-not-specified">Not specified</i18n:text></xsl:otherwise>
             </xsl:choose>
           </td>
         </tr>
       </table>
     </div>
+      </div>
     
+    <div  class="large-4 columns">
     <div id="text">
       <h3><i18n:text i18n:key="epidoc-xslt-iospe-text">Text</i18n:text></h3>
       
@@ -171,14 +162,38 @@
                 </xsl:for-each>
               </xsl:when>
               <xsl:otherwise>
-                <i18n:text i18n:key="epidoc-xslt-iospe-not-specified-letters">Not specified.</i18n:text>
+                <xsl:text>n/a</xsl:text>
               </xsl:otherwise>
             </xsl:choose>
           </td>
         </tr>
       </table>
-      
-      <div class="section-container tabs" data-section="tabs">
+    </div>
+    </div>
+  <div  class="large-4 columns">
+        <div class="container">
+       <div class="gallery">
+    <div id="images" >
+        <h3 ><i18n:text i18n:key="epidoc-xslt-iospe-images">Images</i18n:text></h3>
+        <div class="bordersh">
+          <dl>
+            <xsl:for-each select="//t:facsimile//t:graphic">
+              <dt width="150" align="left"></dt>
+              <dd>
+                <xsl:apply-templates select="." />
+              </dd>
+            </xsl:for-each>
+          </dl>
+        </div>
+      </div>
+         </div>
+    </div>
+    </div>
+
+
+     
+         <div  class="large-12 columns">
+           <div class="section-container tabs" data-section="tabs">
         <section>
           <p class="title" data-section-title="data-section-title"><a href="#"><i18n:text i18n:key="epidoc-xslt-inslib-edition">Interpretive</i18n:text></a></p>
           <div class="content" id="edition" data-section-content="data-section-content">
@@ -205,74 +220,53 @@
             <xsl:apply-templates select="$edtxt" mode="sqbrackets"/>
           </div>
         </section>
-        <xsl:if test="//t:div[@type='edition']//t:lg">
-          <section>
-          <p class="title" data-section-title="data-section-title"><a href="#"><i18n:text i18n:key="epidoc-xslt-inslib-verse">Verse</i18n:text></a></p>
-          <div class="content" id="edition" data-section-content="data-section-content">
-            <!-- Edited text output -->
-            <xsl:variable name="edtxt">
-              <xsl:apply-templates select="//t:div[@type='edition']">
-                <xsl:with-param name="parm-verse-lines" select="'on'" tunnel="yes"/>
-              </xsl:apply-templates>
+      </div>
+          
+       </div>
+     
+      
+       <div  class="large-12 columns">
+          <div id="apparatus" >
+          <h3 ><i18n:text i18n:key="epidoc-xslt-iospe-apparatus">Apparatus</i18n:text></h3>
+            <div class="bordersh">
+            <!-- Apparatus text output -->
+            <xsl:variable name="apptxt">
+              <xsl:apply-templates select="//t:div[@type='apparatus']/t:listApp"/>
             </xsl:variable>
             <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
-            <xsl:apply-templates select="$edtxt" mode="sqbrackets"/>
+            <xsl:apply-templates select="$apptxt" mode="sqbrackets"/>
           </div>
-        </section></xsl:if>
+        </div>
       </div>
-      
-      <div id="apparatus" >
-        <xsl:if test="//t:div[@type='apparatus']/t:listApp">
-          <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-apparatus">Apparatus</i18n:text></h4>
-        <!-- Apparatus text output -->
-        <xsl:variable name="apptxt">
-          <xsl:apply-templates select="//t:div[@type='apparatus']/t:listApp"/>
-        </xsl:variable>
-        <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
-        <xsl:apply-templates select="$apptxt" mode="sqbrackets"/>
-        </xsl:if>
+
+      <div  class="large-12 columns">
+        <div id="translation" >
+          <h3 ><i18n:text i18n:key="epidoc-xslt-iospe-translation">Translation</i18n:text></h3>
+            <div class="bordersh">
+          <!-- Translation text output -->
+            <xsl:variable name="transtxt">
+              <xsl:apply-templates select="//t:div[@type='translation']//t:p"/>
+            </xsl:variable>
+            <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
+            <xsl:apply-templates select="$transtxt" mode="sqbrackets"/>
+          </div>
+        </div>
       </div>
-      
-      <div id="translation" >
-        <xsl:if test="//t:div[@type='translation']//t:p">
-          <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-translation">Translation</i18n:text></h4>
-        <!-- Translation text output -->
-        <xsl:variable name="transtxt">
-          <xsl:apply-templates select="//t:div[@type='translation']//t:p"/>
-        </xsl:variable>
-        <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
-        <xsl:apply-templates select="$transtxt" mode="sqbrackets"/>
-        </xsl:if>
-      </div>
-      
+
+      <div  class="large-12 columns">
       <div id="commentary" >
-        <xsl:if test="//t:div[@type='commentary']//t:p">
-          <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-commentary">Commentary</i18n:text></h4>
+        <h3 ><i18n:text i18n:key="epidoc-xslt-iospe-commentary">Commentary</i18n:text></h3>
+          <div class="bordersh">
         <!-- Commentary text output -->
         <xsl:variable name="commtxt">
           <xsl:apply-templates select="//t:div[@type='commentary']//t:p"/>
         </xsl:variable>
         <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
-        <xsl:apply-templates select="$commtxt" mode="sqbrackets"/></xsl:if>
+        <xsl:apply-templates select="$commtxt" mode="sqbrackets"/>
       </div>
-      
-     <div id="bibliography">
-        <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-bibliography">Bibliography</i18n:text></h4>
-        <xsl:apply-templates select="//t:body//t:div[@type='bibliography']//t:biblStruct"/>
-      </div>
-      
-      <div id="images" >
-        <h4 ><i18n:text i18n:key="epidoc-xslt-iospe-images">Images</i18n:text></h4>
-        <dl>
-          <xsl:for-each select="//t:facsimile//t:graphic">
-            <dt width="150" align="left"></dt>
-            <dd>
-              <xsl:apply-templates select="." />
-            </dd>
-          </xsl:for-each>
-        </dl>
-      </div>
+      </div>      
     </div>
+
   </xsl:template>
   
   <xsl:template name="iospe-structure">
