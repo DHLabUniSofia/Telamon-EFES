@@ -114,7 +114,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="κύριος">κυρίῳ</w> <persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπ<unclear>ι̣</unclear><supplied reason="lost">ῷ</supplied> <persName type="localdivine" ref="listDivine.xml#Zymzdrenus"><supplied reason="lost">Ζυμυδρηνῳ</supplied></persName></persName>
+                    <lb n="1"/><w lemma="κύριος">κυρίῳ</w> <persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπ<unclear>ι̣</unclear><supplied reason="lost">ῷ</supplied> <persName type="divine" ref="listDivine.xml#Zymzdrenus"><supplied reason="lost">Ζυμυδρηνῳ</supplied></persName></persName>
                     <lb n="2"/><persName><name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr>Αὐρ</abbr><ex>ήλιος</ex></expan></name> <g type="dot"/> <name ref="Onom.xml#Pantonicus" nymRef="Παντόνεικος">Παντόνεικ<supplied reason="lost" unit="character">ος</supplied></name></persName> <w lemma="εὔχομαι"><supplied reason="lost" unit="character">εὐξά</supplied>
                     <lb n="3" break="no"/>μενος</w> ΑΠΟΠ<gap reason="lost" unit="character" extent="unknown"></gap>
                 </ab>

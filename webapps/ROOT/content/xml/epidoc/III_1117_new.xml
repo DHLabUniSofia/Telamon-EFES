@@ -111,7 +111,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName ref="listDivine.xml#Asclepius" type="divine">Ἀσκληπιῶι</persName> <persName type="localdivine" ref="listDivine.xml#Zymzdrenus">Ζυμ<g type="leaf"/>
+                    <lb n="1"/><persName ref="listDivine.xml#Asclepius" type="divine">Ἀσκληπιῶι</persName> <persName type="divine" ref="listDivine.xml#Zymzdrenus">Ζυμ<g type="leaf"/>
                     <lb n="2" break="no"/> <g type="leaf"/>ζδρηνωι</persName>
                     <lb n="3"/><persName><name ref="Onom.xml#Ulpius" nymRef="Οὔλπιος">Οὔλπιος</name></persName> <name ref="Onom.xml#Dinias" nymRef="Δεινίας">Δει
                     <lb n="4" break="no"/>νίας</name> <w>ὑπὲρ</w> <persName><name ref="Onom.xml#Ulpius" nymRef="Οὔλπιος">Οὐλ

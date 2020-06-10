@@ -115,7 +115,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><w lemma="ἐπιφανής">ἐπιφανεστάτ̣οις</w> <w lemma="θεός">θεοῖς</w> <persName type="divine"><name ref="listDivine.xml#Asclepius">Ἀσκλη
-                 <lb n="2" break="no"/>πιῷ</name></persName> <w>καὶ</w> <persName type="divine" ref="listDivine.xml#Hygia">Ὑγείᾳ</persName> <persName type="localdivine"><name ref="listDivine.xml#Zymzdrenus">Ζυλμυζδρηνοις</name></persName>.
+                 <lb n="2" break="no"/>πιῷ</name></persName> <w>καὶ</w> <persName type="divine" ref="listDivine.xml#Hygia">Ὑγείᾳ</persName> <persName type="divine"><name ref="listDivine.xml#Zymzdrenus">Ζυλμυζδρηνοις</name></persName>.
 <!-- Да се добави епитетът на локалното божество -->
                 </ab>
             </div>

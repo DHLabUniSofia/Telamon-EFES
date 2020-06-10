@@ -116,7 +116,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName ref="listDivine.xml#Apollo" type="divine"><supplied reason="lost">Ἀπόλλωνι</supplied> <persName type="localdivine" ref="listDivine.xml#Kendriseus"><supplied reason="lost">Κενδρ</supplied>εισῳ</persName></persName><!-- тук сложи гръцкия текст -->
+                    <lb n="1"/><persName ref="listDivine.xml#Apollo" type="divine"><supplied reason="lost">Ἀπόλλωνι</supplied> <persName type="divine" ref="listDivine.xml#Kendriseus"><supplied reason="lost">Κενδρ</supplied>εισῳ</persName></persName><!-- тук сложи гръцкия текст -->
                 </ab>
             </div>
             <div type="apparatus"><listApp><app/></listApp>

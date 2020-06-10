@@ -114,7 +114,7 @@
                 <ab>
                     <lb n="1"/><w lemma="ἀγαθός"><supplied reason="lost">ἀγ</supplied><unclear>α</unclear>θῆ<g type="dot"/>ι<g type="dot"/></w> <g type="leaf"/> <w lemma="τύχη">τύχη<supplied reason="lost">ι</supplied></w>.
                     <lb n="2"/><persName type="divine" ref="listDivine.xml#Apollo"><supplied reason="lost">Ἀ</supplied><unclear>π</unclear>όλλωνι
-                    <lb n="3"/><persName type="localdivine" ref="listDivine.xml#Kendriseus">Κενδρειση
+                    <lb n="3"/><persName type="divine" ref="listDivine.xml#Kendriseus">Κενδρειση
                     <lb n="4" break="no"/>νῳ</persName></persName> <w lemma="σωτήρ">σωτῆρι</w>.
 <!-- тук сложи гръцкия текст -->
                 </ab>

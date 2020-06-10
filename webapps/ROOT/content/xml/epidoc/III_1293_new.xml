@@ -117,7 +117,7 @@
                 <ab>
                     <lb n="1"/><w lemma="ἀγαθός">ἀγαθῆι</w> <w lemma="τύχη">τύχηι</w>.
                  <space quantity="1" unit="line"/>
-                    <lb n="2"/><w lemma="θεός">θεῷ</w> <persName type="localdivine" ref="listDivine.xml#Suregethes">Σουρε
+                    <lb n="2"/><w lemma="θεός">θεῷ</w> <persName type="divine" ref="listDivine.xml#Suregethes">Σουρε
                     <lb n="3" break="no"/>γεθῃ</persName> <w lemma="ἐπήκοος">ἐπη
                     <lb n="4" break="no"/>κόῳ</w> <persName><name  ref="Onom.xml#Kotys" nymRef="Κοτυς">Κοτυς</name>
                     <lb n="5"/><name nymRef="Ροιμηζεν̣ις" ref="Onom.xml#Rimezenis">Ροιμηζεν̣ε

@@ -121,7 +121,7 @@
                <idno type="wp">https://en.wikipedia.org/wiki/Heracles</idno>
             </person>
             <person xml:id="Syria">
-               <persName xml:lang="grc">Συρία θεᾶ</persName>
+               <persName xml:lang="grc">Συρία θεά</persName>
                <persName xml:lang="en">Dea Syria</persName>
                <persName xml:lang="bg">Сирийската богиня</persName>
                <idno type="wp">https://en.wikipedia.org/wiki/Atargatis</idno>

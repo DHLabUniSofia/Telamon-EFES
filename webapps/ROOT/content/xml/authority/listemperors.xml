@@ -28,7 +28,7 @@
             </person>
             <person xml:id="Antoninus">
                <persName xml:lang="en">Titus Aelius Hadrianus Antoninus</persName>  
-               <persName xml:lang="grc">Τίτος Αἴλιος Ἁδριανός Ἀντωνίνος</persName>
+               <persName xml:lang="grc">Τίτος Αἴλιος Ἁδριανός Ἀντωνῖνος</persName>
                <persName xml:lang="bg">Тит Елий Адриан Антонин</persName>
                <floruit>138 - 161</floruit>
                <idno type="wp">https://en.wikipedia.org/wiki/Antoninus_Pius</idno>
@@ -36,7 +36,7 @@
             
             <person xml:id="MarcusAurelius">
                <persName xml:lang="en">Marcus Aurelius Antoninus</persName>
-               <persName xml:lang="grc">Μάρκος Αὐρήλιος Ἀντονείνος</persName>
+               <persName xml:lang="grc">Μάρκος Αὐρήλιος Ἀντωνῖνος</persName>
                <persName xml:lang="bg">Марк Аврелий Антонин</persName>
                <idno type="wp">https://en.wikipedia.org/wiki/Marcus_Aurelius</idno>
                <floruit>161 - 180</floruit></person>
@@ -48,7 +48,7 @@
                <idno type="wp">https://en.wikipedia.org/wiki/Lucius_Verus</idno>
             </person>
             <person xml:id="Commodus">
-               <persName xml:lang="grc">Μάρκος Αὐρήλιος Κόμμοδος Ἀντονείνος</persName>
+               <persName xml:lang="grc">Μάρκος Αὐρήλιος Κόμμοδος Ἀντωνῖνος</persName>
                <persName xml:lang="en">Marcus Aurelius Commodus Antoninus</persName>
                <persName xml:lang="bg">Марк Аврелий Комод</persName>
                <floruit>177-192</floruit>
@@ -56,7 +56,7 @@
             </person>
             <person xml:id="Caracalla">
                <persName xml:lang="en">Marcus Aurelius Severus Antoninus Caracalla</persName>
-               <persName xml:lang="grc">Μάρκος Αὐρήλιος Σευέρος Ἀντονείνος</persName>
+               <persName xml:lang="grc">Μάρκος Αὐρήλιος Σευέρος Ἀντωνῖνος</persName>
                <persName xml:lang="bg">Марк Аврелий Север Каракала</persName>
                <floruit>198-217</floruit>
                <idno type="wp">https://en.wikipedia.org/wiki/Caracalla</idno>
@@ -161,7 +161,7 @@
             </person>
             <person xml:id="Elagabalus">
                <persName xml:lang="en">Marcus Aurelius Antoninus</persName>
-               <persName xml:lang="grc">Μάρκος Αὐρήλιος Ἀντονείνος</persName>
+               <persName xml:lang="grc">Μάρκος Αὐρήλιος Ἀντωνῖνος</persName>
                <persName xml:lang="bg">Марк Аврелий Антонин - Елагабал</persName>
                <idno type="wp">https://en.wikipedia.org/wiki/Elagabalus</idno>
                <floruit>218 - 222</floruit></person>
@@ -186,9 +186,9 @@
                <idno type="wp">https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B8%D0%B9_%D0%9C%D0%B0%D0%B3%D0%B8%D0%B0%D0%BD</idno>
             </person>
             <person xml:id="Celer">
-               <persName xml:lang="grc">Κοΐντος Ἄττιος Κέλερος</persName>
-               <persName xml:lang="en">Quintus Attius Celer</persName>
-               <persName xml:lang="bg">Квинт Атий Целер</persName>
+               <persName xml:lang="grc">Λουκίος Κάττιος Κέλερος</persName>
+               <persName xml:lang="en">Lucius Catius Celer</persName>
+               <persName xml:lang="bg">Луций Катий Целер</persName>
                               <floruit>238 - 241</floruit>
                <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
                <occupation xml:lang="en">provincial governor</occupation>

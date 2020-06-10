@@ -113,7 +113,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" ref="listDivine.xml#Hera"><name>Ἥρᾳ</name> <persName type="localdivine" ref="listDivine.xml#Titidene">Τιδιτη<supplied reason="lost">νῃ</supplied></persName></persName> <w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="divine" ref="listDivine.xml#Hera"><name>Ἥρᾳ</name> <persName type="divine" ref="listDivine.xml#Titidene">Τιδιτη<supplied reason="lost">νῃ</supplied></persName></persName> <w><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2" break="no"/>θεια</w> <w lemma="χαριστήριος">χ<supplied reason="lost">αριστήριον</supplied></w>.<!-- тук сложи гръцкия текст -->
                 </ab>
             </div>

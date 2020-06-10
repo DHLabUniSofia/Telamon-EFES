@@ -106,7 +106,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><persName><name ref="Onom.xml#Auluzenis" nymRef="Αυλουζενις">Αυλουζενις</name> <name ref="Onom.xml#Brizenis" nymRef="Βρειζ̣ενις">Βρει<unclear>ζ</unclear>ενεος</name></persName> <w lemma="κύριος"><supplied reason="lost" unit="character">κυρίῳ</supplied></w>
-                    <lb n="2"/><persName type="divine" ref="listDivine.xml#heros"><supplied reason="lost" unit="character">Ἥ</supplied><unclear>ρωνι</unclear> <persName type="localdivine" ref="listDivine.xml#Arzenus">Α<unclear>ρ</unclear>ζηνῳ</persName></persName> <w lemma="εὖχος">ε<unclear>ὐχὴν</unclear></w> <w lemma="ἀνατίθημι"><supplied reason="lost" unit="character">ἀνέθηκεν</supplied></w>.
+                    <lb n="2"/><persName type="divine" ref="listDivine.xml#heros"><supplied reason="lost" unit="character">Ἥ</supplied><unclear>ρωνι</unclear> <persName type="divine" ref="listDivine.xml#Arzenus">Α<unclear>ρ</unclear>ζηνῳ</persName></persName> <w lemma="εὖχος">ε<unclear>ὐχὴν</unclear></w> <w lemma="ἀνατίθημι"><supplied reason="lost" unit="character">ἀνέθηκεν</supplied></w>.
 <!-- тук сложи гръцкия текст -->
                 </ab>
             </div>

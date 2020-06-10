@@ -116,7 +116,7 @@
                     <lb n="2"/><persName><name ref="Onom.xml#Kotys" nymRef="Κοτυς">Κοτυος</name></persName>,
                    <lb n="3"/><persName><name ref="Onom.xml#Tatazia" nymRef="Ταταζιη"><unclear>Τ</unclear>αταζιη</name>
                    <lb n="4"/><name ref="Onom.xml#Mukases" nymRef="Μουκασης">Μουκασηους</name></persName>.  <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК--> 
-                   <lb n="5"/><persName type="divine" ref="listDivine.xml#Zeus">Διὶ <persName type="localdivine" ref="listDivine.xml#Zbelsurd">Ζβελ
+                   <lb n="5"/><persName type="divine" ref="listDivine.xml#Zeus">Διὶ <persName type="divine" ref="listDivine.xml#Zbelsurd">Ζβελ
                    <lb n="6" break="no"/>σουρδῳ</persName></persName>,
                    <lb n="7"/><persName><name ref="Onom.xml#Doles" nymRef="Δολης̣">Δολη<unclear>ς̣</unclear></name></persName> <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>

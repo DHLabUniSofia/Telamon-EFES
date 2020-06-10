@@ -117,7 +117,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="ἥρως">Ἥρωι</w> <persName type="localdivine" ref="listDivine.xml#Pourd-">Πουρ<unclear>δ</unclear><gap reason="lost" extent="unknown" unit="character"/></persName>
+                    <lb n="1"/><w lemma="ἥρως">Ἥρωι</w> <persName type="divine" ref="listDivine.xml#Pourd-">Πουρ<unclear>δ</unclear><gap reason="lost" extent="unknown" unit="character"/></persName>
                     <lb n="2"/><persName><name nymRef="Ροιμηταλκης" ref="Onom.xml#Remetalkes">Ροιμηταλ<supplied reason="lost">κης</supplied></name></persName> <w lemma="εὐχή"><supplied reason="lost" cert="low">εὐχήν</supplied></w>. <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
                 </ab>
             </div>

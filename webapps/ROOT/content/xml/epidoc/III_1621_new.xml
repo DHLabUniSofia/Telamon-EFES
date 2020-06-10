@@ -115,7 +115,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><persName><name ref="Onom.xml#Mukatralis" nymRef="Μουκατραλις">Μουκατραλις</name> <name ref="Onom.xml#Lazeris" nymRef="Λαζερις">Λαζερεος</name></persName>
-                    <lb n="2"/><persName type="localdivine" ref="listDivine.xml#Moludases">Μωλουδασῃ</persName> <w lemma="εὐχαριστήριος">εὐχαριστήριον</w>                                   <!-- тук сложи гръцкия текст -->
+                    <lb n="2"/><persName type="divine" ref="listDivine.xml#Moludases">Μωλουδασῃ</persName> <w lemma="εὐχαριστήριος">εὐχαριστήριον</w>                                   <!-- тук сложи гръцкия текст -->
                 </ab>
             </div>
             <div type="apparatus">

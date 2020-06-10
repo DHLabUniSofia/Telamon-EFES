@@ -116,7 +116,7 @@
                     <lb n="1"/><persName><name nymRef="Μᾶρκος" ref="Onom.xml#Marcus">Μᾶρκος</name>
                     <lb n="2"/><name nymRef="Ταρσας" ref="Onom.xml#Tarsas">Ταρσο
                     <lb n="3" break="no"/>υ</name></persName></ab></div>
-                    <div type="textpart" n="below"><ab><lb n="4"/><persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπιῷ <persName type="localdivine" ref="listDivine.xml#Rasyperenus">Ρασυπηρη
+                    <div type="textpart" n="below"><ab><lb n="4"/><persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπιῷ <persName type="divine" ref="listDivine.xml#Rasyperenus">Ρασυπηρη
                     <lb n="5" break="no"/><supplied reason="lost">νῳ</supplied></persName></persName> <w lemma="εὐχαριστήριος"><supplied reason="lost">εὐχ</supplied>α̣ρ̣ι̣σ̣τ̣ή̣ρ̣<supplied reason="lost">ιον</supplied></w>
                     <lb n="6"/><w lemma="ἀνατίθημι"><supplied reason="lost">ἀνέ</supplied>θ̣η̣<supplied reason="lost">κα</supplied></w>.
                 </ab></div>

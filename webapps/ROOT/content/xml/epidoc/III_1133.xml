@@ -124,7 +124,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/> <persName type="divine" ref="listDivine.xml#Asclepius"><persName type="localdivine" ref="listDivine.xml#Zymzdrenus"><name><unclear>Ζ</unclear>υμζδρη<unclear>ν</unclear>ῳ</name></persName> 
+                    <lb n="1"/> <persName type="divine" ref="listDivine.xml#Asclepius"><persName type="divine" ref="listDivine.xml#Zymzdrenus"><name><unclear>Ζ</unclear>υμζδρη<unclear>ν</unclear>ῳ</name></persName> 
                         <name>Ἀσκληπιῷ</name></persName>
                            <persName ref="listPers.xml#AT125" type="attested">
                                <name nymRef="Σεβαστιανός" ref="Onom.xml#Sebastianus">Σεβαστια<unclear>ν</unclear><supplied reason="lost">ὸς</supplied></name>

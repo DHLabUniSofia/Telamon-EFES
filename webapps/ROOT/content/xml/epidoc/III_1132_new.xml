@@ -116,7 +116,7 @@
                 <ab>
                     <lb n="1"/><persName><name ref="Onom.xml#Claudius" nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name></persName> <g type="dot"/> <persName type="attested"><name ref="Onom.xml#Spartocus" nymRef="Σπαρτοκος">Σπαρτοκος</name></persName> <w lemma="κύριος">κυρίῳ</w> <persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπιῷ</persName> 
                     <w>καὶ</w> <persName type="divine" ref="listDivine.xml#Hygia">Ὑγίᾳ</persName> <w>καὶ</w> <persName type="divine" ref="listDivine.xml#Telesphorus">Τε̣
-                    <lb n="2" break="no"/>λεσφόρῳ</persName> <persName type="localdivine" ref="listDivine.xml#Zymzdrenus">Ζυσδρηνοις</persName> <w>ὑπὲρ</w> <w>τοῦ</w> 
+                    <lb n="2" break="no"/>λεσφόρῳ</persName> <persName type="divine" ref="listDivine.xml#Zymzdrenus">Ζυσδρηνοις</persName> <w>ὑπὲρ</w> <w>τοῦ</w> 
                     <w lemma="υἱός">υἱοῦ</w> <persName><name ref="Onom.xml#Remetalkes" nymRef="Ρυμεταλκος">Ρυμεταλκου</name></persName>
                     <lb n="3"/><w>τοῦ</w> <w>κα̣ὶ</w> <persName><name ref="Onom.xml#Olympius" nymRef="Ὀλύμπιος">Ὀλυμπίου</name></persName> <w>κατὰ</w> <w lemma="χρησμός">χρησμὸν</w> <w lemma="καλέω">κληθέντος</w> <w lemma="εὐχή">εὐχήν</w>.                                         <!-- Има три имена за добавяне те са маркирани с главни букви след onom.xml пише ДАСЕДОБАВИ-->
                 </ab>

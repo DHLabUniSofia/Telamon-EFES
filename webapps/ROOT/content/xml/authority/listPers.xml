@@ -44,7 +44,7 @@
                <persName xml:lang="grc">Αὐρήλιος Ποσειδώνιος</persName>
                <persName xml:lang="en">Aurelius Poseidonius</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>παλαιστρατιώτης</occupation></person>
+               <occupation xml:lang="grc">παλαιστρατιώτης</occupation></person>
             <person xml:id="AT007">
                <persName xml:lang="grc">Ἑρέννιος Ἡρακλιανός</persName>
                <persName xml:lang="en">Herennius Heraclianus</persName>
