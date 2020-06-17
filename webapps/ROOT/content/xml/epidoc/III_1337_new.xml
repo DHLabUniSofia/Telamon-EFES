@@ -148,7 +148,7 @@
                     <lb n="7"/>
                     <w lemma="ἐπαρχεία">ἐπαρχεί<supplied reason="lost">α</supplied>ς</w>
                     <w lemma="μητρόπολις">μητρόπολις</w>
-                    <placeName ref="listPlaces#Phil">Φιλιππόπολις</placeName>
+                    <placeName ref="listPlaces.xml#Phil">Φιλιππόπολις</placeName>
                     <lb n="8"/>
                     <w lemma="ἀνίστημι">ἀνέ<supplied reason="lost">στ</supplied>ησεν</w>
                     <w>τὸ</w>
