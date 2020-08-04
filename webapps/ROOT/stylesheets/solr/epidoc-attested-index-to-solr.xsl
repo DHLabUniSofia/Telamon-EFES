@@ -1,7 +1,8 @@
 <xsl:stylesheet exclude-result-prefixes="#all"
   version="2.0"
   xmlns:tei="http://www.tei-c.org/ns/1.0"
-  xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:so="http://schema.org/">
   
   <!-- This XSLT transforms a set of EpiDoc documents into a Solr
        index document representing an index of symbols in those
