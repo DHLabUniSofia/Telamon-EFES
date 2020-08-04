@@ -382,7 +382,7 @@
                <occupation xml:lang="bg">управител на провинция</occupation>
                <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
             </person>
-            <person xml:id="AurApoll">
+           <!--  Първи архонт от 1515, отиде при засвидетелстваните  <person xml:id="AurApoll">
                <persName xml:lang="grc">Αὐρήλιος Ἀπολλωνίδος Ἀπολλοδώρος</persName>
                <persName xml:lang="en">Aurelius Apollonidus Apollodorus</persName>
                <persName xml:lang="bg"></persName>
@@ -390,7 +390,7 @@
                <occupation xml:lang="bg">управител на провинция ; първи архонт? същото ли беше?</occupation>
                <occupation xml:lang="grc">ἡγεμονεύων ἐπαρχείας Θρᾳκῶν</occupation>
                <floruit>176 - 193</floruit>
-            </person>
+            </person>-->
          </listPerson>
       </body>
   </text>

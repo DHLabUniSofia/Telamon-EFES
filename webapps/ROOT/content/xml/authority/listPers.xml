@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Title</title>
@@ -15,16 +15,82 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
+      <taxonomy> <!-- elina -->
+         <taxonomy xml:id="taxonomy-occupation">
+            <category xml:id="taxonomy-occupation-archon">
+               <catDesc xml:lang="en">archon</catDesc>
+               <catDesc xml:lang="bg">...</catDesc>
+               <catDesc xml:lang="grc">πρῶτος ἄρχων</catDesc>
+            </category>
+            <category xml:id="taxonomy-occupation-synarchon">
+               <catDesc xml:lang="en">synarchon</catDesc>
+               <catDesc xml:lang="bg">...</catDesc>
+               <catDesc xml:lang="grc">σύναρχος</catDesc>
+            </category>
+            <category xml:id="taxonomy-occupation-archpriest">
+               <catDesc xml:lang="en">arch-priest, chief-priest</catDesc>
+               <catDesc xml:lang="bg">...</catDesc>
+               <catDesc xml:lang="grc">ἀρχιερεύς</catDesc>
+            </category>
+            <category xml:id="taxonomy-occupation-tamion">
+               <catDesc xml:lang="en">treasurer</catDesc>
+               <catDesc xml:lang="bg">...</catDesc>
+               <catDesc xml:lang="grc">ταμιεύων</catDesc>
+            </category>
+            <category xml:id="taxonomy-occupation-epistates">
+               <catDesc xml:lang="en">treasurer</catDesc>
+               <catDesc xml:lang="bg">...</catDesc>
+               <catDesc xml:lang="grc">ἐπιστάτης</catDesc>
+            </category>
+            <category xml:id="taxonomy-occupation-priest">
+               <catDesc xml:lang="en">priest</catDesc>
+               <catDesc xml:lang="bg">...</catDesc>
+               <catDesc xml:lang="grc">ἱερεύς</catDesc>
+            </category>
+            <category xml:id="taxonomy-occupation-veteran">
+               <catDesc xml:lang="en">veteran</catDesc>
+               <catDesc xml:lang="bg">...</catDesc>
+               <catDesc xml:lang="grc">παλαιστρατιώτης, βετρανός</catDesc>
+            </category>
+            <category xml:id="taxonomy-occupation-gerusiast">
+               <catDesc xml:lang="en">gerusiast</catDesc>
+               <catDesc xml:lang="bg">герусиаст</catDesc>
+               <catDesc xml:lang="grc">γερουσιαστής</catDesc>
+            </category>
+            <category xml:id="taxonomy-occupation-soldier">
+               <catDesc xml:lang="en">soldier</catDesc>
+               <catDesc xml:lang="bg">войник</catDesc>
+               <catDesc xml:lang="grc">στρατιώτης</catDesc> 
+            </category>
+            <category xml:id="taxonomy-occupation-aspidiotes">
+               <catDesc xml:lang="en">shield-bearer</catDesc>
+               <catDesc xml:lang="bg">войник</catDesc>
+               <catDesc xml:lang="grc">ἀσπιδιώτης</catDesc> 
+            </category>
+            <category xml:id="taxonomy-occupation-tes">
+               <catDesc xml:lang="en">shield-bearer</catDesc>
+               <catDesc xml:lang="bg">войник</catDesc>
+               <catDesc xml:lang="grc">ἀσπιδιώτης</catDesc> 
+            </category>
+            <category xml:id="taxonomy-occupation-buleutes">
+               <catDesc xml:lang="en">buleutes</catDesc>
+               <catDesc xml:lang="bg">булевт</catDesc>
+               <catDesc xml:lang="grc">βουλευτής</catDesc> 
+            </category>
+            
+         </taxonomy>
+      </taxonomy> <!-- elina -->
+   </teiHeader>
   <text>
       <body>
          <listPerson type="attestted">
             <person xml:id="AT002">
                <persName xml:lang="grc">Ἀντίπατρος Ἀπολλωνίου</persName>
-               <persName xml:lang="en">Antipatrus Apollonius</persName>
-               <persName xml:lang="bg"></persName>
+               <persName xml:lang="en">Antipatrus son of Apollonius</persName>
+               <persName xml:lang="bg">Антипатър, син на Аполон</persName>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-archpriest"/>
             </person>
-            <person xml:id="AT003">
+            <!--  <person xml:id="AT003">
                <persName xml:lang="grc">Αὐρήλιος Πύρρος ὁ καὶ Ταῦρος </persName>
                <persName xml:lang="en">Aurelius Pyrrus (Taurus)</persName>
                <persName xml:lang="bg"></persName>
@@ -33,78 +99,84 @@
                <persName xml:lang="grc">Αὐρηλία Χρυσηῒς</persName>
                <persName xml:lang="en">Aurelia Chryseis</persName>
                <persName xml:lang="bg"></persName>
-            </person>
+            </person> 1552, споменават се само по име, те строили паметник на ветеран-->
             <person xml:id="AT005">
                <persName xml:lang="grc">Γλαύκος Θάλλος</persName>
                <persName xml:lang="en">Glaucus Thallus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>ταμιεύων</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-tamion"/>
             </person>
             <person xml:id="AT006">
                <persName xml:lang="grc">Αὐρήλιος Ποσειδώνιος</persName>
                <persName xml:lang="en">Aurelius Poseidonius</persName>
                <persName xml:lang="bg"></persName>
-               <occupation xml:lang="grc">παλαιστρατιώτης</occupation></person>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-veteran"/>
+            </person>
             <person xml:id="AT007">
                <persName xml:lang="grc">Ἑρέννιος Ἡρακλιανός</persName>
                <persName xml:lang="en">Herennius Heraclianus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>γερουσιαστής</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-gerusiast"/>
             </person>
-            <person xml:id="AT008">
+            <!-- жена на гореупоменатия Херений от 992  <person xml:id="AT008">
                <persName xml:lang="grc">Κλεοπάτρα Ἀθηνοδώρου</persName>
                <persName xml:lang="en">Cleopatra Athenodorou</persName>
                <persName xml:lang="bg"></persName>
-            </person>
-            <person xml:id="AT009">
+            </person>-->
+           <!-- и този няма професия, от 953  <person xml:id="AT009">
                <persName xml:lang="grc">Λονγεῖνος Κότυος</persName>
                <persName xml:lang="en">Longinus son of Kotys</persName>
                <persName xml:lang="bg"></persName>
-            </person>
+            </person>-->
             <person xml:id="AT010">
                <persName xml:lang="grc">Αὐρήλιος Σάλβις Μουκακενθου</persName>
                <persName xml:lang="en">Aurelius Salvis, son of Mukakenthus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>βετρανός</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-veteran"/>
             </person>
             <person xml:id="AT011">
                <persName xml:lang="grc">Αὐρήλιος Μουκατραλις</persName>
                <persName xml:lang="en">Aurelius Mukatralis</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>στρατιώτης</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-soldier"/>
             </person>
             <person xml:id="AT012">
                <persName xml:lang="grc">Ἄσπαρ</persName>
                <persName xml:lang="en">Aspar</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>ἀσπιδιώτης</occupation></person>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-aspidiotes"/>
+            </person>
             <person xml:id="AT013">
                <persName xml:lang="grc">Αὐρήλιος Δημήτριος Ἄπφου</persName>
                <persName xml:lang="en">Aurelius Demetrius Apphus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation></person>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-synarchon"/>
+            </person>
             <person xml:id="AT014">
                <persName xml:lang="grc">Αὐρήλιος Θεόδωρος</persName>
                <persName xml:lang="en">Aurelius Theodorus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation></person>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-epistates"/>
+            </person>
             <person xml:id="AT015">
                <persName xml:lang="grc">Βειθυς Κοτυος</persName>
                <persName xml:lang="en">Beithus Kotys</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>ἱερεὺς Συρίας θεᾶς</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-priest"/>
             </person>
             <person xml:id="AT016">
                <persName xml:lang="grc">Αὐρήλιος Ἀπολλωνίδης Ἀπολλοδώρου</persName>
-               <persName xml:lang="en">Aurelius Apollonides Appolodorus</persName>
+               <persName xml:lang="en">Aurelius Apollonides son of Appolodorus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-archon"/>
             </person>
             <person xml:id="AT017">
                <persName xml:lang="grc">Γέμελλος Γεμέλλου</persName>
                <persName xml:lang="en">Gemellus, son of Gemellus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>βουλευτής</occupation></person>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-buleutes"/>
+            </person>
+            <!-- ДО ТУК СЪМ СТИГНАЛА -->
             <person xml:id="AT018">
                <persName xml:lang="grc">Αὐρήλιος Διονυσόδωρος</persName>
                <persName xml:lang="en">Aurelius Dionysodorus</persName>
@@ -166,7 +238,8 @@
                <occupation xml:lang="en">thracarchus</occupation>
                <occupation xml:lang="bg">тракарх</occupation>
                <occupation xml:lang="grc">θρᾳκάρχης?, πρῶτος ἄρχων</occupation>
-               <floruit>249 - 250</floruit> 
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-archon"/>
+               <!-- <floruit>249 - 250</floruit>  -->
             </person>    
             <person xml:id="AT028">
                <persName xml:lang="grc">Αἰμιλίος Βειθυς</persName>
@@ -227,13 +300,13 @@
                <persName xml:lang="en">Septimius Aurelius Bassus</persName>
                <persName xml:lang="grc">Σεπτίμιος Αὐρήλιος Βάσσος</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-archon"/>
             </person>
             <person xml:id="AT132">
                <persName xml:lang="en">Titus Flavius Apollodorus</persName>
                <persName xml:lang="grc">Τίτος Φλάβιος Ἀπολλόδωρος</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-archon"/>
             </person>
             <person xml:id="AT133">
                <persName xml:lang="grc">Ἀλφεῖος Ποσειδώνίου</persName>
@@ -275,7 +348,7 @@
                <persName xml:lang="grc">Αὐρήλιος Ἰνγένοος Κέλερος</persName>
                <persName xml:lang="en">Aurelius Ingenuus Celer</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-archon"/>
             </person>
             <person xml:id="AT210">
                <persName xml:lang="grc">Μᾶρκος Μέστριος Αἴνιος</persName>
@@ -293,7 +366,7 @@
                <persName xml:lang="grc">-δορος</persName>
                <persName xml:lang="en">-doros</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-archon"/>
             </person>
             <person xml:id="AT213">
                <persName xml:lang="grc">Τιβέριος Κλαύδιος Πασίνους Μουκιανοῦ</persName>
@@ -305,7 +378,7 @@
                <persName xml:lang="grc">Δομετιανός Κοτυς</persName>
                <persName xml:lang="en">Domitianus Kotys</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation></person>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-archon"/></person>
             <person xml:id="AT308">
                <persName xml:lang="grc">Ἡρακλείδης Γρανίου</persName>
                <persName xml:lang="en">Heraclides Granius</persName>
@@ -326,7 +399,7 @@
                <persName xml:lang="grc">Πύρρος</persName>
                <persName xml:lang="en">Pyrrus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>πρ. ἄρχων</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-archon"/>
             </person>
             <person xml:id="AT322">
                <persName xml:lang="grc">Αἴλιος Πολέμων</persName>
@@ -362,7 +435,7 @@
                <persName xml:lang="grc">Διοφάνης</persName>
                <persName xml:lang="en">Diophanes</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>παλεστρατιώτης</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-veteran"/>
             </person>
             <personGrp></personGrp>
          </listPerson>

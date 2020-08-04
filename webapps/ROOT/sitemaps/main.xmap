@@ -217,6 +217,22 @@
         </map:transform>
         <map:serialize />
       </map:match>
+      
+      <map:match id="local-index-search-html" pattern="*/indices/*/attested.html"> <!--elina-->
+        <map:aggregate element="aggregation" label="content">
+          <map:part src="cocoon://_internal/menu/{1}/main.xml?url={1}/indices/{2}/attested.html" />
+          <map:part src="cocoon://internal/search/index_query.xml?fq=document_type:{url-encode:{2}_attested_index}" />
+          <map:part element="index_metadata" src="cocoon://internal/index/{2}/attested.xml" />
+          <map:part element="index_names" src="cocoon://admin/rdf/query/graph/listPers.xml" />
+        </map:aggregate>
+        <map:transform src="cocoon://_internal/template/index-{2}-attested.xsl">
+          <map:parameter name="language" value="{1}" />
+        </map:transform>
+        <map:transform type="i18n">
+          <map:parameter name="locale" value="{1}" />
+        </map:transform>
+        <map:serialize />
+      </map:match>
 
       <map:match id="local-index-display-html" pattern="*/indices/*/*.html">
         <map:aggregate element="aggregation" label="content">

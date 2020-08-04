@@ -152,7 +152,7 @@
                     <lb n="9"/>
                     <placeName type="ethnic"><w>Θρᾳκῶν</w> </placeName>
                     <w lemma="ἐπαρχεία">ἐπαρχείας</w> 
-                    <placeName type="city" ref="listPlaces.xml#Phil">Φιλιππόπολις</placeName>
+                    <placeName type="attested" ref="listPlaces.xml#Phil">Φιλιππόπολις</placeName>
                      <w>τὸν</w>
                     <lb n="10"/>
                     <w>τῆς</w>
@@ -167,7 +167,7 @@
                         <name ref="Onom.xml#Saturninus" nymRef="Σατορνίνος">Σατορνείνου</name></persName>,
                     <lb n="12"/>
                     <w lemma="πρωταρχέω">πρωταρχοῦντος</w> <g type="dot"/>
-                         <persName ref="listemperors.xml#AurApoll" type="official">
+                         <persName ref="listPers.xml#AT016" type="attested">
                         <name nymRef="Αὐρήλιος" ref="Onom.xml#Aurelius"><expan> <abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name> <g type="dot"/>
                              <name ref="Onom.xml#Apollonidus" nymRef="Ἀπολλωνίδος">Ἀπολλωνίδου</name> 
                              <name nymRef="Ἀπολλοδώρος" ref="Onom.xml#Apollodorus">Ἀπολλοδώ<unclear>ρο</unclear><supplied reason="lost">υ</supplied></name> </persName>,

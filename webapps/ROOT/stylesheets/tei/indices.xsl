@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="2.0"
-                xmlns:kiln="http://www.kcl.ac.uk/artshums/depts/ddh/kiln/ns/1.0"
-                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-                xmlns:tei="http://www.tei-c.org/ns/1.0"
-                xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-
+  xmlns:kiln="http://www.kcl.ac.uk/artshums/depts/ddh/kiln/ns/1.0"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:so="http://schema.org/"
+  xmlns:tei="http://www.tei-c.org/ns/1.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  
   <!-- XSLT to convert index metadata and index Solr results into
        HTML. This is the common functionality for both TEI and EpiDoc
        indices. It should be imported by the specific XSLT for the
        document type (eg, indices-epidoc.xsl). -->
-
+  
   <xsl:import href="to-html.xsl" />
-
+  
   <xsl:template match="index_metadata" mode="title">
     <xsl:value-of select="tei:div/tei:head" />
   </xsl:template>
-
+  
   <xsl:template match="index_metadata" mode="head">
     <xsl:apply-templates select="tei:div/tei:head/node()" />
   </xsl:template>
-
+  
   <xsl:template match="tei:div[@type='headings']/tei:list/tei:item">
     <th scope="col">
       <xsl:apply-templates/>
     </th>
   </xsl:template>
-
+  
   <xsl:template match="tei:div[@type='headings']">
     <thead>
       <tr>
@@ -33,17 +34,26 @@
       </tr>
     </thead>
   </xsl:template>
-
+  
   <xsl:template match="result/doc">
     <tr>
       <xsl:apply-templates select="str[@name='index_item_name']" />
       <xsl:apply-templates select="str[@name='index_abbreviation_expansion']"/>
-      <xsl:apply-templates select="str[@name='index_numeral_value']"/>
-      <xsl:apply-templates select="arr[@name='language_code']"/>
+      <xsl:apply-templates select="str[@name='index_numeral_value']"/> <!--shuma-->  
+      <xsl:apply-templates select="str[@name='english_prs_name']"/>
+      <xsl:apply-templates select="str[@name='english_prs_name_en']"/>
+      <xsl:apply-templates select="str[@name='index_name_bg']"/>
+      <xsl:apply-templates select="str[@name='index_name_en']"/>
+      <xsl:apply-templates select="str[@name='english_prs_name_bg']"/>
+      <xsl:apply-templates select="str[@name='title_file']"/>
+      <!-- <xsl:apply-templates select="str[@name='floruit']"/> -->
+      <xsl:if test="str[@name='document_type'] = 'epidoc_attested_index'">
+        <xsl:apply-templates mode="occupation" select="str[@name='index_item_name']" />
+      </xsl:if>
       <xsl:apply-templates select="arr[@name='index_instance_location']" />
     </tr>
   </xsl:template>
-
+  
   <xsl:template match="response/result">
     <table id="example" class="display" style="width:100%">
       <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='headings']" />
@@ -52,17 +62,96 @@
       </tbody>
     </table>
   </xsl:template>
-
+  
   <xsl:template match="str[@name='index_abbreviation_expansion']">
     <td>
       <xsl:value-of select="." />
     </td>
   </xsl:template>
-
+  
+  <!--shuma-->
+  <xsl:template match="str[@name='title_file']">
+    <td>
+      <b><xsl:value-of select="." /></b>
+    </td>
+  </xsl:template>
+  
+  <xsl:template match="str[@name='english_prs_name']">
+    <td>
+      <xsl:value-of select="." />
+    </td>
+  </xsl:template>
+  
+  <xsl:template match="str[@name='english_prs_name_bg']">
+    <td>
+      <b><xsl:value-of select="." /></b>
+    </td>
+  </xsl:template>
+  
+ <!--  <xsl:template match="str[@name='floruit']">
+    <th scope="row">     
+      <xsl:param name="index_type" />
+      <xsl:variable name="rdf-name" select="/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=current()][1]/*[@xml:lang='bg']" />
+      <xsl:choose>
+        <xsl:when test="normalize-space($rdf-name)">
+          <xsl:value-of select="$rdf-name" />
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="."/>
+        </xsl:otherwise>
+      </xsl:choose>  
+    </th>
+  </xsl:template> -->
+  
+  <xsl:template match="str[@name='index_name_bg']">
+    <th scope="row">     
+      <xsl:param name="index_type" />
+      <xsl:variable name="rdf-name" select="/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=current()][1]/*[@xml:lang='bg']" />
+      <xsl:choose>
+        <xsl:when test="normalize-space($rdf-name)">
+          <xsl:value-of select="$rdf-name" />
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="."/>
+        </xsl:otherwise>
+      </xsl:choose>  
+    </th>
+  </xsl:template>
+  
+  <xsl:template match="str[@name='index_name_en']">
+    <th scope="row">     
+      <xsl:param name="index_type" />
+      <xsl:variable name="rdf-name" select="/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=current()][1]/*[@xml:lang='en']" />
+      <xsl:choose>
+        <xsl:when test="normalize-space($rdf-name)">
+          <xsl:value-of select="$rdf-name" />
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="."/>
+        </xsl:otherwise>
+      </xsl:choose>  
+    </th>
+  </xsl:template>
+  
+  <xsl:template match="str[@name='index_item_name]" mode="occupation">
+    <td>
+      <xsl:variable name="index" select="/aggregation/index_names/rdf:RDF" />
+      <xsl:variable name="occupations" select="$index/rdf:Description[@rdf:about=current()]/so:hasOccupation/@rdf:resource"/>
+      <xsl:if test="$occupations">
+        <ul>
+          <xsl:for-each select="distinct-values($occupations)">
+            <li><xsl:value-of select="($index/rdf:Description[@rdf:about=current()]/*[@xml:lang=$language])[1]"/></li>
+          </xsl:for-each>
+        </ul>
+      </xsl:if>
+    </td>
+  </xsl:template>
+  <!--elina-->
+  
   <xsl:template match="str[@name='index_item_name']">
     <th scope="row">
       <!-- Look up the value in the RDF names, in case it's there. -->
-      <xsl:variable name="rdf-name" select="/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=current()][1]/*[@xml:lang=$language][1]" />
+      <xsl:variable name="rdf-name" select="(/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=current()]/*[@xml:lang=$language])[1]" />
       <xsl:choose>
         <xsl:when test="normalize-space($rdf-name)">
           <xsl:value-of select="$rdf-name" />
@@ -73,7 +162,7 @@
       </xsl:choose>
     </th>
   </xsl:template>
-
+  
   <xsl:template match="arr[@name='index_instance_location']">
     <td>
       <ul class="index-instances inline-list">
@@ -81,13 +170,13 @@
       </ul>
     </td>
   </xsl:template>
-
+  
   <xsl:template match="str[@name='index_numeral_value']">
     <td>
       <xsl:value-of select="."/>
     </td>
   </xsl:template>
-
+  
   <xsl:template match="arr[@name='language_code']">
     <td>
       <ul class="inline-list">
@@ -95,18 +184,18 @@
       </ul>
     </td>
   </xsl:template>
-
+  
   <xsl:template match="arr[@name='language_code']/str">
     <li>
       <xsl:value-of select="."/>
     </li>
   </xsl:template>
-
+  
   <xsl:template match="arr[@name='index_instance_location']/str">
     <!-- This template must be defined in the calling XSLT (eg,
          indices-epidoc.xsl) since the format of the location data is
          not universal. -->
     <xsl:call-template name="render-instance-location" />
   </xsl:template>
-
+  
 </xsl:stylesheet>

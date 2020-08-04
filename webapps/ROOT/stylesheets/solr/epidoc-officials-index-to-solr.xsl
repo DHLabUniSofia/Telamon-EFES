@@ -23,6 +23,18 @@
             <xsl:text>_index</xsl:text>
           </field>
           <xsl:call-template name="field_file_path" />
+          
+          <!--shuma-->
+          <field name="index_name_en"> <!-- ocup bg с релация -->
+            <xsl:value-of select="concat($base-uri, @ref)" />
+          </field>
+          
+         <!-- <field name="floruit">  име bg с релация 
+            <xsl:value-of select="concat($base-uri, @ref)" />
+          </field>-->
+         <!-- /shuma-->
+          
+          
           <field name="index_item_name">
             <xsl:value-of select="concat($base-uri, @ref)" />
           </field>

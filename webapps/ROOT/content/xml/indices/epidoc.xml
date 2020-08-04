@@ -22,7 +22,7 @@
     <body>
       <div xml:id="symbol">
         <head>Symbols</head>
-
+        
         <div type="notes">
           <list>
             <item>
@@ -31,10 +31,10 @@
           </list>
         </div>
       </div>
-
+      
       <div xml:id="abbreviation">
         <head>Abbreviations</head>
-
+        
         <div type="headings">
           <list>
             <item>Abbreviation</item>
@@ -42,7 +42,7 @@
             <item>References</item>
           </list>
         </div>
-
+        
         <div type="notes">
           <list>
             <item>
@@ -51,7 +51,7 @@
           </list>
         </div>
       </div>
-
+      
       <!--  <div xml:id="fragment">
         <head>Fragments</head>
 
@@ -71,10 +71,10 @@
           </list>
         </div>
       </div>-->
-
-     <!--   <div xml:id="numeral">
+      
+      <div xml:id="numeral">
         <head>Numerals</head>
-
+        
         <div type="headings">
           <list>
             <item>Numeral</item>
@@ -82,7 +82,7 @@
             <item>References</item>
           </list>
         </div>
-
+        
         <div type="notes">
           <list>
             <item>
@@ -90,8 +90,8 @@
             </item>
           </list>
         </div>
-      </div>-->
-
+      </div>
+      
       <!--<div xml:id="word">
         <head>Words</head>
 
@@ -111,10 +111,10 @@
           </list>
         </div>
       </div>-->
-
+      
       <div xml:id="lemma">
         <head>Lemmata</head>
-
+        
         <div type="headings">
           <list>
             <item>Lemma</item>
@@ -122,7 +122,7 @@
             <item>References</item>
           </list>
         </div>
-
+        
         <div type="notes">
           <list>
             <item>
@@ -131,17 +131,18 @@
           </list>
         </div>
       </div>
-
+      
       <div xml:id="person_name">
         <head>Personal Names</head>
-
+        
         <div type="headings">
           <list>
             <item>Name</item>
+            <item>English</item>
             <item>References</item>
           </list>
         </div>
-
+        
         <div type="notes">
           <list>
             <item>
@@ -173,6 +174,9 @@
         <div type="headings">
           <list>
             <item>Name</item>
+            <item>English</item><!--shuma-->
+           <!--  <item>Floruit</item> -->
+            <item>Occupation/Title</item>  
             <item>References</item>
           </list>
         </div>
@@ -188,7 +192,9 @@
         <head>Attested persons</head>
         <div type="headings">
           <list>
-            <item>Name</item>
+            <item>Name</item>      
+            <item>Bulgarian</item><!--shuma-->
+            <item>Occupation/Title</item>     
             <item>References</item>
           </list>
         </div>
@@ -216,23 +222,7 @@
           </list>
         </div>
       </div>
-      <div xml:id="places">
-        <head>Mentioned places</head>
-        <div type="headings">
-          <list>
-            <item>Place</item>
-            <item>References</item>
-          </list>
-        </div>
-        <div type="notes">
-          <list>
-            <item>
-              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
-            </item>
-          </list>
-        </div>
-      </div>
-     <!--   <div xml:id="localdivine">
+      <div xml:id="localdivine">
         <head>Local divinities</head>
         <div type="headings">
           <list>
@@ -247,7 +237,7 @@
             </item>
           </list>
         </div>
-      </div>-->
-          </body>
+      </div>
+    </body>
   </text>
 </TEI>
