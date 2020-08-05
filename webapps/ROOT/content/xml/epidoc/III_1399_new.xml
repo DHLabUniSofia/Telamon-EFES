@@ -124,7 +124,7 @@
                 </div>
                 <div  type="textpart" n="below">
                 <ab  >
-                   <!-- Ῥοῦφος=Rufus? НЕНАЛИЧНО В Onom.xml--> <lb n="1"/><persName type="attested"><name nymRef="Ῥοῦφος" ref="Onom.xml#Rufus">Ῥοῦφος</name></persName> <w>μετὰ</w> <w>τῆς</w> <w lemma="σύμβιος">συ<supplied reason="lost">μ</supplied>βίου</w> <w lemma="δῶρον">δῶρ<unclear>ον</unclear></w>.
+                   <!-- Ῥοῦφος=Rufus? НЕНАЛИЧНО В Onom.xml--> <lb n="1"/><persName><name nymRef="Ῥοῦφος" ref="Onom.xml#Rufus">Ῥοῦφος</name></persName> <w>μετὰ</w> <w>τῆς</w> <w lemma="σύμβιος">συ<supplied reason="lost">μ</supplied>βίου</w> <w lemma="δῶρον">δῶρ<unclear>ον</unclear></w>.
                 </ab>
                 </div></div>
             <div type="apparatus">

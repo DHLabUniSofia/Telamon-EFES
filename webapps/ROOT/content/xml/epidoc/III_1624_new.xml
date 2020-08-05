@@ -116,10 +116,10 @@
                     <lb n="4" break="no"/>βικῷ</w> <w lemma="Ἀδιαβηνικός">Ἀδιαβηνικῷ</w> <w lemma="Παρθικός">Παρθι
                     <lb n="5" break="no"/>κῷ</w> <w lemma="μέγας">μεγίστῳ</w> <w>κὲ</w> <g type="dot"/> <persName type="emperor" ref="listemperors.xml#Caracalla"><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan></name> <g type="dot"/> <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr>Αὐρ</abbr><ex>ηλίῳ</ex></expan></name> <g type="dot"/> <name ref="Onom.xml#Antoninus" nymRef="Ἀντωνίνος">Ἀντωνεί
                     <lb n="6" break="no"/>νῳ</name></persName> <w lemma="σεβαστός"><expan><abbr>Σεβ<am>β</am></abbr><ex>αστοῖς</ex></expan></w> <w>κὲ</w> <persName type="emperor" ref="listemperors.xml#Geta"><name ref="Onom.xml#Publius" nymRef="Πόπλιος">Πουπλίῳ</name> <name ref="Onom.xml#Septimius" nymRef="Σεπτίμιος">Σεπτι
-                    <lb n="7" break="no"/>μίῳ</name> <name ref="Onom.xml#Geta" nymRef="Γέτα">Γέτᾳ</name></persName> <w lemma="Καῖσαρ">Καίσαρι</w> <placeName ref="listPlaces.xml#AugTr">ἡ Τραιανέ
+                    <lb n="7" break="no"/>μίῳ</name> <name ref="Onom.xml#Geta" nymRef="Γέτα">Γέτᾳ</name></persName> <w lemma="Καῖσαρ">Καίσαρι</w> <placeName ref="listPlaces.xml#AugTr" type="attested">ἡ Τραιανέ
                     <lb n="8" break="no"/>ων πόλις</placeName> <w lemma="μείλιον">μείλιον</w>                            <!-- не знам дали в таг плейснейм да маркирам нещата с <w> -->
             <lb n="9"/><num value="18">ηι</num>      <!-- за това се съмнявам, че е така. -->
-                    <lb n="10"/><w lemma="ἡγεμονεύω">ἡγεμονεύοντος</w> <w>τῆς</w> <w lemma="ἐπαρχεία">ἐπαρ   Καικίνα и Λάργος в Onom.xml -->
+                    <lb n="10"/><w lemma="ἡγεμονεύω">ἡγεμονεύοντος</w> <w>τῆς</w> <w lemma="ἐπαρχεία">ἐπαρ   <!-- Καικίνα и Λάργος в Onom.xml -->
                     <lb n="11" break="no"/>χείας</w> <g type="dot"/> <persName type="official" ref="listemperors.xml#Largus"><name ref="Onom.xml#Gaius" nymRef="Γάιος"><expan><abbr>Γ</abbr><ex>αίου</ex></expan></name> <g type="dot"/> <name ref="Onom.xml#Caecina" nymRef="Καικίνα">Καικίνα</name> <name ref="Onom.xml#Largus" nymRef="Λάργος">Λάργου</name>
                     <lb n="12"/><w lemma="πρεσβευτής"><expan><abbr>πρεσβ</abbr><ex>ευτοῦ</ex></expan></w> <w lemma="σεβαστός"><expan><abbr>Σεβ<surplus>β</surplus></abbr><ex>αστῶν</ex></expan></w> </persName> <g type="dot"/> <w lemma="ἀντιστράτηγος">ἀντιστρατήγου</w>
                 </ab>

@@ -115,7 +115,7 @@
                 <ab>
                     <lb n="1"/>
                     <g type="dot"/>
-                    <persName><name nymRef="Γάιος" ref="Onom.xml#Gaius"><expan><abbr>Γ</abbr><ex>άιος</ex></expan></name>
+                    <persName type="attested" ref="listPers.xml#AT029"><name nymRef="Γάιος" ref="Onom.xml#Gaius"><expan><abbr>Γ</abbr><ex>άιος</ex></expan></name>
                     <g type="dot"/>
                     <name nymRef="Αὐφίδιος" ref="Onom.xml#Aufidius">Αὐφίδιος</name>
                     <name nymRef="Ἡρακλιανός" ref="Onom.xml#Heraclianus">Ἡρακλιανὸς</name></persName>

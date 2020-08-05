@@ -113,13 +113,13 @@
                     <lb n="1"/><w lemma="ἀγαθός "><supplied reason="lost">Ἀ</supplied>γαθῆι</w> <w lemma="τύχη">τύχ<supplied reason="lost">ηι</supplied></w>.
                     <lb n="2"/><w lemma="κύριος">Κυρίῳ</w>
                     <lb n="3"/><persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπιῷ</persName> <persName>Στα<gap reason="lost" extent="3" unit="character"/></persName>
-                    <lb n="4"/><persName><name ref="Onom.xml#Demetrius" nymRef="Δημήτριος">Δημήτριος</name> <name ref="Onom.xml#Dio---ou" nymRef="Διο---ου">Διο<gap reason="lost" extent="3" unit="character"/> <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
+                    <lb n="4"/><persName ref="listPers.xml#AT216"><name ref="Onom.xml#Demetrius" nymRef="Δημήτριος">Δημήτριος</name> <name ref="Onom.xml#Dio---ou" nymRef="Διο---ου">Διο<gap reason="lost" extent="3" unit="character"/> <!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
                     <lb n="5" break="no"/>ου</name> <w>ὁ</w> <w>κὲ</w> <name ref="Onom.xml#Mukinus" nymRef="Μουκινος">Μουκινο<supplied reason="lost">ς</supplied></name></persName> <placeName type="ethnic" ref="listPlaces.xml#Phil"><supplied reason="lost">Φι<!--НЯМА ГО В АВТОРИТЕТНИЯ СПИСЪК-->
                     <lb n="6" break="no"/>λι</supplied><unclear>π</unclear>ποπολίτης</placeName> <w lemma="σύνδικος"><supplied reason="lost">σύν <!--ТУК У МИХАЙЛОВ ИМА ДВЕ ПРЕДПОЛОЖЕНИЯ ЗА ПОПЪЛВАНЕ НА ЛАКУНАТА-->
                     <lb n="7" break="no"/>δι</supplied><unclear>κ</unclear>ος</w> <w>ὑπὲρ</w> <w lemma="ἑαυτοῦ">ἑαυτ<supplied reason="lost">οῦ</supplied></w>
                     <lb n="8"/><w><supplied reason="lost">καὶ</supplied></w> <w>τῶν</w> <w lemma="ἴδιος">ἰδίων</w> <w lemma="εὔχομαι">εὐ<supplied reason="lost">ξάμε</supplied>
                     <lb n="9" break="no"/><supplied reason="lost">νο</supplied><unclear>ς</unclear></w> <w lemma="τίθημι">ἔθηκεν</w>, <w lemma="ἱερεύω">ἱε<supplied reason="lost">ρεύ
-                    <lb n="10" break="no"/>ον</supplied><unclear>τ</unclear>ος</w><persName><name ref="Onom.xml#Mukatralis" nymRef="Μουκατραλις">Μουκατρ<unclear>α</unclear><supplied reason="lost">λε
+                    <lb n="10" break="no"/>ον</supplied><unclear>τ</unclear>ος</w> <persName ref="listPers.xml#AT215" type="attested"><name ref="Onom.xml#Mukatralis" nymRef="Μουκατραλις">Μουκατρ<unclear>α</unclear><supplied reason="lost">λε
                     <lb n="11" break="no"/>ος</supplied></name> <name ref="Onom.xml#Kotys" nymRef="Κοτυς"><supplied reason="lost">Κο</supplied>τυος</name></persName>.
                 </ab>
             </div>

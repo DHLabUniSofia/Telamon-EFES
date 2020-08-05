@@ -121,7 +121,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg>
-                    <!-- името не се намира в Onom.xml --><lb n="1"/><l n="1"><persName type="attested"><name  nymRef="Πραξίλλη" ref="Onom.xml#Praxille">Π<supplied reason="omitted"><!-- UNCLEAR PACKHUM -->ρ</supplied>αξίλλης</name></persName> <w lemma="ὅδε">τόδε</w> 
+                    <!-- името не се намира в Onom.xml --><lb n="1"/><l n="1"><persName><name  nymRef="Πραξίλλη" ref="Onom.xml#Praxille">Π<supplied reason="omitted"><!-- UNCLEAR PACKHUM -->ρ</supplied>αξίλλης</name></persName> <w lemma="ὅδε">τόδε</w> 
                     <w lemma="σῆμα">σῆμα</w> <w lemma="θεουδής">θεουδέος</w>
                     <lb n="2"/><w lemma="εἶδος">εἶδος</w> <w lemma="ἀγαθός">ἀρίστης</w></l> <l n="2"><w>καὶ</w> <w lemma="γενεά">γενεὰν</w> <w lemma="παῖς">παίδων</w>
            <lb n="3"/><w lemma="παῖς">παισὶ</w> <w lemma="λοχεύω">λοχευσαμένης</w></l>

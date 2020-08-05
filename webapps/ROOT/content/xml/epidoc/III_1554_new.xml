@@ -121,7 +121,7 @@
                     <lb n="6" break="no"/>κράτορος</w> <persName type="emperor" ref="listemperors.xml#Severus"><name ref="Onom.xml#Severus" nymRef="Σευουῆρος">Σεουήρου</name></persName> <w lemma="Περτίναξ">Περτίνακος</w>
                     <lb n="7"/><w lemma="σεβαστός">σεβαστοῦ</w> <w>ἡ</w> <w lemma="βουλή">βουλὴ</w> <w>καὶ</w> <w>ὁ</w> <w lemma="δῆμος">δῆμος</w>
                     <lb n="8"/><placeName type="ethnic" ref="listPlaces.xml#AugTr">Τραιανέων</placeName>, <w lemma="ἡγεμονεύω">ἡγεμονεύοντος</w>
-                    <lb n="9"/><persName type="attested" ref="listemperors.xml#Barbarus"><name ref="Onom.xml#" nymRef="Στατείλιος">Στατειλίου</name> <name ref="Onom.xml#Barbarus" nymRef="Βάρβαρος">Βαρβάρου</name></persName> <!--ИМЕНАТА ГИ НЯМА В АВТОРИТЕТНИЯ СПИСЪК-->
+                    <lb n="9"/><persName type="official" ref="listemperors.xml#Barbarus"><name ref="Onom.xml#" nymRef="Στατείλιος">Στατειλίου</name> <name ref="Onom.xml#Barbarus" nymRef="Βάρβαρος">Βαρβάρου</name></persName> <!--ИМЕНАТА ГИ НЯМА В АВТОРИТЕТНИЯ СПИСЪК-->
                     <w lemma="ὕπατος">ὑπάτου</w>
                     <lb n="10"/><w lemma="ἀποδείκνυμι">ἀποδεδειγμένου</w>, <space extent="unknown" unit="character"/>
                     <lb n="11"/><w>ἐπὶ</w> <w lemma="συναρχία">συναρχία<supplied reason="omitted">ς</supplied></w> <persName type="attested" ref="listPers.xml#AT131"><name ref="Onom.xml#Septimius" nymRef="Σεπτίμιος">Σεπτιμίου</name> <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος"><expan><abbr>Αὐ</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>ηλίου</ex></supplied></expan></name>

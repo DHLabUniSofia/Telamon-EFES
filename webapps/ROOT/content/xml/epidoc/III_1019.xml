@@ -119,7 +119,7 @@
                  <lg type="elegiac_distich">
                     <lb n="1"/><l n="1"><persName type="attested" ><name ref="Onom.xml#Victor" nymRef="Βίκτωρ">Βίκτωρ</name></persName>  <w lemma="σκευᾶς">σκευᾶς</w>
                         <w lemma="ἐνθάδε">ἐνθάδε</w> <w lemma="κεῖμαι">κεῖμαι</w>, <w lemma="πατρίς">πατρὶς</w>
-                    <lb n="2"/><w>δέ</w> <w lemma="ἐγώ">μου</w> <placeName ref="listPlaces.xml#Solun">Θεσσαλονείκη</placeName>· </l> 
+                    <lb n="2"/><w>δέ</w> <w lemma="ἐγώ">μου</w> <placeName ref="listPlaces.xml#Solun" type="attested">Θεσσαλονείκη</placeName>· </l> 
                                 <l n="2"><w lemma="κτείνω">ἔκτεινέ</w> <w lemma="ἐγώ">με</w> <w lemma="δαίμων">δαί                    
                     <lb n="3" break="no"/>μων</w>, <w>οὐχ</w> <w>ὁ</w> <w lemma="ἐπίορκος">ἐπίορκος</w> 
                         <persName type="attested"><name ref="Onom.xml#Pinnas" nymRef="Πιννας">Πιννας</name></persName>·</l>  <l n="3"><w lemma="μηκέτι">μηκέτι</w>                    

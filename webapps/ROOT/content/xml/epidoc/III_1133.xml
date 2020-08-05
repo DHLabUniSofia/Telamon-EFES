@@ -128,8 +128,8 @@
                         <name>Ἀσκληπιῷ</name></persName>
                            <persName ref="listPers.xml#AT125" type="attested">
                                <name nymRef="Σεβαστιανός" ref="Onom.xml#Sebastianus">Σεβαστια<unclear>ν</unclear><supplied reason="lost">ὸς</supplied></name>
-                    <lb n="2"/> <persName ref="listPers.xml#AT126" type="attested">
-                        <name nymRef="Μουκατραλις" ref="Onom.xml#Mukatralis">Μουκατραλεος</name></persName></persName> <placeName type="ethnic">Γ<unclear cert="low">υρ</unclear>ταζυνηνος</placeName> 
+                    <lb n="2"/> 
+                        <name nymRef="Μουκατραλις" ref="Onom.xml#Mukatralis">Μουκατραλεος</name></persName> <placeName type="ethnic">Γ<unclear cert="low">υρ</unclear>ταζυνηνος</placeName> 
                     <w lemma="βουλευτής"><expan><abbr>βουλε</abbr><ex>υτὴς</ex></expan></w> 
                     <lb n="3"/> <w lemma="γίγνομαι">γ<unclear>εν</unclear>έσθαι</w> <w lemma="θεός">θεοῦ</w> <w lemma="σημαίνω">ἐ<unclear>σ</unclear>ήμηνεν</w> <w>ἀπ’</w> 
                     <w lemma="ἀρχή">ἀρχῆς</w> <w>καὶ</w>

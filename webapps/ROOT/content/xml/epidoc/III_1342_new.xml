@@ -115,7 +115,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <!-- Eptecaenthus -Επταικενθος --><lb n="1"/><persName type="attested"><name nymRef="Επταικενθος" ref="Onom.xml#Eptecaenthus">Επτεκε<add place="above" rend="smaller">ν</add>θος</name>
+                    <!-- Eptecaenthus -Επταικενθος --><lb n="1"/><persName><name nymRef="Επταικενθος" ref="Onom.xml#Eptecaenthus">Επτεκε<add place="above" rend="smaller">ν</add>θος</name>
                         <name ref="Onom.xml#Beithus" nymRef="Βειθυς" type="patronym">Βιθυος</name></persName>
                     <lb n="2" /><persName type="divine" ref="listDivine.xml#Nymphs">Νύ<supplied reason="omitted">μ</supplied>φαις</persName> <w lemma="εὐχή">εὐχήν</w>
                 </ab>

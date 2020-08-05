@@ -137,11 +137,11 @@
                             <name ref="Onom.xml#Aurelius" nymRef="Αὐρήλιος">Αὐρηλίου</name>
                             <name ref="Onom.xml#Verus" nymRef="Οὐῆρος">Οὐή
                     <lb n="5" break="no"/>ρου</name></persName> <w lemma="Αρμενιάκος">Ἀρμενιακῶν</w>
-                        <persName>
+                        <persName type="attested" ref="listPers.xml#AT135">
                             <name nymRef="Φιλίσκος" ref="Onom.xml#Filiscus">Φιλίσκος</name></persName> <w>καὶ</w> <!--ИМЕТО ФИЛИСК ГО НЯМА В АВТОРИТЕТНИЯ СПИСЪК-->
-                        <persName>
-                            <name ref="Onom.xml#Gaius" nymRef="Γάιος">Γάιος</name></persName> 
-                    <lb n="6"/><w>οἱ</w> <persName><name ref="Onom.xml#Marcus" nymRef="Μᾶρκος">Μάρκου</name></persName> <w>τῇ</w> <w lemma="φυλή">φυλῇ</w> <w>τῇ</w> <w lemma="ἱερός">ἱερᾷ</w> <w lemma="ἀνατίθημι">ἀ
+                        <persName type="attested" ref="listPers.xml#AT139">
+                            <name ref="Onom.xml#Gaius" nymRef="Γάιος">Γάιος</name> 
+                    <lb n="6"/><w>οἱ</w> <name ref="Onom.xml#Marcus" nymRef="Μᾶρκος">Μάρκου</name></persName> <w>τῇ</w> <w lemma="φυλή">φυλῇ</w> <w>τῇ</w> <w lemma="ἱερός">ἱερᾷ</w> <w lemma="ἀνατίθημι">ἀ
                     <lb n="7" break="no"/>νέθηκαν</w> <w>Ἀρτεμεισιάδι</w> <w>μετὰ</w> <w lemma="ἱερωσύνη">ἱε   <!--НЕ СЪМ СИГУРНА КАКВО Е Ἀρτεμεισιάδι В ТОЗИ НАДПИС. ИМЕТО НА ФИЛАТА?-->
                     <lb n="8" break="no"/>ρωσύνην</w>, <g type="leaf"/> <w lemma="ἐκδικέω">ἐκδικοῦντος</w> 
                         <persName type="attested" ref="listPers.xml#AT133">

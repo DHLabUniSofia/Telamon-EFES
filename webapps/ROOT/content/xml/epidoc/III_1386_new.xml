@@ -113,7 +113,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Μουκατραλις" ref="Onom.xml#Mukatralis">Μουκατραλις</name></persName>
+                    <lb n="1"/><persName><name nymRef="Μουκατραλις" ref="Onom.xml#Mukatralis">Μουκατραλις</name></persName>
                     <lb n="2"/><w lemma="εὐχή">εὐχήν</w>
                 </ab>
             </div>

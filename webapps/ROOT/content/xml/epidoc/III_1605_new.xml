@@ -110,7 +110,7 @@
                 <ab>
                     <lb n="1"/><w lemma="ἀγαθός">ἀγαθῇ</w> <w lemma="τύχη">τύχῃ</w>
                     <lb n="2"/><persName><name ref="Onom.xml#Aurelia" nymRef="Αὐρηλία"><expan><abbr>Αὐρ</abbr><ex>ηλία</ex></expan></name> <name ref="Onom.xml#Crispina" nymRef="Κρισπεῖνα">Κρισπεῖνα</name></persName>
-                    <lb n="3"/><persName type="attested"><name ref="Onom.xml#Iulianus" nymRef="Ἰουλιανός">Ἰουλιανοῦ</name></persName> <w lemma="ἑαυτοῦ">ἑαυ
+                    <lb n="3"/><persName><name ref="Onom.xml#Iulianus" nymRef="Ἰουλιανός">Ἰουλιανοῦ</name></persName> <w lemma="ἑαυτοῦ">ἑαυ
                     <lb n="4" break="no"/>τῇ</w> <w>καὶ</w> <w>τῇ</w> <w lemma="θυγάτηρ">θυγα
                     <lb n="5" break="no"/>τρὶ</w> <w lemma="ἑαυτοῦ">ἑαυτῆς</w> <persName><name ref="Onom.xml#Celsina" nymRef="Κελσεῖνα">Κελ
                     <lb n="6" break="no"/>σείνᾳ</name></persName> <w>τὴν</w> <w lemma="στήλη">στήλ       <!-- така беше дадено в PHI (става въпрос за <surplus> не при Михайлов и мисля, че д-р Илиев каза че там е по-вярно. -->

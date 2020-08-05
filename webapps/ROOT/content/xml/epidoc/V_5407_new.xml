@@ -119,7 +119,7 @@
                     <lb n="3"/> <w lemma="ἡγεμονεύω">ἡγεμονεύσαντα</w>
                     <lb n="4"/> <w>τῆς</w> <w lemma="Θρᾷξ">Θρᾳκῶν</w> <w lemma="ἐπαρχία">ἐπαρ 
                     <lb n="5" break="no"/>χείας</w> <w>τὸν</w> <w lemma="μέγας">μέγαν</w> 
-                    <lb n="6"/> <w lemma="ὑπατικός">ὑπατικὸν</w> <persName ref="listPers.xml#AT317" type="official"> <name ref="Onom.xml#Publius" nymRef="Πόπλιος"><expan><abbr>Πό</abbr><ex>πλιος</ex></expan></name> 
+                    <lb n="6"/> <w lemma="ὑπατικός">ὑπατικὸν</w> <persName ref="listPers.xml#AT317" type="attested"> <name ref="Onom.xml#Publius" nymRef="Πόπλιος"><expan><abbr>Πό</abbr><ex>πλιος</ex></expan></name> 
                         <name nymRef="Ἁδριάνιος" ref="Onom.xml#Adrianius"> <expan><abbr>Ἁδρι
                     <lb n="7" break="no"/>άν</abbr><ex>ιος</ex></expan></name> <name nymRef="Σαλλούστιος" ref="Onom.xml#Sallustius">Σαλλούστι<supplied reason="lost">ος</supplied></name></persName>
                     <lb n="8"/> <w lemma="ἀρχιερεύς">ἀρχιερεὺς</w> <w>δι’</w> <w lemma="ὅπλον">ὅπλω̣<supplied reason="lost">ν</supplied></w> 

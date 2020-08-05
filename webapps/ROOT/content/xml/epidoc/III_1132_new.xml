@@ -114,7 +114,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName><name ref="Onom.xml#Claudius" nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name></persName> <g type="dot"/> <persName type="attested"><name ref="Onom.xml#Spartocus" nymRef="Σπαρτοκος">Σπαρτοκος</name></persName> <w lemma="κύριος">κυρίῳ</w> <persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπιῷ</persName> 
+                    <lb n="1"/><persName><name ref="Onom.xml#Claudius" nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name> <g type="dot"/> <name ref="Onom.xml#Spartocus" nymRef="Σπαρτοκος">Σπαρτοκος</name></persName> <w lemma="κύριος">κυρίῳ</w> <persName type="divine" ref="listDivine.xml#Asclepius">Ἀσκληπιῷ</persName> 
                     <w>καὶ</w> <persName type="divine" ref="listDivine.xml#Hygia">Ὑγίᾳ</persName> <w>καὶ</w> <persName type="divine" ref="listDivine.xml#Telesphorus">Τε̣
                     <lb n="2" break="no"/>λεσφόρῳ</persName> <persName type="divine" ref="listDivine.xml#Zymzdrenus">Ζυσδρηνοις</persName> <w>ὑπὲρ</w> <w>τοῦ</w> 
                     <w lemma="υἱός">υἱοῦ</w> <persName><name ref="Onom.xml#Remetalkes" nymRef="Ρυμεταλκος">Ρυμεταλκου</name></persName>
