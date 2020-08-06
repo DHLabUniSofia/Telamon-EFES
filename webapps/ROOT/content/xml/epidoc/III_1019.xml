@@ -117,7 +117,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                  <lg type="elegiac_distich">
-                    <lb n="1"/><l n="1"><persName type="attested" ><name ref="Onom.xml#Victor" nymRef="Βίκτωρ">Βίκτωρ</name></persName>  <w lemma="σκευᾶς">σκευᾶς</w>
+                    <lb n="1"/><l n="1"><persName type="attested" ref="listPers.xml#AT132"><name ref="Onom.xml#Victor" nymRef="Βίκτωρ">Βίκτωρ</name></persName>  <w lemma="σκευᾶς">σκευᾶς</w>
                         <w lemma="ἐνθάδε">ἐνθάδε</w> <w lemma="κεῖμαι">κεῖμαι</w>, <w lemma="πατρίς">πατρὶς</w>
                     <lb n="2"/><w>δέ</w> <w lemma="ἐγώ">μου</w> <placeName ref="listPlaces.xml#Solun" type="attested">Θεσσαλονείκη</placeName>· </l> 
                                 <l n="2"><w lemma="κτείνω">ἔκτεινέ</w> <w lemma="ἐγώ">με</w> <w lemma="δαίμων">δαί                    

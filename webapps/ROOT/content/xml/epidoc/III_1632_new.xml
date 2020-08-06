@@ -116,9 +116,9 @@
                    <l n="2"> <lb n="2"/><w lemma="τέρμα">τέρμα</w> <w lemma="ἑός">ἑὸν</w> <w lemma="πίμπλημι">πλήσαντα</w> <w lemma="παῖς">πάϊς</w> <w>διεδέξατ’</w> <w lemma="ὅμοιος">ὁμοίως</w></l>
                    <l n="3"> <lb n="3"/><w lemma="ζηλόω">ζηλώσας</w> <w lemma="στρατιά">στρατιῆς</w> <w lemma="ἐλπίς">ἐλπίδα</w> <w>τὴν</w> <w lemma="γονεύς">γονέων</w>·</l>
                    <l n="4"> <lb n="4"/><w>τοῦ</w> <w lemma="χάρις">χάριν</w> <w lemma="ἀνίστημι">ἄνστησαν</w> <w lemma="ἀμφότερος">ἀμφοτέρω</w> <w lemma="τοκεύς">τοκέας</w>.</l>
-                    <l n="5"><lb n="5"/><w lemma="πατήρ">πατρὶ</w> <w>μὲν</w> <w>οὖν</w> <w lemma="εἰμί">ἐστὶν</w> <w lemma="οὔνομα">οὔνομα</w> <persName ref="listPers.xml#AT601" type="attested"><name nymRef="Διοφάνης" ref="Onom.xml#Diophanes">Διοφάνης</name></persName></l>   <!-- Мисля, че е войник, но не съм сигурна... -->
+                    <l n="5"><lb n="5"/><w lemma="πατήρ">πατρὶ</w> <w>μὲν</w> <w>οὖν</w> <w lemma="εἰμί">ἐστὶν</w> <w lemma="οὔνομα">οὔνομα</w> <persName><name nymRef="Διοφάνης" ref="Onom.xml#Diophanes">Διοφάνης</name></persName></l>   <!-- Мисля, че е войник, но не съм сигурна... -->
                     <l n="6"><lb n="6"/><w lemma="κεδνός">κεδνὴν</w> <w>δὲ</w> <w lemma="καλέω">καλέουσιν</w> <w lemma="μήτηρ">μητέρα</w> <persName><name ref="Onom.xml#Candidea" nymRef="Κανδίδεα">Κανδίδεαν</name></persName>,</l>
-                    <l n="7"><lb n="7"/><w>αὑτὸν</w> <w>δ’</w> <w>ἐμ</w> <w>μέσσοισι<supplied reason="omitted">ν</supplied></w> <persName><name ref="Onom.xml#Valentinus" nymRef="Οὐαλεντεῖνος">Οὐαλεντεῖ
+                    <l n="7"><lb n="7"/><w>αὑτὸν</w> <w>δ’</w> <w>ἐμ</w> <w>μέσσοισι<supplied reason="omitted">ν</supplied></w> <persName ref="listPers.xml#AT601" type="attested"><name ref="Onom.xml#Valentinus" nymRef="Οὐαλεντεῖνος">Οὐαλεντεῖ
                     <lb n="8" break="no"/>νον</name></persName> <w>μ’</w> <w lemma="εἰσοράω">ἐσορᾶτε</w>.</l><!-- тук сложи гръцкия текст -->
                 </lg>
             </div>

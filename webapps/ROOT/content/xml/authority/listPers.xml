@@ -67,6 +67,11 @@
                <catDesc xml:lang="bg">войник</catDesc>
                <catDesc xml:lang="grc">ἀσπιδιώτης</catDesc> 
             </category>
+            <category xml:id="taxonomy-occupation-scevas">
+               <catDesc xml:lang="en">...</catDesc>
+               <catDesc xml:lang="bg">...</catDesc>
+               <catDesc xml:lang="grc">σκευᾶς</catDesc> 
+            </category>
             <category xml:id="taxonomy-occupation-ordinant">
                <catDesc xml:lang="en">thief collector</catDesc>
                <catDesc xml:lang="bg">...</catDesc>
@@ -85,7 +90,12 @@
             <category xml:id="taxonomy-occupation-horotetes">
                <catDesc xml:lang="en">border control</catDesc>
                <catDesc xml:lang="bg">граничар</catDesc>
-               <catDesc xml:lang="grc">ὁροθέτης</catDesc>  
+               <catDesc xml:lang="grc">ὁροθέτης</catDesc> 
+            </category>
+            <category xml:id="taxonomy-occupation-gramm">
+               <catDesc xml:lang="en">secretarian</catDesc>
+               <catDesc xml:lang="bg">секретар</catDesc>
+               <catDesc xml:lang="grc">γραμματεύς</catDesc>  
             </category>
             <category xml:id="taxonomy-occupation-judge">
                <catDesc xml:lang="en">judge</catDesc>
@@ -140,7 +150,7 @@
             <category xml:id="taxonomy-occupation-cavalry">
                <catDesc xml:lang="en">leader of the cavalry</catDesc>
                <catDesc xml:lang="bg">предводител на кавалерията</catDesc>               
-               <catDesc xml:lang="grc">ἀρχιερεύς ὅπλω̣ν</catDesc>           
+               <catDesc xml:lang="grc">ἀρχιερεύς ὅπλων</catDesc>           
             </category>
             <category xml:id="taxonomy-occupation-decanus">
                <catDesc xml:lang="en">decanus</catDesc>
@@ -343,6 +353,12 @@
                <persName xml:lang="bg"></persName>
                <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-thrac"/>
             </person>  
+            <person xml:id="AT032">
+               <persName xml:lang="grc">Βίκτωρ</persName>
+               <persName xml:lang="en">Victor</persName>
+               <persName xml:lang="bg"></persName>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-scevas"/>
+            </person>
             <person xml:id="AT119">
                <persName xml:lang="grc">Πόπλιος Αἴλιος Διοσκουρίδης</persName>
                <persName xml:lang="en">Publius Aelius Dioscurides</persName>
@@ -408,13 +424,13 @@
                <persName xml:lang="grc">Μάξιμος Σουσίων</persName>
                <persName xml:lang="en">Maximus Susion</persName>
                <persName xml:lang="bg"></persName>
-               <occupation></occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-gramm"/>
             </person>
             <person xml:id="AT138">
                <persName xml:lang="grc">Αὖλος Ἄλκιος Φροντῖνος</persName>
                <persName xml:lang="en">Aulus Alcius Frontinus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>γραμματεύς</occupation>
+               <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-gramm"/>
             </person>
             <person xml:id="AT139">
                <persName xml:lang="grc">Γάιος Μάρκου</persName>
@@ -510,7 +526,6 @@
                <persName xml:lang="grc">Αὐρήλιος Ἀσκληπιόδοτος</persName>
                <persName xml:lang="en">Aurelius Asclepiodotus</persName>
                <persName xml:lang="bg"></persName>
-               <occupation>βουλευτής, γερουσιαστής</occupation>
                <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-buleutes"/>
                <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-gerusiast"/>
             </person>
@@ -527,8 +542,8 @@
                <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-priest"/>
             </person>
             <person xml:id="AT601">
-               <persName xml:lang="grc">Διοφάνης</persName>
-               <persName xml:lang="en">Diophanes</persName>
+               <persName xml:lang="grc">Οὐαλεντεῖνος</persName>
+               <persName xml:lang="en">Valentinus</persName>
                <persName xml:lang="bg"></persName>
                <occupation scheme="#taxonomy-occupation" code="#taxonomy-occupation-veteran"/>
             </person>
